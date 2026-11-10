@@ -1,0 +1,51 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4462143977
+title: Backend Developer – AI Platform
+company: Systems Limited
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:58:36+00:00
+query: python developer
+---
+Backend Developer – AI Platform at Systems Limited Develop scalable backend services and microservices powering multi-tenant RAG and agentic AI platforms using Python/.NET, FastAPI/Node.js, Azure cloud services, Redis, Cosmos DB, Azure AI Search, and Azure AI Foundry, with a strong focus on API security, real-time communication, observability, reliability, and production-ready AI integrations.
+Responsibilities:
+- Design, develop, and maintain scalable backend services and microservices for multi-tenant AI and agentic platforms
+- Build secure, scalable, and reliable multi-tenant APIs using Python/.NET and FastAPI/Node.js
+- Implement authentication and authorization flows using Microsoft Entra ID and MSAL
+- Design and implement Retrieval-Augmented Generation (RAG) pipelines including document ingestion, embeddings, chunking, indexing, and re-ranking
+- Integrate Azure AI Search to support semantic and vector-based retrieval capabilities
+- Develop session, state, and memory management solutions using Redis
+- Implement real-time communication and event-driven capabilities using Azure Web PubSub and Cosmos DB streams
+- Integrate OpenAI and Azure OpenAI models through Azure AI Foundry APIs
+- Develop robust API security mechanisms, including authentication, authorization, validation, and secure service-to-service communication
+- Implement telemetry, logging, monitoring, exception handling, and application diagnostics across backend services
+- Build and deploy backend workloads using Azure App Service and Azure Functions
+- Work with Cosmos DB to design scalable data storage and retrieval solutions for AI workloads
+- Secure application secrets, credentials, and configuration using Azure Key Vault
+- Develop containerized applications and support CI/CD pipelines using GitHub-based workflows
+- Troubleshoot production issues, perform root cause analysis, and implement reliable fixes
+- Collaborate with AI/ML, frontend, DevOps, QA, and product teams to deliver end-to-end platform capabilities
+- Optimize backend services for scalability, performance, reliability, and cost efficiency
+- Follow software engineering, security, cloud-native, and AI platform development best practices
+Requirements:
+- 4–8 years of strong hands-on experience in backend software development
+- Strong programming experience with Python and/or .NET
+- Hands-on experience with FastAPI and/or Node.js for backend API development
+- Strong understanding of RESTful API design, microservices architecture, and distributed systems
+- Experience building multi-tenant applications and implementing tenant isolation and access control
+- Strong experience with authentication and authorization using Microsoft Entra ID and MSAL
+- Practical experience implementing Retrieval-Augmented Generation (RAG) solutions and AI-powered backend services
+- Strong understanding of RAG concepts including embeddings, document chunking, vector search, retrieval, and re-ranking
+- Hands-on experience with Azure AI Search and vector/semantic search capabilities
+- Experience integrating OpenAI or Azure OpenAI models through Azure AI Foundry
+- Strong experience with Redis for caching, session management, state management, or conversational memory
+- Experience implementing real-time communication using Web PubSub, WebSockets, or similar technologies
+- Experience working with Cosmos DB and event/stream-based data processing
+- Hands-on experience with Azure services such as App Service, Functions, Cosmos DB, Redis, Web PubSub, and Key Vault
+- Strong understanding of API security, secure configuration management, error handling, and input validation
+- Experience with application telemetry, logging, monitoring, and observability
+- Experience with containerization and deployment of backend services
+- Strong understanding of CI/CD pipelines and GitHub-based development workflows
+- Experience with Git, branching strategies, pull requests, and collaborative software development
+- Strong troubleshooting, problem-solving, and debugging skills
+- Ability to work effectively in a fast-paced environment and collaborate with cross-functional technical teams
+- Experience building production-grade AI platforms, agentic applications, or LLM-powered solutions is highly preferred

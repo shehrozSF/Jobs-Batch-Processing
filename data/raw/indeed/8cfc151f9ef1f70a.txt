@@ -1,0 +1,64 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=8cfc151f9ef1f70a
+title: Python Developer
+company: Hitapps
+location: Remote
+scraped_at: 2026-09-04T04:07:22+00:00
+query: python developer
+---
+Hitapps is a GameDev company specializing in Puzzle Games. We have several successful products in both categories with a combined total of over 150M+ downloads, and we are regularly featured in the top charts in the Games section.
+Our culture is built on transparency, we are results-oriented and respect the improvement.
+Currently, we are seeking a skilled Python Developer to design and build the backend systems of our internal AI platform.
+Your Role:
+-
+Design and develop Python services and platform REST APIs;
+-
+Build and maintain data processing pipelines;
+-
+Develop integrations with internal data sources;
+-
+Implement search and AI-powered workflows on top of the platform;
+-
+Build tooling for measuring and maintaining system quality;
+-
+Own service deployment and operations at launch;
+-
+Participate in roadmap planning and architectural decision-making.
+What makes you a perfect fit?
+-
+Proficient in Python;
+-
+Experience in building backend services and designing REST APIs (FastAPI / Django REST / Flask);
+-
+Experience with relational databases (Postgres / MySQL);
+-
+Experience with queues and background tasks (Celery / RabbitMQ / Kafka);
+-
+Redis (caching, queues, pub/sub);
+-
+Third-party API integrations: REST, OAuth, webhooks;
+-
+Docker, working with S3-compatible storage;
+-
+Testing culture (pytest), PR/code review workflow, understanding of CI/CD and observability;
+Will be a plus:
+-
+RAG systems, embeddings, vector databases (pgvector);
+-
+Working with LLM APIs (Anthropic, OpenAI): prompting, tool calling;
+-
+Agent frameworks (LangChain, LlamaIndex, LangGraph);
+-
+LLM evaluation frameworks (RAGAS, deepeval);
+-
+AI rapid prototyping tools (Streamlit, Gradio);
+-
+Modern Python tooling (ruff, uv, pyproject.toml, pyright).
+What we offer:
+Competitive compensation
+100% recovering for vacations, sick leaves;
+12 additional paid day offs per year;
+Budget for personal education, language courses & sports activities;
+Conference attendance: you can join top industry events;
+Zero bureaucracy and a supportive, transparent culture.
+Let’s create hits together!

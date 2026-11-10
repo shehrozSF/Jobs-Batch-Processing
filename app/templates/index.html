@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+<form action="/batches" method="post" enctype="multipart/form-data">
+  <p>Upload job postings, one <code>.txt</code> file per posting.</p>
+  <input type="text" name="name" placeholder="batch name" value="upload">
+  <input type="file" name="files" accept=".txt" multiple required>
+  <button type="submit">Start batch</button>
+</form>
+
+<table>
+  <tr><th>Batch</th><th>Jobs</th><th>Done</th><th>Dead</th><th>Cost</th></tr>
+  {% for b in batches %}
+  <tr>
+    <td><a href="/batches/{{ b.id }}">#{{ b.id }} {{ b.name }}</a></td>
+    <td>{{ b.total }}</td>
+    <td>{{ b.percent }}%</td>
+    <td>{{ b.counts.dead }}</td>
+    <td>${{ "%.4f"|format(b.cost_usd) }}</td>
+  </tr>
+  {% else %}
+  <tr><td colspan="5">No batches yet.</td></tr>
+  {% endfor %}
+</table>
+{% endblock %}

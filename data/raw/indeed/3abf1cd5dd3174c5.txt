@@ -1,0 +1,25 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=3abf1cd5dd3174c5
+title: Senior Software Engineer | AI & Python
+company: Texinity Technologies
+location: Islamabad
+scraped_at: 2026-09-04T05:34:01+00:00
+query: python developer
+---
+Company Description Texinity Technologies (SMC-PVT) LTD. is a multidisciplinary technology company providing services in web and mobile app development, graphic design, digital marketing, IoT, and 3D printing. The team collaborates across these domains to deliver integrated solutions for clients in diverse industries. Working at Texinity offers exposure to modern technologies and creative problem-solving in both software and hardware spaces. Team members are encouraged to innovate, learn continuously, and contribute to products and services that blend design, engineering, and advanced digital experiences.
+Role Description The Senior AI and Python Engineer will work full time on-site at the Texinity office in Islamabad. This role is responsible for designing, developing, and deploying AI-driven solutions, including machine learning models, data pipelines, and intelligent features for web and mobile applications. Day-to-day tasks include writing clean, efficient Python code, integrating AI services with existing systems, performing data preprocessing and model optimization, and conducting code reviews for other engineers. The engineer will collaborate with product managers, designers, and development teams to translate business requirements into technical solutions, troubleshoot production issues, and improve system performance and reliability. The role also involves mentoring junior team members, contributing to technical documentation, and staying current with advances in AI frameworks, tools, and best practices to continuously enhance Texinity’s offerings.
+Qualifications
+- Strong proficiency in Python and its ecosystem (e.g., virtual environments, packaging, testing frameworks).
+- Hands-on experience with AI and machine learning frameworks (such as TensorFlow, PyTorch, scikit-learn) and model deployment.
+- Solid understanding of data structures, algorithms, software architecture, and design patterns.
+- Experience building and integrating RESTful APIs and microservices for web and mobile applications.
+- Practical knowledge of data engineering concepts, including data preprocessing, ETL, and working with relational and NoSQL databases.
+- Familiarity with cloud platforms (e.g., AWS, Azure, GCP) and containerization tools (Docker, Kubernetes) for scalable AI solutions.
+- Strong debugging, performance optimization, and code review skills in collaborative development environments (Git-based workflows).
+- Ability to work cross-functionally with design, marketing, and hardware/IoT teams, communicating complex technical ideas clearly.
+- Experience mentoring engineers, leading technical initiatives, and contributing to architectural decisions.
+- Bachelor’s or Master’s degree in Computer Science, Software Engineering, AI, Data Science, or a related field, or equivalent practical experience.
+- Previous industry experience in AI-driven products, digital platforms, or IoT solutions is highly advantageous. Pay: Rs300,000.00 - Rs450,000.00 per month
+Application Question(s):
+- Must be available for an on-site interview. Location:
+- Islamabad (Required) Work Location: In person

@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/texas-lab-technologies-senior-graphic-designer-uiux-developer-jobs-1869176
+title: Senior Graphic Designer & UI/UX Developer
+company: Texas Lab Technologies Ltd
+location: Pakistan
+scraped_at: 2026-09-04T04:58:51+00:00
+query: python developer
+---
+
+Texas Lab Technologies is looking for a highly skilled Senior Graphic Designer & UI/UX Developer with at least eight years of professional experience in graphic design and user interface development. This full-time remote role requires an expert-level proficiency in Figma and a strong command of Adobe Creative Suite tools including Photoshop, Illustrator, InDesign, and Lightroom. The successful candidate will create visually compelling graphics and design engaging, user-friendly digital interfaces for various web applications, websites, and platforms.
+
+As a key member of the creative team, the Senior Graphic Designer & UI/UX Developer will collaborate closely with development and marketing departments to produce innovative and responsive designs that enhance brand identity and improve overall user engagement. The role demands a creative professional who is detail-oriented, highly organized, and capable of delivering high-quality visual and interactive design work aligned with modern web standards and best practices.
+
+

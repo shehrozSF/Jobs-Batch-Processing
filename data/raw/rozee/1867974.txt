@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/montrose-solicitors-it-developer-nottinghamshire-jobs-1867974
+title: IT Developer
+company: Montrose Solicitors
+location: Nottinghamshire
+scraped_at: 2026-09-04T04:55:41+00:00
+query: python developer
+---
+
+Montrose Solicitors is seeking an experienced IT Developer with a strong background in software development and coding to join our technology team. The ideal candidate possesses proficiency in the Software Development Life Cycle, Database Management, and artificial intelligence concepts, with at least five years of experience in relevant roles. English proficiency is mandatory to ensure effective communication within the team and across departments. This position focuses on developing high-quality software solutions tailored to meet the firm’s operational and client service needs.
+
+The IT Developer collaborates closely with project managers, business analysts, and other IT professionals to design, build, test, and deploy software applications. This role requires meticulous attention to detail and a deep understanding of coding best practices to maintain and enhance the firm’s software infrastructure. Although this role does not involve managing a team, it demands strong individual contributor skills and the ability to work effectively within a multidisciplinary team environment.
+
+

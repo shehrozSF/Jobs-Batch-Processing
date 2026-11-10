@@ -1,0 +1,85 @@
+source: rozee
+url: https://www.rozee.pk/tech-trade-technical-project-lead-jobs-1870791
+title: Technical Project Lead
+company: TEch Trade
+location: Islamabad, Pakistan
+scraped_at: 2026-09-04T04:17:01+00:00
+query: python developer
+---
+Location: Islamabad
+Compensation: PKR 30,000–50,000/month
+Position: Technical Project Lead
+About the Opportunity
+We are looking for a highly motivated and capable individual to take on a Technical Project Lead position within a growing professional team.
+This is a selective opportunity for someone who wants to move beyond simply completing development tasks and take genuine responsibility for technology, project execution, team coordination and product development .
+The successful candidate will work closely with senior leadership and will have the opportunity to build and lead a team of developers, interns and trainees.
+Key Responsibilities
+- Lead day-to-day technical development activities
+- Translate requirements into clear technical tasks
+- Plan development milestones and project timelines
+- Coordinate developers, interns and trainees
+- Review code and development work
+- Maintain GitHub repositories and development workflows
+- Help establish appropriate technical standards and processes
+- Identify technical issues and provide practical solutions
+- Participate in technical hiring and candidate evaluation
+- Mentor junior developers and students
+- Monitor project progress and ensure deadlines are maintained
+- Prepare regular progress updates for senior leadership
+- Contribute to technical architecture and technology decisions
+- Ensure development work is properly documented and organized Candidate Profile
+We are looking for someone with a strong technical foundation who also demonstrates leadership potential .
+Preferred qualifications
+- Bachelor's degree or equivalent experience in Computer Science, Software Engineering, IT or a related field
+- Strong understanding of modern web development
+- Experience with one or more modern development frameworks
+- Familiarity with React/Next.js, Node.js, Python, Laravel or comparable technologies
+- Understanding of databases, APIs and software architecture
+- Strong Git/GitHub knowledge
+- Experience developing and deploying applications
+- Ability to independently troubleshoot technical problems
+- Strong communication and organizational skills
+- Ability to mentor and coordinate junior developers Previous experience leading:
+- university projects
+- freelance development teams
+- internships
+- software projects
+- student developers will be considered a strong advantage.
+What Makes This Opportunity Different
+The position offers the opportunity to develop both technical and leadership experience .
+The selected candidate will have the opportunity to:
+- Work directly with senior leadership
+- Take ownership of important technical decisions
+- Build and manage a development team
+- Mentor upcoming developers
+- Gain hands-on technical leadership experience
+- Participate in recruitment and team building
+- Develop experience across product development and project management
+- Build a strong professional portfolio
+- Progress into increasingly senior responsibilities based on performance High-performing individuals may be considered for expanded responsibilities, increased compensation and long-term career opportunities as the organization develops.
+Employee Benefits & Perks
+Depending on role, tenure and eligibility, the organization may provide a range of professional benefits and employee perks, including:
+- Health and medical coverage
+- Transportation allowance or transportation support
+- Performance-based incentives
+- Professional development opportunities
+- Training and certification support
+- Flexible working arrangements where applicable
+- Paid leave and holidays
+- Mobile/communication allowance where applicable
+- Team events and professional networking opportunities
+- Recognition and performance rewards
+- Opportunities for career progression
+- Additional benefits associated with seniority and performance The objective is to provide a professional working environment where strong performers are recognized, supported and given opportunities to progress.
+What We Value
+We are particularly interested in candidates who demonstrate:
+Ownership — takes responsibility rather than waiting for instructions.
+Leadership — can bring people together and get work completed.
+Problem solving — focuses on finding practical solutions.
+Communication — can clearly communicate with both technical and non-technical people.
+Learning ability — is willing to continuously develop technically and professionally.
+Reliability — follows through on commitments and deadlines.
+Selection Process
+Candidates may be asked to complete a short technical assessment and participate in an interview.
+We are looking for capability, initiative and potential , not simply qualifications on paper.
+Candidates with strong portfolios, GitHub projects, applications or previous development experience are encouraged to highlight these in their application.

@@ -1,0 +1,65 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=aba3091f5c8a0e6f
+title: Python Developer
+company: XIM, Inc.
+location: Remote
+scraped_at: 2026-09-04T04:07:22+00:00
+query: python developer
+---
+Our company develops internal analytics systems and automation tools for managing procurement, sales, logistics, and customer request processing.
+The company builds enterprise platforms that help employees make data driven decisions, monitor key business KPIs, and automate operational workflows. These solutions integrate with ERP, CRM, and other internal systems and are used daily by sales, procurement, and operations teams.
+The role
+We are looking for a second Python engineer to join the internal systems team. You will own specific functional areas and work alongside the lead developer.
+Core focus areas include analytics dashboards, internal business applications, and automation tools. In addition to building new features, you will work with internal users to clarify requirements, maintain existing solutions, and help roll out new tools.
+A key expectation is the ability to take a business problem all the way to a working solution, understand the business context, and operate at the intersection of engineering, analytics, and enterprise systems.
+Responsibilities
+- Development
+- Build and maintain analytics dashboards and internal Python applications
+- Create tables, charts, KPI panels, user filters, and other elements of analytical interfaces
+- Ingest and process data from ERP, CRM, and internal databases
+- Prepare, transform, and validate data using pandas
+- Write and optimize SQL queries for analytics and reporting
+- Develop new functionality and fix defects in existing systems
+- Contribute to designing interfaces for internal applications
+- Maintain technical documentation for delivered solutions
+- Participate in code reviews and help improve the team’s engineering practices
+- Working with internal stakeholders
+- Clarify requirements and business logic for tasks
+- Translate business requests into technical requirements and an implementation plan
+- Demo delivered solutions and collect feedback
+- Analyze and resolve issues in internal applications
+- Participate in rolling out new features and services
+- Contribute to company automation projects and select AI initiatives
+Requirements
+- 2+ years of commercial Python development experience
+- Experience independently developing and maintaining applications or internal enterprise tools
+- Strong pandas skills for tabular data processing and transformation
+- Experience with Dash, Plotly, Streamlit, or similar tools
+- Experience building APIs with FastAPI, Flask, or Django
+- SQL: SELECTs, JOINs, aggregations, subqueries, and basic query optimization
+- Experience with PostgreSQL or MySQL
+- Experience with Git, pull requests, and code review
+- Understanding of client‑server architecture and REST API principles
+- Understanding of analytics systems, reporting, and KPIs
+- Ability to work with an existing codebase and drive tasks to completion independently
+- Experience collaborating with internal stakeholders or users of business systems
+- Skill in refining requirements and translating business needs into technical solutions
+- Ability to explain technical topics in clear, accessible language
+- English at B2 level or higher for documentation and interaction with an international team
+As a plus
+- Experience with Docker
+- Experience integrating with ERP, CRM, or other enterprise systems
+- Experience optimizing data processing and SQL queries
+- Understanding of business analytics fundamentals and KPI design
+- Experience rolling out internal business applications
+- Experience automating business processes
+- Practical interest in LLMs, AI‑assisted workflows, and AI‑based automation tools
+What we offer
+- Work on the company’s key internal products
+- Real business problems and direct interaction with end users
+- Flexible schedule
+- High degree of ownership and impact on product direction
+- Participation in analytics, automation, and AI projects
+- Small team with short decision cycles
+- Work format, employment type, and compensation determined based on HR market analysis
+Apply by filling in the contact form or sending your CV to job@ximxim.com

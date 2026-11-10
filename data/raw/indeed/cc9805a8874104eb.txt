@@ -1,0 +1,35 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=cc9805a8874104eb
+title: Python With Gen AI Developer
+company: Capgemini Sogeti
+location: Hyderabad
+scraped_at: 2026-09-04T05:34:04+00:00
+query: python developer
+---
+At Capgemini Invent, we believe difference drives change. As inventive transformation consultants, we blend our strategic, creative and scientific capabilities, collaborating closely with clients to deliver cutting-edge solutions. Join us to drive transformation tailored to our client's challenges of today and tomorrow. Informed and validated by science and data. Superpowered by creativity and design. All underpinned by technology created with purpose.
+Job Role
+-
+- Develop and maintain Python-based applications while designing, implementing, and optimizing AI/Generative AI solutions for business use cases.
+-
+- Collaborate with cross-functional stakeholders to gather requirements, deliver scalable AI solutions, and ensure successful implementation.
+-
+- Fine-tune, troubleshoot, and enhance AI models and applications to improve performance, reliability, and scalability.
+-
+- Conduct research on emerging AI technologies and maintain comprehensive technical documentation, including development processes and best practices.
+Job Profile
+-
+- Proven experience in developing and deploying generative AI models.
+-
+- Strong understanding of machine learning algorithms and frameworks.
+-
+- Experience with deep learning frameworks such as TensorFlow, PyTorch, etc.
+-
+- Proficiency in data preprocessing and analysis.
+What you'll love about working here
+-
+- We recognize the significance of flexible work arrangements to provide support.Be it remote work, or flexible work hours, you will get an environment to maintain healthy work life balance.
+-
+- At the heart of our mission is your career growth. Our array of career growth programs and diverse professions are crafted to support you in exploring a world of opportunities.
+-
+- Equip yourself with valuable certifications in the latest technologies such as Generative AI.
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.

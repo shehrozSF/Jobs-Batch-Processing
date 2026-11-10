@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/vivo-pakistan-maintenance-engineer-jobs-1856066
+title: Maintenance Engineer
+company: Vivo Pakistan
+location: Sialkot, Pakistan
+scraped_at: 2026-09-04T05:09:40+00:00
+query: software engineer
+---
+
+Vivo Pakistan seeks a skilled Maintenance Engineer with expertise in Electrical Engineering to ensure the continuous operation and reliability of electrical systems and equipment. The successful candidate plays a vital role in maintaining the company’s operational efficiency by performing preventive and predictive maintenance, diagnosing electrical faults, and resolving issues promptly. This position requires a proactive and detail-oriented professional committed to safety standards and minimizing equipment downtime. The Maintenance Engineer works closely with internal and external stakeholders, including customers and vendors, offering clear communication and excellent customer service.
+
+Though this role does not involve managing a team, it demands strong troubleshooting abilities, effective use of maintenance management systems, and the capacity to support smooth production processes through consistent maintenance activities. The engineer frequently interacts with customers, addressing technical queries and ensuring timely resolution of problems to uphold service excellence and business satisfaction.
+
+

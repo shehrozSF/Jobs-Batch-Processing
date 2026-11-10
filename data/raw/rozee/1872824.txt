@@ -1,0 +1,37 @@
+source: rozee
+url: https://www.rozee.pk/senior-full-stack-software-engineer-jobs-1872824
+title: Senior Full-Stack Software Engineer
+company: Ontrac Solutions
+location: Pakistan
+scraped_at: 2026-09-04T05:01:58+00:00
+query: software engineer
+---
+Ontrac Solutions is looking for an experienced Senior Full-Stack Software Engineer to join a critical customer engagement. The successful candidate will work across the full technology stack, quickly understanding and navigating an existing codebase to extend, refactor, or retire features as needed. This role involves developing and enhancing full-stack functionality using React on the frontend, with Node.js and Go powering backend services. The engineer will design and query both PostgreSQL and MongoDB databases while implementing secure authentication, role-based access control, and authorization mechanisms. Close collaboration with program managers, engagement leads, and customer stakeholders is essential to ensure smooth progress from initial requirements through to final delivery. A significant part of the role includes analyzing existing functionality and carefully refactoring or decommissioning legacy components without impacting current behavior.
+Key Responsibilities
+- Develop and extend full-stack features using React for frontend interfaces and Node.js and Go for backend services, following agreed designs and acceptance criteria.
+- Build, modify, and integrate scalable backend APIs aligned with service requirements.
+- Analyze the existing codebase to understand functionality, then refactor or retire legacy components while ensuring no regressions occur.
+- Design and query schemas in PostgreSQL and MongoDB to support new and updated features.
+- Implement and maintain secure authentication, role-based access control, and authorization across relevant services.
+- Write unit and integration tests to meet coverage standards, ensuring the quality and reliability of delivered components.
+- Integrate with AWS cloud services and, when necessary, Snowflake and n8n for data warehousing and workflow automation.
+- Actively participate in Agile/Scrum ceremonies, including sprints, stand-ups, and retrospectives, collaborating with both Ontrac and customer teams to maintain transparent delivery status.
+Required Qualifications
+- Minimum of 5 years of professional software engineering experience covering both frontend and backend development.
+- Bachelor’s degree in Computer Science or a related field, or equivalent practical experience.
+- Proficient in JavaScript and TypeScript, with experience building type-safe applications and services end to end.
+- Strong expertise in React for creating dynamic, responsive frontend interfaces.
+- Extensive experience with Node.js for scalable server-side applications and asynchronous backend services.
+- Practical knowledge of Go for building scalable backend services and APIs.
+- Experience designing schemas and querying both relational (PostgreSQL) and NoSQL (MongoDB) databases.
+- Proven ability to implement secure authentication and authorization, including role-based access control.
+- Skilled in building, modifying, and integrating scalable backend APIs.
+- Experience writing unit and integration tests for backend components.
+- Ability to navigate complex codebases to refactor or decommission legacy code without regressing existing functionality.
+- Working knowledge of AWS cloud services and related client libraries and APIs.
+- Experience delivering software within an Agile/Scrum team environment.
+Preferred Qualifications and Benefits
+- Experience with Snowflake for enterprise cloud data warehousing integration and querying.
+- Familiarity with n8n for building and maintaining automated workflow integrations.
+This position requires candidates to demonstrate practical experience rather than simply listing skills. Applicants should clearly describe projects involving Go, React, and Node.js, including scope, load, and outcomes. Specific examples of authentication and authorization mechanisms implemented, testing frameworks used, and instances of refactoring or decommissioning legacy code are highly valued. Public portfolios or repositories are encouraged to facilitate the screening process. Transparency about areas of lesser experience is welcomed, as Ontrac prioritizes strong engineering capability over a checklist of skills. A role-specific questionnaire will follow the application to further assess fit and expedite progression to screening.
+The expected start date for this position is September 14, 2026..

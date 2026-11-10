@@ -1,0 +1,38 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4402933803
+title: Machine Learning Engineer/Sr Machine Learning Engineer
+company: Soliton Technologies
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T04:00:00+00:00
+query: python developer
+---
+Job Description
+About Us:
+Persivia / Soliton Technologies is a global leader in AI-driven population health, chronic care management, clinical quality and real-time healthcare intelligence, with operations in Boston, Riyadh and Lahore. Our AI platform powers national-scale health transformation initiatives, real-time clinical decision support, VBC performance and digital-first care delivery.
+About The Role
+We are looking for a skilled Software Engineer (Machine Learning) with 2 years of experience to join our innovative team on-site. The ideal candidate will bring a solid foundation in machine learning, data processing and model development. In this role, you will be responsible for designing, implementing and optimizing advanced machine learning pipelines, leveraging cutting-edge tools and technologies to tackle complex, real-world challenges.
+Responsibilities And Skillset
+- Develop and implement end-to-end pipelines for data processing, model building, training and optimization.
+- Deploy ML services & LLM-based services on cloud platforms, ensuring scalability & efficiency.
+- Work with machine learning frameworks such as PyTorch, TensorFlow, Keras, Pandas, ScikitLearn, Numpy, Langchain and Hugging-Face.
+- Apply strong programming skills in Python to build and optimize machine learning models.
+- Collaborate with cross-functional teams to integrate ML solutions into products.
+- Troubleshoot and resolve complex issues related to machine learning models and processes.
+Qualifications
+- Bachelor’s or Master’s degree in Computer Science, Artificial Intelligence, Machine Learning or related fields.
+- Around 2 years of experience in ML engineering or related roles.
+- Proven experience in building and deploying machine learning models and implementing end-to-end pipelines.
+- Proficiency in Python (MUST) with a focus on problem-solving.
+Good To Have
+- Familiarity with cloud platforms and expertise in deploying ML services & LLM-based services.
+- Experience with version control systems such as Git.
+- Knowledge of backend frameworks like Flask or Django for API development.
+- Familiar with LLMs, Deep Learning Techniques & ML algorithms.
+What We Offer
+- Market Competitive Salary plus other Perks and Benefits
+- Opportunity to work on cutting-edge HealthTech solutions impacting global healthcare.
+- Collaborative and innovative work environment.
+- Continuous learning and professional development opportunities.
+- Exposure to international teams and large-scale data platforms.
+Step into the future of Healthcare & Tech with Persivia | Soliton Technologies where your skills ignite innovation, and excellence knows no limits!
+Role Code: #ST26Q1ME

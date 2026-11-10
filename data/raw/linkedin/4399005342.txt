@@ -1,0 +1,53 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4399005342
+title: AI/ML Speech-to-Text Python Engineer
+company: IRG Global Technologies
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:58:59+00:00
+query: python developer
+---
+engineering
+AI/ML Speech-to-Text Python Engineer
+48 Commercial Plaza, Cavalry Ground Extension, Lahore
+About IRG Global
+IRG Global is a leading technology company specializing in software development, AI-powered solutions, digital transformation, and BPO services. With 8+ years of experience delivering high-performance tech solutions worldwide, IRG Global is now expanding its AI division and seeking top talent to build next-generation speech technologies.
+About The Role
+IRG Global is hiring an AI/ML Engineer with strong expertise in Speech-to-Text (STT) technologies and Python development. You will work on building advanced speech recognition systems, integrating cutting-edge models, and optimizing performance for real-time applications.
+Key Responsibilities
+- Build, train, and maintain Speech-to-Text (ASR) models using state-of-the-art frameworks.
+- Develop Python-based STT pipelines and integrate them into IRG Global’s products and platforms.
+- Fine-tune ASR models such as OpenAI Whisper, Wav2Vec2, DeepSpeech, or similar.
+- Preprocess and manage audio datasets for training and evaluation.
+- Optimize inference for low latency, high accuracy, and scalability.
+- Deploy models using APIs, Docker, and cloud or on-prem infrastructure.
+- Collaborate with product, development, and QA teams for end-to-end solution delivery.
+- Research emerging speech technologies and propose improvements.
+Required Skills & Qualifications
+Bachelor’s or Master’s degree in Computer Science, AI, Data Science, or a related field.
+Strong command of Python and ML frameworks (PyTorch, TensorFlow, NumPy, scikit-learn).
+Experience Working With Speech-to-Text Frameworks
+- OpenAI Whisper
+- DeepSpeech
+- Wav2Vec2 (Hugging Face)
+- Or other ASR engines
+- Understanding of audio processing, feature extraction, and signal processing.
+- Experience working with ASR datasets (LibriSpeech, CommonVoice, etc.).
+- Hands-on experience with model deployment (APIs, Docker, cloud/on-prem).
+- Solid grasp of machine learning concepts, model tuning, and performance evaluation.
+Preferred Skills
+- Experience with real-time audio streaming and WebSocket integrations.
+- Familiarity with NLP, text normalization, and acoustic modeling.
+- Experience with GPU optimization or CUDA (plus point).
+- Knowledge of LLMs and multimodal AI systems.
+Soft Skills
+- Strong analytical and problem-solving mindset.
+- Ability to collaborate with cross-functional teams.
+- Good communication skills and a proactive approach.
+Why Join IRG Global?
+- Work in an innovative, fast-growing AI environment.
+- Opportunity to build transformative speech and AI technologies.
+- Competitive salary, growth opportunities, and a collaborative work culture.
+- Exposure to global clients and major industry projects.
+Salary
+PKR 80,000 to PKR 100,000
+Apply to this job!

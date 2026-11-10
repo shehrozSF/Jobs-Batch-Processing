@@ -1,0 +1,70 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=7c1e7623548adec3
+title: Senior Mobile Engineer - Android
+company: Edward Jones
+location: St. Louis, MO 63103
+scraped_at: 2026-09-04T05:30:55+00:00
+query: python developer
+---
+This job posting is anticipated to remain open for 30 days, from 19-Aug-2026. The posting may close early due to the volume of applicants.
+Join a financial services firm where your contributions are valued. Edward Jones is a Fortune 500¹ company where people come first. With over 9 million clients and 20,000 financial advisors across the U.S. and Canada, we’re proud to be privately-owned, placing the focus on our clients rather than shareholder returns.
+Behind everything we do is our purpose: We partner for positive impact to improve the lives of our clients and colleagues, and together, better our communities and society. We are an innovative, flexible, and inclusive organization that attracts, develops, and inspires performance excellence and a sense of belonging.
+People are at the center of our partnership. Edward Jones associates are seen, heard, respected, and supported. This is what we believe makes us the best place to start or build your career.
+View our Purpose, Inclusion and Citizenship Report.
+¹Fortune 500, published June 2024, data as of December 2023. Compensation provided for using, not obtaining, the rating.
+Team Overview
+The Mobile Engineering team is responsible for designing, developing, and supporting the Edward Jones mobile application, which enables millions of clients to securely access and manage their financial accounts through Online Access. The team delivers innovative, reliable, and secure mobile experiences that help clients monitor investments, track financial goals, access account information, and engage with Edward Jones anytime and anywhere.
+Working in a highly collaborative environment, the team partners closely with Product, User Experience, Architecture, Security, and Backend Engineering teams to deliver modern mobile capabilities that align with the firm's digital strategy. As part of a client-focused organization, the team is committed to delivering exceptional mobile experiences while maintaining the highest standards for security, performance, scalability, and reliability.
+The Senior Mobile Engineer will play a key role in shaping the future of the Edward Jones mobile platform, driving technical excellence, influencing architecture decisions, mentoring engineers, and helping deliver solutions that enhance the financial lives of our clients.
+What You'll Do
+-
+Provide end-to-end technical leadership and architecture for Android applications, ensuring solutions align with enterprise architecture standards and long-term business objectives.
+-
+Design and implement scalable, secure, maintainable, and high-performing Android solutions using modern architecture patterns and industry best practices.
+-
+Collaborate with architecture, product, UX, API, and platform teams to design and enhance mobile platforms, APIs, and supporting services.
+-
+Ensure the Android codebase is modular, reusable, testable, and scalable through the adoption of Clean Architecture, MVVM, and engineering best practices.
+-
+Partner with cross-functional teams to define requirements, design solutions, develop features, and ensure successful delivery of enterprise mobile applications.
+-
+Enforce sound development practices, coding standards, security controls, and quality assurance processes across Android development teams.
+-
+Drive application performance optimization initiatives, including memory management, startup performance, responsiveness, battery consumption, and overall user experience.
+-
+Troubleshoot and resolve complex technical issues, including memory leaks, concurrency challenges, ANRs, crashes, and performance bottlenecks.
+-
+Mentor and develop junior and mid-level engineers through code reviews, technical coaching, knowledge sharing, and career development guidance.
+-
+Stay current on Android platform advancements, emerging technologies, security trends, and industry best practices to continually improve mobile capabilities.
+What Experience You'll Need
+-
+Bachelor’s degree in computer science, Engineering, Information Technology, or equivalent work experience.
+- 10+ years of progressive software development experience, including 8+ years of hands-on application development and 5+ years building enterprise-scale native Android applications.
+- Expert-level proficiency in Kotlin and strong experience with Java, developing, releasing, and maintaining applications through the Google Play Store.
+- Extensive experience with Jetpack Compose, Android Jetpack libraries, Coroutines, Flow, Hilt/Dagger, and modern Android development frameworks.
+- Deep understanding of Android architecture and design patterns including MVVM, Clean Architecture, Repository Pattern, and modular application design.
+- Thorough knowledge of the Android application lifecycle, memory management, background processing, concurrency, data persistence, and performance optimization.
+- Experience integrating RESTful APIs, microservices, cloud-based services, automated testing frameworks (JUnit, Espresso, MockK), and Agile software development practices.
+- Strong understanding of Android security principles, secure coding practices, authentication, authorization, encryption, and mobile threat mitigation, coupled with excellent communication, leadership, mentoring, and collaboration skills.
+What Could Set You Apart
+-
+Experience leading modernization efforts from legacy Android applications to Jetpack Compose and modern Android architectures.
+-
+Expert knowledge of the Android Keystore System, biometric authentication, encrypted storage, and secure data protection techniques.
+-
+Advanced expertise in Android performance tuning, memory analysis, application profiling, battery optimization, and application stability improvements.
+-
+Proven experience diagnosing and resolving memory leaks, ANRs, crash trends, and performance bottlenecks.
+-
+Strong understanding of Google Play Console, application publishing, release management, and Play Store compliance requirements.
+-
+Experience defining engineering standards, architecture governance, and mobile development best practices.
+-
+Experience with cloud platforms such as Azure, AWS, or Google Cloud Platform.
+**Candidates that live within a commutable distance from our Tempe, AZ and St. Louis, MO home office locations are expected to work in the office four days per week effective June 1, 2026. Before June 1, 2026, candidates that live within a commutable distance from our Tempe, AZ and St. Louis, MO home office locations are expected to work in the office three days per week, with preference for Tuesday through Thursday.**
+At Edward Jones, we are building a place where everyone feels like they belong. We're proud of our associates' contributions to the firm and the recognitions we have received.
+Check out our U.S. awards and accolades: Insights & Information Blog Postings about Edward Jones
+Check out our Canadian awards and accolades: Insights & Information Blog Postings about Edward Jones
+Edward Jones does not discriminate on the basis of race, color, gender, religion, national origin, age, disability, sexual orientation, pregnancy, veteran status, genetic information or any other basis prohibited by applicable law.
+Edward Jones' compensation and benefits package includes medical and prescription drug, dental, vision, voluntary benefits (such as accident, hospital indemnity, and critical illness), short- and long-term disability, basic life, and basic AD&D coverage. Short- and long-term disability, basic life, and basic AD&D coverage are provided at no cost to associates. Edward Jones offers a 401k retirement plan, and tax-advantaged accounts: health savings account, and flexible spending account. Edward Jones observes ten paid holidays and provides 15 days of vacation for new associates beginning on January 1 of each year, as well as sick time, personal days, and a paid day for volunteerism. Associates may be eligible for bonuses and profit sharing. All associates are eligible for the firm's Employee Assistance Program. For more information on the Benefits available to Edward Jones associates, please visit our benefits page.

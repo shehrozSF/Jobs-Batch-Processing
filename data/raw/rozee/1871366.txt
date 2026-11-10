@@ -1,0 +1,12 @@
+source: rozee
+url: https://www.rozee.pk/vortigon-shopify-website-developer-%e2%80%93-e-commerce-jobs-1871366
+title: Shopify Website Developer – E-Commerce
+company: Vortigon
+location: Sialkot, Pakistan
+scraped_at: 2026-09-04T04:54:35+00:00
+query: python developer
+---
+Join Vortigon as a Shopify Website Developer, where your expertise will directly impact the growth and success of our e-commerce brands. In this role, you will manage, maintain, and improve Shopify stores by customizing themes, integrating useful apps, and fixing functionality issues. You will work closely with our digital team to enhance customer experience through tailored site layouts, product pages, and seamless navigation. This is a hands-on role that combines Shopify development, custom coding, theme customization, and website design. The ideal candidate should be able to take a store from concept to launch — customizing themes, developing custom Shopify sections and functionality, creating professional page layouts, and ensuring the final website is responsive, visually strong, and easy to use.
+While managing a team is not part of this role, ownership and independent responsibility will be key to your success. The ideal candidate has solid experience working with live Shopify stores and understands the nuances of Liquid, HTML, CSS, and JavaScript. Your ability to customize themes, troubleshoot technical problems, and optimize website performance is crucial. In addition to technical skills, the candidate should also have a good eye for design and be comfortable using tools such as Adobe Photoshop, Figma, Canva, or similar software to create and edit banners, product graphics, website visuals, and other digital assets.
+The role will involve working on multiple existing and future e-commerce brands, making it ideal for someone who enjoys building websites, experimenting with new ideas, and continuously improving their Shopify, design, and development skills.
+Note: A higher salary may be considered for candidates with strong relevant experience and proven skills.

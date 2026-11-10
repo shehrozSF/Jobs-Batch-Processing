@@ -1,0 +1,74 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=efa742de9df77f7b
+title: Python Developer + React.js
+company: Qualix Solutions
+location: Karachi
+scraped_at: 2026-09-04T05:34:01+00:00
+query: python developer
+---
+Experience: 2–5 years of professional software development, including at least 1 year of hands-on experience building AI/LLM-powered applications
+Role Summary
+Role: Python + React Developer – AI/LLM
+Experience: 2–5 years
+AI Experience: 1+ year building AI/LLM-powered applications
+Primary Backend: Python (FastAPI/Django/Flask)
+Frontend: React.js
+AI: LLMs, RAG, AI Agents, Tool Calling, Prompt Engineering
+Databases: PostgreSQL / MongoDB
+About the Role
+Qualix Solutions is building AI-powered products, and we're looking for a Python + React Developer with strong backend expertise and hands-on experience developing AI/LLM-powered features .
+In this role, you'll work across the full stack—building scalable backend services and APIs with Python, developing intuitive React interfaces, and integrating LLMs into real-world product features. You'll be involved in designing APIs and data models, developing AI-powered workflows, integrating model APIs, and delivering clean, user-friendly interfaces.
+We're looking for someone who can work independently in an evolving environment, take loosely defined requirements, ask the right questions, and turn ideas into reliable, production-ready software.
+What You'll Do
+- Design and develop backend services and REST APIs using Python , primarily with FastAPI, Django, or Flask.
+- Build and integrate AI/LLM-powered features using OpenAI, Anthropic, or similar model APIs.
+- Develop LLM-based workflows including prompt engineering, function/tool calling, structured outputs, and multi-step AI workflows .
+- Build and maintain responsive frontend applications using React.js .
+- Develop reusable React components using functional components, hooks, and state management.
+- Design database schemas and write efficient queries using PostgreSQL and/or MongoDB .
+- Implement authentication and authorization using JWT/OAuth , along with input validation and secure API practices.
+- Integrate frontend applications with backend APIs and AI services.
+- Debug and troubleshoot issues across the full stack.
+- Work with product managers, designers, and engineers to translate requirements into scalable solutions.
+- Take ownership of loosely defined problems, clarify requirements, propose solutions, and deliver production-ready features.
+- Participate in code reviews and contribute to maintaining clean, scalable, and maintainable code. What We're Looking ForBackend – Python
+- Strong proficiency in Python with professional experience building production applications.
+- Hands-on experience with FastAPI, Django, or Flask .
+- Strong understanding of REST API development, backend architecture, authentication, validation, error handling, logging, and background jobs.
+- Experience designing database schemas, indexing, and query optimization.
+- Strong understanding of PostgreSQL and/or MongoDB .
+- Familiarity with API security, including input validation and basic XSS/CSRF awareness. AI / LLM Experience
+- At least 1 year of hands-on experience building AI/LLM-powered applications or features .
+- Experience integrating OpenAI, Anthropic, Gemini, or similar LLM APIs into applications.
+- Practical experience with prompt engineering, function/tool calling, structured outputs, and LLM workflows .
+- Understanding of RAG, embeddings, vector databases, and context management .
+- Experience with frameworks such as LangChain, LangGraph, LlamaIndex , or equivalent custom LLM orchestration.
+- Understanding of AI agents, multi-step workflows, and AI-powered automation.
+- Ability to evaluate and improve LLM outputs, reliability, and application performance. Frontend – React
+- Strong experience with React.js and modern JavaScript/TypeScript.
+- Strong understanding of functional components, hooks, state management, and API integration.
+- Experience with Redux, Zustand, Context API , or similar state-management solutions.
+- Experience building responsive interfaces using Tailwind CSS or equivalent CSS frameworks .
+- Strong understanding of responsive design, Flexbox, CSS Grid, and modern UI practices.
+- Good eye for UI/UX, spacing, layout, usability, and consistency. Ways of Working
+- Comfortable working with ambiguity and independently driving tasks toward completion.
+- Strong problem-solving and analytical skills.
+- Excellent verbal and written English communication.
+- Strong attention to detail and commitment to writing clean, maintainable code.
+- Ability to collaborate effectively with engineering, product, and design teams. Nice to Have
+- Experience with Next.js and server-side rendering.
+- Experience building RAG pipelines and working with vector databases such as pgvector, Pinecone, or Weaviate .
+- Experience with AI agent frameworks and agentic application development.
+- Familiarity with Docker and cloud platforms such as AWS, Azure, or GCP.
+- Experience with CI/CD pipelines.
+- Familiarity with Node.js/NestJS.
+- Experience deploying and monitoring AI/LLM applications.
+- Bachelor's degree in Computer Science, Software Engineering, or a related field. Application Question(s):
+- Current Salary?
+- Expected salary?
+- Notice period in weeks?
+- This position is backend focus on Python with React.js experience, the person should have worked on AI product and have a experience with AI product development. Experience:
+- Python: 3 years (Required)
+- React.js: 1 year (Required)
+- AI Development: 1 year (Required) Location:
+- Karachi (Required) Work Location: In person

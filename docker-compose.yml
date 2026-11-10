@@ -1,0 +1,47 @@
+# docker compose up -d                                  Postgres + Redis only (run the app in terminals)
+# docker compose --profile full up --build              also the API and a worker, in containers
+# docker compose --profile full up --build --scale worker=4
+
+x-app: &app
+  build: .
+  profiles: [full]  # opt-in, so a plain `up` never starts a second API or worker
+  env_file: .env
+  environment:
+    BATCH_DATABASE_URL: postgresql+psycopg://batch:batch@postgres:5432/batch
+    BATCH_REDIS_URL: redis://redis:6379/0
+  depends_on:
+    postgres: { condition: service_healthy }
+    redis: { condition: service_healthy }
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: batch
+      POSTGRES_PASSWORD: batch
+      POSTGRES_DB: batch
+    ports: ["5433:5432"]  # 5433 so it doesn't clash with a local Postgres
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U batch"]
+      interval: 2s
+      retries: 20
+
+  redis:
+    image: redis:7-alpine
+    ports: ["6379:6379"]
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 2s
+      retries: 20
+
+  api:
+    <<: *app
+    ports: ["8000:8000"]
+
+  worker:
+    <<: *app
+    command: ["python", "-m", "app.worker"]
+
+volumes:
+  pgdata:

@@ -1,0 +1,30 @@
+source: rozee
+url: https://www.rozee.pk/purelogics-head-of-engineering-jobs-1870081
+title: Head of Engineering
+company: PureLogics
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T04:55:38+00:00
+query: python developer
+---
+As the Head of Engineering , you will be responsible for setting the strategic direction of our engineering organization. You will work closely with the CTO to translate the company’s long-term vision into actionable engineering policies, KPIs, and training initiatives. Your primary focus will be on building a high-performance engineering culture by establishing best practices, quality standards, and skill development frameworks. By driving operational excellence and continuous improvement, you will ensure that the engineering team is well-equipped to deliver innovative and scalable solutions that align with business goals.
+Required Skills:
+- 10+ years of working experience in architectural design of multiple large-scale, highly reliable, and highly available web-based applications.
+- Communication should be good
+- Should have proven track record in Engineering
+- Experience can be in any language but mostly web technology like Python, PHP, .NET, or NodeJs.
+- Should have vast experience in software engineering, site/software development, and experience working with numerous software-industry business models.
+- Proven track record of consistent project delivery, designing, and developing complex, interactive web and mobile-based applications.
+- A suitable candidate should have vast experience in agile development practices and architectural knowledge of web-based and back-end technologies.
+About Us: PureLogics is a full services technology company with having presence in the USA, UAE, and in Lahore. Over the past 18+ years, we have matured from a narrowly-focused five-person team to a well-established technology hub with around employees. We’re CMMI Level 2 and ISO Certified company and highly acclaimed AWS consulting partners.
+The success of our business mainly lies in building a team of A-players, who work together and build together, and who crave perfection in everything they produce for our elite clients. We offer the opportunity to individuals that are eager to take on tough challenges under our mentorship toward a bright future.
+What are we offering?
+- Annual Paid Leaves
+- Leave Encashment
+- Paid Certifications
+- Health, Life Insurance
+- Provident Fund
+- Child Education Program
+- Referral Bonus Program
+- Car & Bike Finance Program
+- Monthly Achievements
+- Public Holiday & Weekend Compensation

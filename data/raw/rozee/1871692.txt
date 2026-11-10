@@ -1,0 +1,12 @@
+source: rozee
+url: https://www.rozee.pk/interactive-media-web-designerfull-stack-developer-email-marketer-lahore-jobs-1871692
+title: Web Designer(Full Stack Developer)  |   Email Marketer
+company: Interactive Media
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T04:58:10+00:00
+query: python developer
+---
+
+In this role, you are responsible for creating appealing and user-friendly web experiences that align with Interactive Media’s brand vision. You fully manage web development processes from conceptual wireframes and prototypes to full deployment and maintenance, ensuring compatibility, responsiveness, and performance across devices. On the marketing front, you strategize, design, and implement email campaigns that promote products and services effectively, analyzing campaign results and optimizing for maximum engagement and conversion. Leading a small team, you foster a collaborative environment, providing mentorship and overseeing workflows to meet project deadlines and quality standards.
+
+

@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/fusion-lab-full-stack-engineer-jobs-1871682
+title: Full Stack Engineer
+company: Fusion Lab
+location: Pakistan
+scraped_at: 2026-09-04T05:00:03+00:00
+query: python developer
+---
+
+Fusion Lab is seeking a talented Full Stack Engineer with at least five years of experience to join our dynamic and innovative team. The ideal candidate is passionate about building scalable products and working with modern web technologies. This role involves collaborating closely with international teams to develop robust and efficient solutions that meet client needs and enhance user experiences. As a Full Stack Engineer, you will be engaged in both front-end and back-end development, ensuring seamless integration and high performance across all layers of the application.
+
+The successful candidate must be proficient in a wide range of technologies including Web Development, Node.js, React.js, AI, AWS, and Python. While the role does not include managing a team, it offers opportunities for professional growth and collaboration within a diverse and forward-thinking environment. If you enjoy pushing boundaries and working with cutting-edge technologies to solve real-world challenges, Fusion Lab offers an exciting platform to leverage your skills and contribute to meaningful projects.
+
+

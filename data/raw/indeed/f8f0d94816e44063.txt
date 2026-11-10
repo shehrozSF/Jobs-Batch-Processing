@@ -1,0 +1,29 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=f8f0d94816e44063
+title: Python Developer
+company: Aegasis Labs
+location: Lahore
+scraped_at: 2026-09-04T05:32:37+00:00
+query: python developer
+---
+Aegasis Labs is looking for a Senior Python Developer with strong Generative AI experience to join our growing engineering team. This role is ideal for someone who has hands-on experience building AI-powered SaaS products and enjoys working end-to-end—from architecture to deployment.
+Key Responsibilities
+- Design, build, and maintain scalable Python-based backend systems
+- Develop and integrate Generative AI solutions (LLMs, RAG pipelines, AI agents, etc.)
+- Work on SaaS applications , ensuring performance, security, and scalability
+- Collaborate with product, frontend, and DevOps teams to deliver production-ready features
+- Optimize APIs and data pipelines for AI-driven workloads
+- Participate in architectural decisions and code reviews
+- Required Qualifications
+- 4-5 years of professional experience with Python
+- Strong experience working with Generative AI frameworks and models (OpenAI, LangChain, LlamaIndex, etc.)
+- Hands-on experience building and scaling SaaS applications
+- Solid understanding of REST APIs, databases, and backend architecture
+- Experience with version control (Git) and collaborative development workflows
+- Nice-to-Have / Bonus Skills
+- AWS experience (EC2, Lambda, S3, RDS, etc.)
+- DevOps exposure (Docker, CI/CD pipelines, deployments)
+- Experience with Stripe or other payment gateway integrations
+- Familiarity with microservices architecture
+- Prior experience working in a fast-paced startup environment Pay: Rs150,000.00 - Rs200,000.00 per month
+Work Location: In person

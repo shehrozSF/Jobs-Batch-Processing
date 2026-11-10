@@ -1,0 +1,12 @@
+source: rozee
+url: https://www.rozee.pk/metropolitan-solutions-angular-developer-rawalpindi-jobs-1871577
+title: Angular Developer
+company: Metropolitan Solutions
+location: Rawalpindi, Pakistan
+scraped_at: 2026-09-04T04:57:23+00:00
+query: python developer
+---
+
+The Angular Developer will be responsible for designing and implementing web interfaces that provide seamless user experiences across various devices through responsive web design. The role involves utilizing Angular CLI's powerful features and commands to streamline development workflows and efficiently generate project components. Strong knowledge of TypeScript is essential for coding scalable and maintainable applications. The developer applies advanced reactive programming techniques with RxJS to manage complex asynchronous data streams. They will also be proactive in performing unit testing and applying test automation to maintain code quality and reliability. The candidate is expected to stay current with the latest Angular advancements and web standards to continuously enhance application performance and user experience.
+
+

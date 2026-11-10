@@ -1,0 +1,59 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=e62ebaa8306f67de
+title: Python Developer
+company: VIIS Global LLC
+location: Remote
+scraped_at: 2026-09-04T04:07:22+00:00
+query: python developer
+---
+Job Title: Python Developer (AWS)
+Duration: 24 Months
+Exp : 10+
+No C2C, No Third Party Vendors
+Position Summary
+The qualified candidate will be working in the Revenue Fare Management Systems team performing back office web application development. Their work will support the Rail Road’s legacy revenue applications and aid in ramping up development efforts for the New Fare Payment System project and the roadmap to merge and unify LIRR and MNR revenue applications.
+REQUIREMENTS:
+- Accomplished at collaborating with cross-functional teams
+- Ability to develop high-quality code, expert at solving complex problems, and advise on design issues.
+- Understanding of the how develop successful online customer experiences
+- Experience building web-based applications and APIs
+- Solid understanding of AJAX, HTML, JavaScript and CSS
+- Skilled at Python Web Development and familiar with Django and FastAPI Frameworks
+- Experienced and/or Certified AWS Cloud Developer
+- Experienced developing and configuring AWS API Gateway
+- Experienced with Docker Containerization
+- Experienced with Kubernetes(EKS)
+- Experience with AWS IAM (Identity Center)
+- Knowledgeable of Server and Serverless Deployment strategies
+- Experience in windows and Linux OS Scripting languages (PowerShell, bash)
+- Solid understanding of SQL and Oracle PL/SQL
+- Familiarity/Experience with Financial or Revenue Applications JOB RESPONSIBILITIES:
+- Develop and implement custom modules and APIs in Python
+- Develop and deployment of a real-time transaction system to support ticket validation
+- API Develop
+- Development Tooling & Documentation
+- * Build Web Application Frontends for Internal Applications
+- * Build Web Application Frontends for External Customer Applications
+- Participate in daily meetings and regular planning and review sessions. Interact with cross-functional teams to ensure complete delivery of web applications.
+- Provide documentation and participate in code reviews, planning sessions and routine status stand-ups.
+- Provide accurate level-of-effort time estimates and provide recommendations for feature prioritization
+- Assist in release/deployment planning and execution activities
+- Create visually appealing interfaces
+- Test cross-browser, cross-platform, and/or cross-device compatibility
+- Test for compliance to standards, such as accessibility, in the clients' region or domain
+- Conduct observational user testing and review designs against usability heuristics Additional Skills and Information:
+- A Bachelor degree in Computer Science or a related field (or combined with related experience)
+- Understanding of HTML, JavaScript and CSS
+- Ability to communicate and work well with others
+- Ability to handle a fast-paced work environment, deadlines and new challenges
+- Knowledge of SEO coding best practices is a plus
+- Knowledge and/or advanced level Python, PHP, SQL / Oracle PL/SQL
+- Experience with object-oriented design and data modeling
+- Familiarity with user experience design principles and processes
+- Experience with third-party applications/tools and integration
+- Knowledge of web application security considerations
+- Proficient and experienced in AWS Cloud Development and Deployment
+- Experience with source/version control systems (GITHub) Excellent verbal/written communication skills and strong time management and analytical/problem solving abilities
+Pay: $60.00 - $70.00 per hour
+Expected hours: 40.0 per week
+Work Location: Remote

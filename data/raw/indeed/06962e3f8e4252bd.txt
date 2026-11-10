@@ -1,0 +1,48 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=06962e3f8e4252bd
+title: Software Quality Analyst
+company: Restoration of America
+location: Ponte Vedra, FL 32081
+scraped_at: 2026-09-04T05:31:09+00:00
+query: python developer
+---
+Position Overview
+The Software Quality Analyst will help establish and execute a more structured quality assurance function across ROA’s software delivery lifecycle. This role will be responsible for developing test plans, writing and executing test cases, validating defects, supporting integration and regression testing, and helping prepare business users for effective User Acceptance Testing. This position will work closely with Product Owners, developers, and end users to ensure software changes are tested against requirements, acceptance criteria, business workflows, and release expectations before production deployment. The ideal candidate will bring strong attention to detail, sound judgment, clear communication, and the ability to translate business processes into practical testing coverage. This role is especially important as ROA continues to expand its internal application portfolio and mature its software delivery practices. The position will help reduce production risk, improve release confidence, support Product team efficiency, and ensure end users receive software that is stable, usable, and aligned to business needs.
+Key Responsibilities
+- Develop and maintain structured test plans, test cases, and test scripts based on requirements, user stories, acceptance criteria, and business workflows.
+- Execute functional, integration, regression, and release readiness testing across internal applications and system changes.
+- Validate that software changes meet documented requirements and are ready for Product review, UAT, and production release.
+- Work closely with Product Owners to ensure testing coverage aligns with business priorities, user workflows, and acceptance criteria.
+- Document defects clearly, including steps to reproduce, expected results, actual results, screenshots, severity, and business impact.
+- Retest resolved defects and support release decisions by confirming whether issues have been adequately addressed.
+- Build and maintain regression test coverage for critical business processes and high-impact application areas.
+- Help prepare UAT materials for business users, including test scenarios, instructions, data needs, and expected outcomes.
+- Support end users during UAT while ensuring that UAT remains focused on business acceptance rather than first-line defect discovery.
+- Identify opportunities to improve testing processes, documentation standards, defect tracking, and release quality.
+- Over time, help evaluate opportunities for test automation, reusable test scripts, and other scalable quality practices. Qualifications
+- 3+ years of experience in software quality assurance, software testing, business systems testing, product operations, or a related role.
+- Experience developing and executing test plans, test cases, test scripts, and regression testing suites.
+- Strong understanding of functional testing, integration testing, regression testing, defect validation, and release readiness practices.
+- Ability to translate business requirements, user stories, acceptance criteria, and workflows into practical testing coverage.
+- Experience documenting defects clearly, including reproduction steps, expected results, actual results, severity, screenshots, and business impact.
+- Strong analytical skills and attention to detail, with the ability to identify gaps, edge cases, workflow issues, and inconsistent system behavior.
+- Ability to work effectively with Product Owners, developers, business users, and other stakeholders throughout the software delivery lifecycle.
+- Strong written and verbal communication skills, including the ability to explain testing results, risks, and defects clearly to both technical and non-technical audiences.
+- Familiarity with Agile or Scrum-based software delivery practices.
+- Comfortable learning internal systems, business processes, and application workflows in order to design meaningful test coverage.
+- Experience supporting User Acceptance Testing, including preparing test scenarios, guiding business users, collecting results, and validating readiness for release.
+- Technical aptitude to understand application behavior, data flows, system integrations, and the impact of software changes.
+- Experience with test automation, API testing, SQL, or scripting is preferred but not required. Pay: $60,000.00 - $75,000.00 per year
+Benefits:
+- 401(k)
+- 401(k) matching
+- Dental insurance
+- Flexible spending account
+- Health insurance
+- Health savings account
+- Life insurance
+- Paid time off
+- Vision insurance Application Question(s):
+- What are your thoughts regarding our mission statement: At Restoration of America, we know the timeless foundation of America’s peace and prosperity is turning to God and the enforcement of just laws. We defend our nation by electing like-minded leaders and by creating organizations and campaigns that promote fully transparent elections, economic freedom, limited government, military superiority, secure borders, rule of law, and the sanctity of life. We do this through an experienced and passionate leadership team that values truth above all else. We apply best in class business practices yielding efficient, effective, and innovative products and results. And we partner with like-minded organizations to create force multiplication, extending both our reach and the return-on-investment for our donors. Location:
+- Ponte Vedra, FL 32081 (Required) Ability to Commute:
+- Ponte Vedra, FL 32081 (Required) Work Location: In person

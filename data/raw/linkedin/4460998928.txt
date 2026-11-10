@@ -1,0 +1,30 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4460998928
+title: Fullstack Engineer (Javascript & Python)
+company: Arbisoft
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:04+00:00
+query: python developer
+---
+Arbisoft is hiring a Senior Full-Stack Engineer for our client.
+About Our Client: Our client is a vertical SaaS CRM built for venture capital, private equity, investment banking, and consulting teams helping firms manage relationships, deals, and workflows with a focus on relationship intelligence and AI. They're now using AI to help users surface what matters, get answers from their network and CRM data, and take action with less manual work.
+What You'll Work On
+You'll work across the product on problems like:
+- Building AI-powered workflows that help investors and deal teams get useful answers from their relationship and CRM data — and take action with less manual work
+- Advancing the relationship intelligence platform helping users understand who knows whom, which relationships are strongest, where they have a path into a company, and how their network can help them accomplish their goals
+- Reimagining traditional CRM workflows so more of the work of keeping a CRM updated can happen automatically or through natural language interfaces
+- Building product experiences end to end, from backend APIs and data models through the UI
+- Making a growing SaaS product faster and more reliable, including solving real performance, data, and production challenges
+- Using AI development tools aggressively to help a small engineering team ship substantially more than a traditional
+What We're Looking For
+- Strong software engineering fundamentals and experience shipping production SaaS products
+- Significant experience with Python on the backend
+- Comfortable working with JavaScript on the frontend
+- Strong SQL /database skills
+- Able to debug production issues and work effectively in a mature codebase
+- Strong implementation and design judgment. Can understand a problem, identify trade-offs, make good decisions, and know when to escalate broader architectural questions
+- High ownership and able to execute independently
+- Very comfortable using modern AI development tools like Claude Code, Codex, Cursor, or similar as part of your workflow
+Industry & Experience: Relationship Intelligence CRM, CRM SaaS, B2B SaaS, Relationship Intelligence Platform
+Nice to Have
+- Experience with GCP / Cloud Run, cloud infrastructure, background jobs, production reliability, or scaling SaaS applications

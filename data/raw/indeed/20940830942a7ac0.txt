@@ -1,0 +1,48 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=20940830942a7ac0
+title: Home Office - Software Engineer I
+company: StorageMart | MMS
+location: Columbia, MO 65203
+scraped_at: 2026-09-04T05:31:02+00:00
+query: python developer
+---
+Join Our Team as a Software Engineer!
+Do you enjoy collaboration, have great communication skills and have a passion for writing clean, well-tested code? We’re looking for a Software Engineer who’s ready to ship real features, contribute meaningfully to a team, and grow into an experienced engineer—whether you’re just getting started or a few years in and looking for the right environment to level up. We’d love to hear from you!
+- Compensation: $70,000-$100,000 commensurate with experience.
+- What You’ll Do:
+- Build and maintain modern, responsive web features using Elm and the tools in our stack.
+- Collaborate with senior engineers and product owners to understand requirements and deliver solutions.
+- Write clean, well-tested code and participate actively in code reviews—both giving and receiving feedback.
+- Work with UX designers to bring designs to life with attention to detail and usability.
+- Deploy code confidently with support from teammates and our DevOps team.
+- Debug issues, investigate bugs, and contribute to improving system reliability.
+- Take increasing ownership of features and small projects as you grow.
+- Work across the stack—picking up backend tasks in Node.js, Express, and Postgres as you build confidence.
+- Contribute to documentation and help keep our knowledge base current.
+- Who We’re Looking For:
+- Have 1–3 years of professional web development experience (internships and personal projects count!).
+- Have solid knowledge of HTML, CSS, and JavaScript.
+- Are curious about functional programming and eager to learn Elm. (We’ll teach you.)
+- Have some exposure to backend concepts—APIs, databases, or server-side frameworks.
+- Write code that’s readable and care about doing things the right way.
+- Are comfortable asking for help and giving and receiving feedback.
+- Communicate clearly and enjoy working as part of a team.
+- Are excited to grow your skills and take on more responsibility over time.
+- Are familiar with version control (Git) and comfortable with a collaborative development workflow.
+- Other Qualifications (not mandatory):
+- Coursework or projects in functional programming (Haskell, Elixir, OCaml, Elm, etc.).
+- Familiarity with CI/CD pipelines or deployment workflows.
+- Experience with responsive design, accessibility standards, or CSS frameworks.
+- Exposure to tools like Algolia, headless CMSs, or A/B testing platforms.
+- A portfolio or GitHub with projects you’re proud of.
+- Why You’ll Love Working Here:
+- Innovative Environment: Be part of a forward-thinking team that values creativity and technical excellence.
+- Growth Opportunities: Develop your skills and career with mentorship from senior leaders and exposure to new technologies.
+- Collaborative Culture: Work in a supportive and collaborative environment where your contributions make a real difference.
+- Work Environment:
+This position is located at our home office in Columbia, MO.
+- Work Hours:
+We operate primarily on a standard business-hours schedule with some flexibility, and we maintain a culture where work-life balance is taken seriously.
+Ready to take your career to the next level?
+Apply now and be a key player in shaping our digital future!
+#SMH1

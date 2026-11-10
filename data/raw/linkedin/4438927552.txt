@@ -1,0 +1,32 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4438927552
+title: Senior Odoo Developer / Architect
+company: Tazamun Technologies
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:24+00:00
+query: python developer
+---
+Company Description:
+Tazamun Technologies empowers businesses with digital strategy, automation, and cloud solutions. We are building a high-performance team in our Lahore office to support our expanding global operations.
+Key Responsibilities:
+- Core Development: Develop and customize Odoo modules (Open Source & Enterprise) to meet complex business needs.
+- Code Quality: Conduct code reviews and ensure adherence to Python coding standards.
+- System Architecture: Design scalable architectures and integrate Odoo with external systems via API
+- Database Management: Optimize PostgreSQL databases for high performance.
+Key Qualifications:
+- Integration: Experience with REST APIs and third-party integrations.
+- Experience: 10 years experience in ERP implementation and development.
+- Technical Stack: Expert proficiency in Python, PostgreSQL, and the Odoo framework.
+How To Apply:
+Email CV to job@tazamun.com.sa
+Key Responsibilities:
+- Core Development: Develop and customize Odoo modules (Open Source & Enterprise) to meet complex business needs.
+- Code Quality: Conduct code reviews and ensure adherence to Python coding standards.
+- System Architecture: Design scalable architectures and integrate Odoo with external systems via API
+- Database Management: Optimize PostgreSQL databases for high performance.
+Key Qualifications:
+- Integration: Experience with REST APIs and third-party integrations.
+- Experience: 10 years experience in ERP implementation and development.
+- Technical Stack: Expert proficiency in Python, PostgreSQL, and the Odoo framework.
+How To Apply:
+Email CV to job@tazamun.com.sa

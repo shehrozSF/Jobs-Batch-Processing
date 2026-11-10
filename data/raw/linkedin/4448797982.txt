@@ -1,0 +1,54 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4448797982
+title: Python Automation Engineer
+company: Edge
+location: Islamabad, Islāmābād, Pakistan
+scraped_at: 2026-09-04T03:58:42+00:00
+query: python developer
+---
+This role is with Aiden Risk and not Edge.
+Visit Aiden Risk's website here: www.aidenrisk.com
+About Aiden Risk
+Aiden Risk is the first AI-native commercial insurance brokerage—not a software layer on top of a traditional agency, but a fundamentally new operating model. Our AI handles submissions, renewals, endorsements, certificates of insurance (COIs), and coverage analysis at near-zero marginal cost across every commercial line and industry vertical.
+What We're Building
+The insurance industry is a $500B market still running on the same playbook it used in 1980. There are 39,000 independent agencies, it costs approximately $560 to service a single policy, and expertise doesn't scale beyond the people in the room. We're changing that.
+Our proprietary AI platform handles submissions, renewals, endorsements, certificates of insurance (COIs), coverage analysis, and client communication across every commercial line and industry vertical—at near-zero marginal cost. The result is a single agency with unlimited specialization and a cost structure that no traditional brokerage can match.
+Role Overview
+We're looking for a Python Automation Engineer who is passionate about eliminating repetitive manual work through smart, scalable automation. In this role, you'll design and build automation solutions that improve operational efficiency, streamline business processes, and support the AI-powered systems that drive Aiden Risk.
+You'll collaborate closely with engineering and product teams to develop automation frameworks, integrate with internal and external systems, and build reliable tools that enable our business to scale rapidly.
+Key Responsibilities
+- Design, develop, and maintain scalable automation workflows using Python.
+- Build reusable automation libraries and utilities to improve engineering efficiency.
+- Develop and maintain automation frameworks for business processes and system integrations.
+- Integrate automation solutions with REST APIs, databases, and third-party platforms.
+- Troubleshoot, debug, and optimize automation pipelines for performance and reliability.
+- Write clean, maintainable, and well-tested Python code following engineering best practices.
+- Collaborate with engineering, AI, and product teams to automate operational workflows.
+- Participate in code reviews and contribute to technical design discussions.
+- Continuously identify opportunities to improve processes through automation.
+Requirements
+- 2+ years of professional experience in Python development or automation engineering.
+- Strong proficiency in Python .
+- Experience building automation solutions using frameworks such as Selenium , Playwright , or similar tools.
+- Experience working with REST APIs and integrating third-party services.
+- Good understanding of SQL and relational databases.
+- Familiarity with Git and collaborative software development practices.
+- Experience using testing frameworks such as pytest or unittest .
+- Familiarity with data processing libraries such as Pandas or NumPy .
+- Strong analytical thinking, debugging, and problem-solving skills.
+- Bachelor's degree in Computer Science, Software Engineering, or a related field. Nice to Have
+- Experience with cloud platforms such as AWS , Azure , or Google Cloud Platform (GCP) .
+- Experience with Docker and containerized applications.
+- Familiarity with CI/CD pipelines and DevOps practices.
+- Experience with message brokers such as Kafka or RabbitMQ .
+- Exposure to workflow automation, scripting, or AI-powered automation tools.
+- Previous startup experience or experience working in a fast-paced product environment. Job Details
+- Location: Onsite — Amazon Mall, DHA Phase II, Islamabad
+- Employment Type: Full-time
+- Working Hours: 7:00 PM – 4:00 AM PKT
+Why Join Aiden Risk?
+- Build automation solutions that transform one of the world's largest industries.
+- Work with modern technologies alongside a highly collaborative engineering team.
+- Help scale an AI-native platform by automating complex operational workflows.
+- Take ownership of impactful projects in a fast-paced startup environment.
+- Grow your technical expertise while solving meaningful engineering challenges.

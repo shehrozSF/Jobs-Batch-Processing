@@ -1,0 +1,44 @@
+source: rozee
+url: https://www.rozee.pk/senior-software-engineer-hyderabad-jobs-1872791
+title: Senior Software Engineer
+company: ValueMomentum
+location: Hyderabad, Pakistan
+scraped_at: 2026-09-04T05:02:47+00:00
+query: software engineer
+---
+We are looking for a Senior Software Engineer with 4 to 6 years of experience in ETL development, specifically using IBM CP4D and DataStage. This role is based in Hyderabad, Pune, or Coimbatore and requires full-time, on-site presence. The ideal candidate will be responsible for designing, developing, and maintaining scalable ETL workflows while working closely with business teams and data modelers to deliver effective data integration solutions. Strong skills in SQL, DB2, Unix scripting, and data warehousing concepts are essential. Experience managing large data volumes and ensuring the performance and reliability of data pipelines is also required.
+Key Responsibilities
+- Design and develop ETL jobs using IBM CP4D and DataStage to extract, transform, and load data into data warehouses.
+- Build scalable ETL workflows capable of processing structured and semi-structured data efficiently.
+- Collaborate with business stakeholders and data modelers to gather requirements and translate them into technical designs.
+- Prepare detailed mapping documents and transformation rules based on source-to-target specifications.
+- Utilize DataStage Parallel Jobs, Sequence Jobs, Server Jobs, shared containers, parameters, job controls, and restartability features.
+- Optimize ETL workflows using transformers, joins, lookups, aggregations, funnels, sorts, partitioning, and surrogate-key handling.
+- Conduct unit testing and support performance testing of ETL jobs.
+- Troubleshoot job failures, performance bottlenecks, metadata/schema issues, connector failures, and parallel-engine errors.
+- Integrate data from various sources including files, APIs/web services, XML/JSON, message queues, and relational databases.
+- Maintain ETL technical design documentation, test cases, results, and issue logs.
+- Monitor and support ETL jobs in production to ensure reliable data processing.
+- Work closely with cross-functional teams to ensure seamless data integration and delivery.
+Required Qualifications
+- 4 to 6 years of hands-on experience in ETL development with IBM DataStage and IBM CP4D.
+- Proficiency with DataStage Parallel Jobs, Sequence Jobs, Server Jobs, shared containers, parameters, job control, and restartability.
+- Strong SQL skills and experience with DB2; familiarity with Oracle, SQL Server, or Snowflake is a plus.
+- Expertise in developing and tuning ETL workflows using various transformations and data handling techniques.
+- Proven ability to troubleshoot ETL job failures, performance issues, metadata/schema problems, connector failures, and parallel-processing errors.
+- Experience integrating data from multiple sources including files, APIs/web services, XML/JSON, message queues, and relational databases.
+- Good knowledge of Linux/Unix commands and shell scripting.
+- Solid understanding of data warehousing principles, dimensional modeling, data quality, data lineage, and reconciliation controls.
+- Experience with source control, CI/CD pipelines, code reviews, release management, and production support.
+- Ability to translate business requirements into scalable technical designs and ETL specifications.
+- Strong analytical, problem-solving, troubleshooting, and communication skills.
+- Experience working in Agile development environments.
+Preferred Qualifications and Benefits
+- Experience with IBM Cloud Pak for Data implementations.
+- Exposure to modern cloud data platforms such as Snowflake.
+- Familiarity with scheduling and orchestration tools.
+- Experience handling large-scale data integration projects.
+- Prior experience in the Property & Casualty (P&C) Insurance domain is advantageous.
+At ValueMomentum, we cultivate a collaborative environment where passionate engineers tackle complex business challenges across the P&C insurance value chain. We are committed to continuous learning through our Infinity Program, which offers role-based skill development and opportunities to contribute to impactful global transformation initiatives.
+Our benefits include a competitive compensation package, career advancement through individual development plans, coaching, mentoring, comprehensive training and certification programs, and a performance management system that emphasizes goal setting, continuous feedback, year-end appraisals, and recognition for outstanding performers.
+Founded in 2000, ValueMomentum has empowered over 100 carriers across the US, Canada, and Europe to leverage AI and emerging technologies, driving sustained growth and high performance in the insurance industry. Join us to be part of a team dedicated to innovation and excellence..

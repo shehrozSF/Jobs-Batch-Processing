@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/pakistan-facilities-management-pvt-ltd-sales-engineer-jobs-1867984
+title: Sales Engineer
+company: Pakistan Facilities Management Pvt Ltd
+location: Islamabad, Pakistan
+scraped_at: 2026-09-04T05:02:06+00:00
+query: software engineer
+---
+
+Pakistan Facilities Management Pvt Ltd is seeking an experienced Sales Engineer with at least five years in the field to join our dynamic team. This role focuses on leveraging technical product knowledge and solution selling to meet client needs and drive business growth. The Sales Engineer is responsible for understanding customer requirements, providing technical demonstrations, and collaborating with internal teams to develop proposals that address complex challenges. While this position does not involve managing a team, it requires strong cross-functional collaboration skills and the ability to manage multiple projects effectively.
+
+The successful candidate will utilize advanced presentation skills and deep expertise in customer relationship management to build strong, lasting client partnerships. Proficiency with tools such as Salesforce, HubSpot CRM, and marketing automation platforms is essential for managing the sales pipeline and product lifecycle efficiently. This role demands a proactive approach to sales pipeline management and the ability to work closely with marketing and product teams to align sales strategies with organizational goals.
+
+

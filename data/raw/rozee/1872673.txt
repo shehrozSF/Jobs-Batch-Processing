@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/eaglestar-communication-full-stack-web-developer-jobs-1872673
+title: Full Stack Web Developer
+company: EagleStar Communication
+location: Gujranwala, Pakistan
+scraped_at: 2026-09-04T04:56:43+00:00
+query: python developer
+---
+
+EagleStar Communication is seeking a skilled Full Stack Web Developer with a minimum of 2 to 3 years of professional experience in web development. The ideal candidate has strong expertise in both frontend and backend development, including proficiency in frameworks and platforms such as WordPress, Shopify, and Laravel, as well as custom website development. This role requires hands-on experience in database management, responsive web design, and cloud services, specifically Google Cloud Platform. The developer will be responsible for designing, coding, testing, and debugging web applications to deliver high-quality solutions aligned with project requirements.
+
+The Full Stack Web Developer at EagleStar Communication works independently to meet project deadlines while maintaining effective communication within the team. The candidate should demonstrate excellent problem-solving skills and maintain a portfolio showcasing past work to ensure the ability to deliver robust, well-functioning applications. Preference will be given to candidates based in Gujranwala or nearby areas. This position does not involve managing a team but requires strong collaboration with other departments to achieve project goals.
+
+

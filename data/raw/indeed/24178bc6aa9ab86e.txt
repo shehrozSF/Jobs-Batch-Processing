@@ -1,0 +1,70 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=24178bc6aa9ab86e
+title: Python Backend Developer
+company: Altius Technologes, inc
+location: Georgia
+scraped_at: 2026-09-04T05:31:06+00:00
+query: python developer
+---
+– Strong proficiency in Python and/or TypeScript/Node.js
+– Deep experience with REST APIs, GraphQL, and various integration patterns
+– Understanding of JSON-RPC, WebSocket, or similar RPC protocols
+– Expertise in async/await patterns and concurrent programming
+– Experience with authentication mechanisms (OAuth 2.0, JWT, API keys)
+– Strong grasp of error handling, logging, and observability practices
+– Experience building SDKs, libraries, or developer tools
+– Knowledge of security best practices for API integrations and data handling
+– Familiarity with Git, CI/CD pipelines, and deployment automation
+Preferred Qualifications
+– Hands-on experience with Model Context Protocol (MCP) specification and implementations
+– Experience integrating with LLM APIs (OpenAI, Anthropic, Azure OpenAI, Google Vertex AI)
+– Understanding of AI agent frameworks (FastMCP)
+– Knowledge of prompt engineering and LLM tool calling mechanisms
+– Experience with function calling and structured output from LLMs
+– Familiarity with enterprise platforms (Splunk, Databricks, Zendesk, Salesforce, Jira)
+– Understanding of token optimization and context window management
+– Experience with schema validation (JSON Schema, Pydantic, Zod)
+– Knowledge of containerization (Docker) and orchestration (Kubernetes)
+– Background in observability tools (Prometheus, Grafana, Datadog)
+– Contributions to open-source AI/LLM projects
+Technical Skills
+– Languages : Python 3.10+, JavaScript (Node.js 18+)
+– Protocols: JSON-RPC 2.0, REST, GraphQL, Server-Sent Events (SSE), WebSockets
+– LLM Integration: OpenAI API, Anthropic Claude API, Azure OpenAI, function calling, tool use
+– Frameworks : FastAPI, Express.js, async/await patterns, Agent SDK integration
+– Data : JSON Schema, Pydantic models, data validation and serialization
+– Tools : Git, Docker, pytest, Jest, VS Code, Postman/Insomnia
+– Security : OAuth 2.0, JWT, encryption (AES, RSA), secure secret management
+– Concepts : API design, rate limiting, retry logic, circuit breakers, idempotency
+Domain Knowledge
+– Understanding of AI agent architectures and multi-agent systems
+– Knowledge of LLM capabilities, limitations, and token economics
+– Familiarity with prompt engineering and context optimization techniques
+– Understanding of streaming responses and real-time data handling
+– Experience with callback mechanisms and event-driven architectures
+– Knowledge of data encryption and PII handling in AI contexts
+Soft Skills
+– Strong problem-solving ability with complex integration challenges
+– Excellent written communication for documentation and tool descriptions
+– Ability to design intuitive tool interfaces that LLMs can effectively use
+– Collaborative mindset for working with AI engineers and product teams
+– Attention to detail for schema design and error handling
+– Proactive approach to monitoring and improving connector reliability
+– Adaptability to rapidly evolving LLM and AI agent ecosystems
+Day-to-Day Activities
+– Develop new MCP connectors for enterprise system integrations
+– Debug tool calling issues and optimize parameter handling for LLM consumption
+– Review and improve tool descriptions for better LLM understanding
+– Implement rate limiting and error handling for production robustness
+– Write unit tests and integration tests for connector reliability
+– Monitor connector performance and troubleshoot agent workflow failures
+– Collaborate with teams on new integration requirements
+– Update connectors as upstream APIs change or LLM capabilities expand
+What You’ll Build
+– MCP servers exposing enterprise data and capabilities to AI agents
+– Tool schemas and validation logic for safe LLM interactions
+– Authentication and authorization layers for secure integrations
+– Retry mechanisms and error recovery for resilient agent workflows
+– Documentation and examples for connector usage
+– Testing frameworks ensuring reliability across LLM interactions
+– Monitoring and observability instrumentation for production systems

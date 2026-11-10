@@ -1,0 +1,31 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=4e9630f26fcaf22e
+title: JDs Python Developer
+company: Digixvalley
+location: Lahore
+scraped_at: 2026-09-04T05:34:01+00:00
+query: python developer
+---
+2 - 3 Years
+Total Experience
+Full Time
+Job Type
+1
+No. of Openings
+We are looking for experienced Python developers with excellent skill sets who can join our company and produce world-class applications.
+- Expertise in Django Framework (Python Web), Python, Google Maps Api, Linux, HTML5, CSS, JavaScript, JSON, JQuery, .Net Framework, C#, Web Services
+- Expertise in object-oriented and data structure
+- Expertise in SQL Server and database design
+- Investigates new technologies and techniques and researches ongoing industry developments
+- Designing, coding, testing, documenting, and deploying global applications based on system and user requirements
+- Expert knowledge in analyzing, designing, and developing solutions to highly complex problems
+- Experience in a microservices architecture
+- Knowledge of using Amazon RDS, S3, CodeCommit
+- Excellent English communication skills
+Responsibilities and Duties
+- Software development by following requirements specifications
+- Enhance existing systems by analyzing business objectives, preparing an action plan and identifying areas for modification and improvement
+- Manage defect tracking system and resolve all issues and prepare updates for systems.
+- Investigate and develop skills in new technologies
+- Create technical specifications
+If you’re passionate about [industry or field] and ready to make an impact at Digixvalley, we’d love to hear from you! Please send your resume and cover letter to Mehroz@digixvalley.com

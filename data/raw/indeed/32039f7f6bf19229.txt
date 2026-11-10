@@ -1,0 +1,16 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=32039f7f6bf19229
+title: QE Security Testing Engineer
+company: Tavant Technologies, Inc.
+location: Englewood, NJ 07631
+scraped_at: 2026-09-04T05:31:06+00:00
+query: python developer
+---
+QE Security Testing Engineer
+Location: New Jersey, USA (Hybrid – 3 Days Onsite) (Mandate in person)
+Experience: 10+ Years
+- Automation Framework
+- Application Security Testing
+- NFR - Non-Functional Requirements Testing.
+- K6, Performance and security testing Pay: $65.00 - $70.00 per hour
+Work Location: In person

@@ -1,0 +1,38 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=09860d6bee0bd271
+title: Software Developer – Project Based
+company: Innovative Software Solution
+location: Pakistan
+scraped_at: 2026-09-04T05:32:40+00:00
+query: python developer
+---
+Join Our Team: Software Developer – Project Based
+We are looking for an experienced Software Developer for a project-based opportunity to work on a data-driven software application .
+The ideal candidate should have strong development experience, excellent problem-solving skills, and the ability to independently understand requirements, research technical solutions, and develop a reliable and scalable application.
+Key Skills & Requirements
+- 3+ years of professional software development experience
+- Strong experience in backend and API development
+- Proficiency in Python, Node.js, or similar technologies
+- Experience with databases such as PostgreSQL, MySQL, MongoDB, or similar
+- Experience with API integrations and external data sources
+- Knowledge of data collection, processing, and automation
+- Experience with web scraping or browser automation is a plus
+- Experience working with data-driven applications is highly preferred
+- Understanding of data analytics, dashboards, and reporting systems
+- Familiarity with cloud platforms and application deployment
+- Good understanding of system architecture and database design
+- Experience handling large or continuously changing datasets
+- Strong analytical and problem-solving abilities
+- Ability to research and recommend suitable technical solutions We Especially Value Candidates Who:
+- Have experience developing data-intensive applications
+- Have worked with automated data collection or processing
+- Have experience integrating multiple APIs or third-party data sources
+- Understand historical data tracking and data change monitoring
+- Can identify technical limitations and suggest practical alternatives
+- Can work independently from concept to MVP
+- Are comfortable learning and working with new technologies when required Project-Based Opportunity
+This is a project-based development role . The selected candidate will receive detailed project requirements and will be expected to provide a suitable technical approach, estimated development timeline, and development plan.
+If you are an experienced developer who enjoys solving complex problems and building applications from the ground up, we would like to hear from you.
+Interested !? share you CV on our email, recruitment@innovativesoftwaresolution.com
+Pay: Rs40,000.00 - Rs70,000.00 per month
+Work Location: Remote

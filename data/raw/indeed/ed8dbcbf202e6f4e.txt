@@ -1,0 +1,32 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=ed8dbcbf202e6f4e
+title: PYTHON DEVELOPER
+company: Netresolute
+location: Philadelphia, PA
+scraped_at: 2026-09-04T05:30:55+00:00
+query: python developer
+---
+We are looking for a Python Web Developer responsible for developing, enhancing, modifying, maintaining applications and managing the interchange of data between the server and the users. Your primary focus will be the development of all server-side logic, ensuring high performance and responsiveness to requests from the front-end
+-
+- Create, execute and automate test scenarios from use cases for existing and new solutions.
+-
+- Identify and implement ways to provide efficiencies to test cycles.
+-
+- Experience of Python commercial experience preferably with data processing.
+-
+- Experience with Backend development. Data structures and OOPs design principles.
+-
+- Relational (MySQL, Postgres) and No SQL (especially Redis, Mongo) database technologies.
+-
+- Linux Systems knowledge (performance tuning, basic networking, file systems)
+-
+- Knowledge of algorithms, data structures, and Python design patterns.
+-
+- Solid and proven knowledge of the Flask web framework. Experience with Docker, Kubernetes and Circle CI.
+-
+- Participates in Lean-Agile activities including back-log and sprint planning, stakeholder reviews, daily stand-ups, and retrospectives.
+MUST HAVES
+-
+- Communication
+-
+- Valid Work Authorisation

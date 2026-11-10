@@ -1,0 +1,88 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=e43a314c6189c7be
+title: Senior Quality Assurance Engineer
+company: TherapyNotes.com
+location: Philadelphia, PA
+scraped_at: 2026-09-04T05:31:06+00:00
+query: python developer
+---
+About Us
+TherapyNotes is the go-to superhero for behavioral health Practice Management and EHR software! Our top-notch SaaS solution handles scheduling, billing, documenting, telehealth, and more so clinicians can focus on awesome patient care.
+We're a dynamic team of pros who love to innovate and push the envelope, keeping our software cutting-edge. Join us, and let's revolutionize behavioral health software together while making a real difference!
+About the Position
+Join our team as a Senior QA Automation Engineer , where your primary focus will be designing, developing, and maintaining robust automated testing solutions across our API and UI layers for an industry-leading SaaS application. In addition to core automation responsibilities, you will contribute to load and performance testing initiatives to help validate system scalability and reliability.
+As a senior member of the team, you will mentor and guide others, promote best practices in automation and testing strategy, and help drive quality across a distributed engineering organization.
+What You'll Do
+-
+Design, develop, and maintain scalable automated test suites for API and UI layers
+Collaborate with QA and development teams to define and implement a
+- Ensure automated tests are integrated into the CI/CD pipeline to improve efficiency and accelerate delivery
+-
+Contribute to load, stress, and endurance testing efforts to validate system performance and scalability
+-
+Assist in identifying performance bottlenecks and partner with engineering teams on remediation efforts
+-
+Analyze test failures, perform root cause analysis , and create actionable defect reports
+-
+Validate software to ensure it meets requirements and maintains high quality standards
+-
+Perform manual testing where automation is not appropriate
+-
+Promote consistency in testing practices across a distributed set of development teams
+-
+Recommend improvements to automation, testing processes, and overall quality practices
+-
+Mentor team members on automation development, automation design patterns, testing strategies, and best practices
+-
+Provide technical leadership in building maintainable, scalable, and reusable test frameworks
+What We're Looking For
+-
+8+ years of experience in an Agile, highly collaborative, team-based environment
+-
+5+ years of experience developing API and UI test automation solutions
+-
+Hands-on experience with test automation frameworks (e.g., Selenium, Cucumber, Playwright, etc.)
+-
+Experience contributing to load/performance testing efforts (e.g., JMeter, k6, Gatling)
+-
+Strong understanding of object-oriented programming and design patterns
+-
+Proficiency in languages such as C#, Java, or JavaScript
+-
+Strong understanding of web and browser technologies
+-
+BS and/or MS in a technical discipline (Computer Science or Software Engineering preferred)
+Bonus Points If You Have
+-
+5+ years of experience in mobile application testing, including manual and automated testing
+-
+Strong understanding of mobile application technologies, including iOS and Android operating systems
+-
+Proficiency with Selenium-based mobile testing automation frameworks such as Selendroid and Appium
+What We Offer
+-
+Competitive salary - $95,000-$125,000
+-
+Employer sponsored health, dental, vision, life, and disability insurance
+-
+Retirement plan with company contribution
+-
+Annual company profit sharing
+-
+Personal development/training budget
+-
+Open, collaborative work environment
+-
+Extensive 2-week onboarding plan
+-
+Comprehensive mentorship program
+Equal Opportunity Employer Statement & Applicant Rights
+TherapyNotes LLC is an Equal Opportunity Employer and does not discriminate based on race, color, religion, sex, national origin, age, disability, genetic information, or any other protected status under federal, state, or local law. We are committed to providing a workplace free of discrimination and harassment. For more information about your rights under federal employment laws, please review the following:
+-
+Know Your Rights: Workplace Discrimination is Illegal
+-
+Family and Medical Leave Act (FMLA): Employee Rights Under FMLA
+If you require a reasonable accommodation during the application process, please contact humanresources@therapynotes.com.
+#LI-Remote
+#LI-AC1
+9/1/2026

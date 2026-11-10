@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/logic-consultants-full-stack-developer-net-core-jobs-1871098
+title: Full Stack Developer (.Net Core)
+company: Logic Consultants
+location: Pakistan
+scraped_at: 2026-09-04T04:56:36+00:00
+query: python developer
+---
+
+Logic Consultants is seeking a self-motivated Full Stack Developer with expertise in .Net Core technologies. The ideal candidate will possess strong skills in backend development using Dotnet Core, Entity Framework, and SQL Server, as well as front-end proficiency with JavaScript frameworks such as Angular and React. This developer will work independently and take full ownership of their modules by thoroughly testing and delivering high-quality production-ready code. Attention to detail and the ability to produce flawless results are essential for success in this role.
+
+This position involves collaborating with a dynamic team while primarily working autonomously on assigned tasks. The developer will focus on building and maintaining robust RESTful APIs and user-friendly web applications following best practices in software design, development, and testing. Although this role does not require team management, strong communication skills and self-discipline are critical to meet project deadlines and contribute to Logic Consultants' mission of delivering superior technology solutions.
+
+

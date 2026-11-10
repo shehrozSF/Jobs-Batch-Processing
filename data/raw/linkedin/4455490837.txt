@@ -1,0 +1,63 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4455490837
+title: Software Developer
+company: AutoScale Ventures
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:58:31+00:00
+query: python developer
+---
+Position: Software Developer
+Location: Remote (Pakistan)
+Job Type: Full-time
+Work Schedule: 9:00 AM–5:00 PM Pacific Standard Time, Monday–Friday (Overnight shift for Pakistan-based candidates)
+Salary: 400,000 PKR/month
+Role Overview
+We are seeking a motivated and career-driven Software Developer with at least 3 years of professional experience to join our growing team.
+This role is ideal for a developer with strong experience in both front-end and back-end development, and who enjoys working on real-world, production-grade systems. You will help build and scale customer-facing websites and dashboards, internal tools and systems, as well as data-driven and infrastructure products connected to large-scale crawling, APIs, and infrastructure.
+Key Responsibilities
+- Develop and maintain robust back-end services using Python/Node
+- Build and maintain front-end components using React
+- Integrate with APIs, crawlers, and data ingestion pipelines
+- Optimize front-end and back-end systems for performance, reliability, and maintainability
+- Collaborate with cross-functional teams across time zones
+- Support and improve live production systems with a focus on uptime and data accuracy
+- Participate in code reviews, system design discussions, and feature planning
+- Explore opportunities to integrate AI-driven features and data automation
+Requirements
+- Minimum 3+ years of professional full-stack development experience
+- Strong proficiency in React, including component design, state management, responsive layouts, and performance optimization
+- Good understanding of UI/UX principles, including visual hierarchy, spacing, typography, accessibility, and user-centered design
+- Experience with modern CSS frameworks (Tailwind, Sass, Styled Components, Material UI, Chakra UI, etc.)
+- Back-end development skills using Python (Flask/FastAPI/Django) or Node.js (Express/NestJS) to build APIs, integrations, and support front-end features
+- Strong proficiency in either Python or JavaScript
+- Solid understanding of Linux environments, SQL databases (PostgreSQL/MySQL), and back-end system design
+- Ability to collaborate closely with product managers, designers, and back-end engineers
+- Ability to independently handle end-to-end features (UI, API integration, testing, deployment)
+- Experience contributing to complex or large-scale systems
+- Familiarity with web crawlers, scraping tools, or data ingestion pipelines
+Nice to Have (Plus Points)
+- Hands-on experience with enterprise-level or high-scale crawling systems
+- Interest or prior work in AI/ML-driven solutions
+- Solid foundation in statistics, mathematics, or machine learning
+- Previous experience in startups or fast-paced technology companies
+- Mentorship or leadership experience with junior developers
+- Contributions to open-source or personal technical projects
+What You'll Work On (Early Projects May Include)
+- Building and improving front-end dashboards, websites, and platforms for data-heavy applications
+- Developing systems connected to: Vehicle history & market data (VinAudit.com), large-scale crawling & scraping infrastructure, Data center and residential proxies (SquidProxies.com)
+- Enhancing internal tools for: Data operations, Infrastructure monitoring, Market intelligence
+- Collaborating with engineering and product teams to improve performance, reliability, and scalability
+- Exploring AI/ML-powered features and private model integrations for internal and customer-facing products
+Benefits & Perks
+- Fully Remote Work: Work from anywhere with reliable internet
+- Healthcare Coverage for you and your family
+- Paid Leave & Holidays, with time to rest and recharge
+- Equipment Funds Support to help set up or upgrade your home office
+- Profit Sharing: Monthly and annual bonuses tied to performance
+- Long-Term Career Growth in a stable and growing company
+- Collaborative Culture with a global distributed team
+About Us
+AutoScale Ventures is a technology-driven company with 50+ team members across the Philippines, Pakistan, India, the U.S., China, and Canada. We operate a group of businesses spanning tech, data services, infrastructure, and AI, with some of our main products and ventures around:
+- Vehicledata (VinAudit.com)
+- Proxy infrastructure solutions (SquidProxies.com)
+Only shortlisted candidates will be contacted. We look forward to meeting the right person for this role!

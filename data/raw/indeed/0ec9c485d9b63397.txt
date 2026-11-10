@@ -1,0 +1,34 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=0ec9c485d9b63397
+title: .Net (C-Sharp) Developer
+company: Intelligent Brain Solution
+location: Pakistan
+scraped_at: 2026-09-04T05:32:51+00:00
+query: python developer
+---
+Job Description
+Our International client based on software development business, are looking for a software developer to help the customer by customizing the software products. The client already has the main software product which is using by more than 20,000 users worldwide. What is required is someone with the programming expertise to automate the developed software product. Also, validating reported issues, as well as analyzing, troubleshooting, documenting, and performing modifications in order to monitor, maintain, and improve systems related to ongoing projects.
+Key Duties
+- Develop new tools and solutions to automate our main software product.
+- Develop with a Quality Assurance mentality of long lasting code.
+- As needed, generate the workflow/Class diagrams for newly created tools.
+- Fully user friendly documentation for developed tools.
+- Work directly with other international development teams as needed to understand and
+- Improve systems and tools.
+- Perform other duties/projects as requested by management.
+Requirements
+- A strong knowledge in C# and .Net technology.
+- Competent automating the other software via COM-Object and REST-API.
+- Preferable candidate with also knowledge of the Programming languages, C++, C#, VB.Net, XML/XLS, Python.
+- You work well as part of a team, and are willing to take direction, but can be trusted to get things done on your own.
+- Excellent analytical, problem-solving, and research skills coupled with discretion and sound independent judgement.
+- 1-2 years programming with C#; preferably in a professional/work environment.
+- Very good skills to understand the project workflow.
+- Ability to find the root cause of a technical issue or broken process and create a proposed larger scalesolution.
+- Detail oriented with strong organizational and time management skills.
+- Highly developed interpersonal skills (patient, positive, able to effectively communicate, assist and teach others).
+Preferred Qualifications
+- Bachelor’s degree in an Information Technology, Information Systems, Computer Science, or
+- equivalent workexperience.
+- 2-3 years C# and .Net technologies experience.
+Please send your CV or questions on the following email address: Info@ibrainsolution.com

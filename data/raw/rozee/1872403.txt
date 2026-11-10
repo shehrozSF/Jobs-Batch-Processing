@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/planet-system-laravel-php-developer-jobs-1872403
+title: Laravel PHP Developer
+company: Planet System
+location: Pakistan
+scraped_at: 2026-09-04T04:56:40+00:00
+query: python developer
+---
+
+Planet System is seeking a skilled Laravel PHP Developer with a minimum of 5 years of professional experience to join our dynamic team. The ideal candidate demonstrates deep expertise in PHP development, specifically with the Laravel framework, and possesses strong capabilities in database management, RESTful API development, and unit testing. This role focuses on designing, developing, and maintaining our server-side logic, ensuring high performance and responsiveness of applications. The developer will work closely with front-end developers, project managers, and other stakeholders to deliver robust and scalable web solutions.
+
+This position does not involve managing a team but requires excellent individual contribution skills and the ability to collaborate effectively within a team environment. The candidate must be adept at version control using Git and proficient in MySQL database operations, including schema migrations. A thorough understanding of best practices in API design and testing is essential. The developer will be responsible for ensuring clean, well-structured code and maintaining the integrity of our application’s backend architecture.
+
+

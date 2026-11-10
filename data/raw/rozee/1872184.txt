@@ -1,0 +1,36 @@
+source: rozee
+url: https://www.rozee.pk/senior-flutter-mobile-app-developer-jobs-1872184
+title: Senior Flutter Mobile App Developer
+company: SimpSocial LLC
+location: Pakistan
+scraped_at: 2026-09-04T04:59:24+00:00
+query: python developer
+---
+SimpSocial, a forward-thinking automotive technology company, is looking for a Senior Flutter Mobile App Developer to join its remote engineering team on a full-time basis. In this role, you will take full ownership of the mobile application experience for a sophisticated AI-powered CRM and lead-management platform tailored specifically for automotive dealerships. The ideal candidate will have hands-on experience building and maintaining production mobile applications, focusing on delivering seamless, user-centric solutions that improve how dealership employees communicate, manage leads, and handle daily tasks via their mobile devices.
+Key Responsibilities
+- Develop and maintain the mobile application using Flutter and Dart, ensuring a high-quality user experience aligned with dealership workflows.
+- Collaborate closely with backend teams to integrate REST APIs, facilitating smooth data flow and optimal app performance.
+- Implement and troubleshoot key communication features such as calling, messaging, push notifications, and deep linking within the app.
+- Optimize the mobile UI/UX to provide a responsive, intuitive, and reliable experience on both Android and iOS platforms.
+- Manage app releases and updates on the Apple App Store and Google Play Store, ensuring compliance with all platform requirements.
+- Continuously monitor and enhance app performance, reliability, and responsiveness from the end-user perspective.
+- Identify and resolve platform-specific issues to maintain consistent behavior across devices and operating systems.
+- Proactively investigate and address workflow challenges, including slow API responses or incorrect notification routing.
+Required Qualifications
+- Minimum of 1 year of professional experience with Flutter and Dart development in a production environment.
+- Proven track record of contributing to published mobile applications on the Apple App Store and/or Google Play Store.
+- Experience integrating REST APIs and working with Firebase services.
+- Familiarity with push notifications, deep linking, and real-time communication technologies such as SMS, VoIP, or telephony.
+- Hands-on experience managing app releases on both Apple App Store and Google Play Store platforms.
+- Strong understanding of mobile UI/UX principles and state-management architectures within Flutter.
+- Ability to troubleshoot and resolve platform-specific issues across Android and iOS devices.
+- Excellent problem-solving skills and a proactive mindset focused on enhancing the mobile user experience.
+- Strong communication skills and the ability to work independently in a fully remote environment.
+Preferred Qualifications and Benefits
+- Experience working on CRM, SaaS, messaging, communications, sales, or lead-management applications is highly desirable.
+- Knowledge of AI-powered workflows and automotive dealership operations is a plus.
+- Competitive monthly salary ranging from Rs250,000 to Rs350,000.
+- Immediate start with a fully remote work setup, providing flexibility and the chance to contribute to an innovative automotive technology platform.
+- Opportunity to significantly impact how dealership employees manage customer communications, sales workflows, and operations through cutting-edge mobile solutions.
+Applicants are required to submit a brief 1-3 minute video introduction outlining their background, Flutter experience, and key project contributions, along with their resume. The video should be uploaded to a shareable platform such as Loom, Google Drive, YouTube (unlisted), or Zoom cloud, and the link included in the application. Applications without a working video link will not be considered.
+This position is ideal for a dedicated developer who takes ownership of their work and continuously seeks to improve the mobile experience by asking, “How can we make this faster, easier, more reliable, and better on a mobile device?” If you are passionate about building sophisticated mobile applications that serve real users and want to be part of a dynamic team shaping the future of automotive CRM technology, SimpSocial encourages you to apply..

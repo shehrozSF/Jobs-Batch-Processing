@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/al-shams-recruiting-agency-sales-engineer-all-cities-jobs-1868697
+title: Sales Engineer
+company: Al-Shams Recruiting Agency
+location: Saudi Arabia
+scraped_at: 2026-09-04T05:00:35+00:00
+query: software engineer
+---
+
+Al-Shams Recruiting Agency is seeking an experienced Sales Engineer to join our dynamic team. The ideal candidate possesses strong technical knowledge and excels in solution selling to address client needs effectively. This role requires managing a team of 10 persons, coordinating efforts to meet sales targets and ensure customer satisfaction. The Sales Engineer will act as a key liaison between the technical teams and clients, delivering tailored product demonstrations and presentations to complex potential customers.
+
+The successful candidate has a minimum of five years in a relevant sales field and is adept in customer relationship management and negotiation. They must be capable of understanding both technical product details and customer challenges to provide optimal solutions that drive sales growth. Effective communication and presentation skills are essential for conveying product value propositions clearly and convincingly to various stakeholders.
+
+

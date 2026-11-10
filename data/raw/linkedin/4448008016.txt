@@ -1,0 +1,61 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4448008016
+title: Sr Python Developer
+company: Digixvalley Career & Culture
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:58:06+00:00
+query: python developer
+---
+2 - 3 Years
+Total Experience
+Full Time
+Job Type
+1
+No. of Openings
+View all Jobs
+We are seeking a skilled Python Developer with expertise in Artificial Intelligence and Machine Learning to join our dynamic team. The ideal candidate will design, develop, and deploy AI-powered applications, pipelines, and solutions, ensuring performance, scalability, and maintainability in production environments.
+Key Responsibilities
+- Design, develop, test, and deploy scalable Python applications.
+- Write clean, efficient, and modular code integrating AI/ML models into production systems.
+- Develop REST APIs for AI services and manage data pipelines for ML workflows.
+- Build, train, evaluate, and optimize machine learning models using libraries such as TensorFlow, PyTorch, or scikit-learn.
+- Deploy models using ML frameworks or cloud-based AI services (AWS SageMaker, Azure ML, or GCP AI Platform).
+- Conduct feature engineering, model selection, hyperparameter tuning, and performance evaluation.
+- Work with structured and unstructured data (CSV, JSON, images, text, etc.).
+- Develop data preprocessing pipelines ensuring data quality and readiness for modelling.
+- Participate in code reviews, design discussions, and agile ceremonies (stand-ups, sprint planning).
+- Stay updated with the latest AI/ML trends, architectures, and algorithms.
+- Containerize applications using Docker.
+- Deploy AI models in production using CI/CD pipelines.
+Required Qualifications
+- Bachelor’s or Master’s degree in Computer Science, Data Science, AI, or related fields.
+- 2-3 years of hands-on experience in Python development.
+- Strong understanding of AI/ML concepts, algorithms, and workflows.
+- Experience with machine learning libraries (TensorFlow, PyTorch, Keras, scikit-learn).
+- Proficiency in data manipulation libraries (Pandas, NumPy) and visualization tools (Matplotlib, Seaborn).
+- Experience deploying AI models into production systems.
+- Familiarity with API development using frameworks like Flask or FastAPI.
+- Understanding of SQL and NoSQL databases.
+- Experience in Natural Language Processing (NLP) or Computer Vision (CV) projects.
+- Knowledge of MLOps practices, ML model monitoring, and continuous training.
+- Familiarity with big data tools (Spark, Hadoop) is a plus.
+- Working experience with cloud platforms (AWS, Azure, GCP) for AI services.
+- Exposure to Deep Learning architectures (CNNs, RNNs, Transformers).
+Apply Now
+First Name*
+Last Name*
+Contact Number*
+Email Address*
+Work Experience*
+I am a recent graduate
+Company Name
+Job Title
+Start Date
+End Date
+I currently work here
+Current Salary (Monthly)
+PKR
+Expected Salary (Monthly)
+PKR
+Notice Period (days)
+Resume *

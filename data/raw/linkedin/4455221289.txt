@@ -1,0 +1,135 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4455221289
+title: Principal AI Engineer
+company: Mobiz IT
+location: Islamabad, Islāmābād, Pakistan
+scraped_at: 2026-09-04T04:00:10+00:00
+query: python developer
+---
+About Mobiz
+Mobiz is a global technology services leader, Microsoft-aligned managed services and cloud solutions provider, empowering mid-market and enterprise organizations across North America and the Middle East. We deliver end-to-end IT operations, Modern Work and Security, Data and AI, cybersecurity, infrastructure, and digital transformation services—driving resilience, innovation, and measurable business impact at scale.
+With a Solutions Partner designation and active pursuit of Azure Expert MSP status, Mobiz combines the agility of a boutique consultancy with the delivery rigor of a tier-1 integrator. Our NOC and SOC teams operate as the always-on backbone of client environments, monitoring thousands of endpoints, network nodes, and cloud workloads around the clock.
+What Can You Expect?
+Every day at Mobiz we work with a deep sense of purpose. We continuously innovate. Our mission is to empower our clients to do more through transformation. You’ll work in a collaborative environment alongside highly talented people that improve client operations and exceed expectations. We strive to simplify technology challenges, and no less.
+Who Are We Looking For?
+We are looking for a Principal AI Engineer with 7+ years of software development and technical leadership experience who is highly skilled in rapid prototyping, Generative AI, and AI solution delivery. The ideal candidate is an out-of-the-box thinker, innovation-driven, and delivery-focused, with the ability to quickly turn ideas into practical, scalable solutions. Strong hands-on engineering skills, technical leadership, problem-solving ability, and a passion for emerging AI technologies are essential.
+Key Responsibilities
+- AI Engineering & Solution Development
+- Design, develop, and implement scalable AI/ML and Generative AI solutions for enterprise and client requirements.
+- Lead AI solution development from ideation and rapid prototyping through production deployment.
+- Develop AI-powered applications using Large Language Models (LLMs), Generative AI, NLP, deep learning, RAG, AI agents, and related technologies.
+- Integrate AI capabilities into existing products, applications, and enterprise platforms.
+- Develop, test, evaluate, and optimize AI/ML models for accuracy, performance, scalability, and cost efficiency.
+- Rapid Prototyping & Innovation
+- Drive a rapid experimentation and prototyping approach to validate ideas and technologies quickly.
+- Translate ambiguous business and technical challenges into practical AI solutions.
+- Explore emerging AI technologies, frameworks, models, and tools and identify opportunities for innovation.
+- Apply out-of-the-box thinking to solve complex problems and create differentiated AI solutions.
+- Balance speed of experimentation with technical quality, scalability, security, and production readiness.
+- Technical Leadership & Architecture
+- Provide technical leadership across AI engineering initiatives and establish best practices for AI development.
+- Design scalable, secure, reliable, and maintainable AI architectures.
+- Lead technical discussions, architecture reviews, solution design sessions, and technical decision-making.
+- Mentor AI/ML engineers and development teams and contribute to their technical growth.
+- Collaborate with software engineers, data scientists, architects, product teams, and business stakeholders.
+- Cloud, MLOps & Deployment
+- Design and deploy AI solutions using Microsoft Azure AI services, Azure OpenAI, Azure Machine Learning, and related Azure technologies.
+- Implement MLOps, CI/CD, automated testing, monitoring, and model lifecycle management.
+- Optimize AI applications and models for cloud performance, scalability, resource utilization, and cost.
+- Work with containers, Docker, Kubernetes, and cloud-native technologies.
+- Support multi-cloud AI architectures involving Azure, AWS, and/or Google Cloud where required.
+- Engineering Excellence & Delivery
+- Establish and promote coding, testing, documentation, deployment, and engineering best practices.
+- Develop and maintain high-quality, production-ready Python code and AI/ML services.
+- Design and integrate REST APIs, microservices, databases, and AI services.
+- Troubleshoot complex technical issues and drive root-cause analysis.
+- Take ownership of technical delivery and ensure AI solutions meet business and client objectives.
+- Document AI architectures, code, models, technical decisions, and deployment processes.
+- Collaboration & Continuous Learning
+- Work closely with internal teams and clients to understand requirements and deliver innovative AI solutions.
+- Communicate complex AI concepts clearly to technical and non-technical stakeholders.
+- Stay current with advancements in AI, Generative AI, LLMs, AI agents, cloud technologies, and AI engineering practices.
+- Act as a technical advisor and AI subject-matter expert across projects and initiatives.
+Candidate Profile
+Required Qualifications and Experience
+- Bachelor’s degree in Computer Science, Artificial Intelligence, Engineering, or a related technical field.
+- 7+ years of professional software development experience, with demonstrated technical leadership or lead-level experience.
+- Strong foundation in AI/ML, deep learning, Natural Language Processing (NLP), Generative AI, and Large Language Models (LLMs).
+- Strong understanding of software engineering principles, application architecture, distributed systems, and cloud-native development.
+- Hands-on experience designing, developing, and deploying AI/ML solutions in production environments.
+- Understanding of MLOps, CI/CD, model lifecycle management, and production AI deployment.
+- Strong experience with Python and modern software engineering practices.
+Preferred Qualifications And Experience
+- Experience designing enterprise-scale Generative AI solutions and AI-driven applications.
+- Experience with Retrieval-Augmented Generation (RAG), vector databases, embeddings, semantic search, prompt engineering, AI agents, and agentic AI architectures.
+- Experience with Azure OpenAI, Azure Machine Learning, Azure AI Services, or equivalent AI cloud platforms.
+- Experience with Databricks, Microsoft Fabric, Azure Synapse, and Power BI.
+- Experience working with multi-cloud environments, including AWS and Google Cloud.
+- Experience with Amazon Bedrock, Azure AI Foundry, or comparable enterprise AI platforms.
+- Proven experience taking AI/ML solutions from Proof of Concept (PoC) through production implementation.
+- Experience with AI governance, responsible AI, security, compliance, and enterprise AI risk management.
+- Experience mentoring engineers, providing technical direction, and leading cross-functional engineering teams.
+- Experience working directly with enterprise clients and translating business requirements into scalable technical solutions.
+- Experience with rapid prototyping, experimentation, and iterative delivery in an agile environment.
+- Relevant experience optimizing AI models and applications for performance, scalability, reliability, and cost efficiency.
+Preferred Certifications
+- Microsoft Certified: Azure AI Engineer Associate
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure Developer Associate
+- Microsoft Certified: DevOps Engineer Expert
+- Databricks certifications are a plus.
+Core Technical Skill Set
+Programming & Software Engineering
+- Python and modern software engineering practices
+- REST APIs and microservices
+- Application architecture and distributed systems
+- NoSQL and relational database technologies
+- System performance optimization
+AI, Machine Learning & Generative AI
+- Generative AI and Large Language Models (LLMs)
+- Machine Learning and Deep Learning
+- Natural Language Processing (NLP)
+- RAG, vector databases, embeddings, and semantic search
+- Prompt Engineering and AI Agents
+- AI model optimization, evaluation, monitoring, and lifecycle management
+- PyTorch, TensorFlow, Keras, or equivalent AI/ML frameworks
+Cloud & AI Platforms
+- Microsoft Azure and Azure AI services
+- Azure OpenAI
+- Azure Machine Learning
+- Azure AI Foundry
+- Databricks
+- Microsoft Fabric / Azure Synapse
+- Knowledge of Amazon Bedrock and other multi-cloud AI platforms
+DevOps, MLOps & Infrastructure
+- MLOps and CI/CD
+- Azure DevOps and/or GitHub Actions
+- Docker and Kubernetes
+- Containerized application and AI/ML deployments
+- Production monitoring, observability, and model lifecycle management
+Core Competencies (Power Skills)
+- Technical Leadership & Strategic Thinking
+- Innovation & Out-of-the-Box Thinking
+- Customer & Business Focus
+- Critical Thinking & Decision Making
+- Problem Solving & Root Cause Analysis
+- Ownership & Accountability
+- Delivery & Results Orientation
+- Communication & Cross-Functional Collaboration
+- Mentoring & Knowledge Sharing
+- Rapid Prototyping & Experimentation
+- Automation & Process Improvement
+- Adaptability & Continuous Learning
+- Ability to work independently and provide technical direction in a fast-paced environment
+- Ability to balance technical excellence, business priorities, scalability, security, and delivery timelines
+What We Offer
+- A team of bright, hard-working, and innovative people that will contribute to your growth.
+- Competitive Salary and comprehensive benefits plan.
+- A dynamic and collaborative work environment with opportunity to work with cutting-edge technology and innovative solutions.
+Other
+This is a full-time, on-site position based in Islamabad, Pakistan.
+Equal Opportunity & Diversity Commitment
+At Mobiz, we believe that diverse perspectives, experiences, and backgrounds strengthen our organization and drive innovation. We are committed to fostering an inclusive workplace where all employees are valued, respected, and empowered to succeed. As an equal opportunity employer, we make employment decisions based on qualifications, merit, and business needs, without regard to race, gender, age, religion, disability, national origin, or any other protected characteristic.
+What Happens Next?
+Thank you for your interest in becoming part of Mobiz. We are committed to attracting exceptional talent and building a team that drives innovation, excellence, and meaningful impact. Every application is reviewed with care and consideration. If your experience and qualifications are a match for the role, a member of our team will connect with you regarding the next stage of the hiring process.
+We appreciate your interest in joining Mobiz and wish you success in your career endeavors.

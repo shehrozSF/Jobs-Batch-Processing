@@ -1,0 +1,21 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=13cc0efa04c752d5
+title: Python Developer
+company: Infyni
+location: Southfield, MI
+scraped_at: 2026-09-04T05:31:09+00:00
+query: python developer
+---
+2 Years
+Jun 24, 2026
+Full timeOnsite
+Roles & Responsibility
+We are seeking a talented Python developer with a passion for Artificial Intelligence (AI) to join our growing team. Your primary focus will be on developing and integrating cutting-edge AI functionalities into our backend systems (Mobile, Web) using Python and Django. Responsibilities: Leveraging your Python and AI expertise: Design, develop, and implement AI algorithms using Python libraries like TensorFlow, PyTorch, or scikit-learn. Collaborate with data scientists and engineers to understand data pipelines and feature engineering for AI models. Integrate developed AI models into our Django backend, ensuring seamless functionality with the front-end. Backend Development: Develop all server-side logic related to AI functionalities. Manage and maintain the central database to support AI operations. Optimize the application for maximum speed, scalability, and performance when handling AI tasks. Implement security measures and data protection for AI models and data. Django & User Interaction: Work with Django Framework to handle user interactions with AI features. Build efficient back-end features in Python to support the AI functionalities. Integrate front-end components (built by your co-workers) into the application, ensuring a smooth user experience with AI features. (Basic understanding of front- end technologies like HTML, CSS, and JavaScript is preferred). Testing & Collaboration: Manage testing and bug fixes for both the AI components and backend functionalities. Gather and address technical and design requirements related to AI integration. Collaborate with UX/UI designers to implement designs that effectively integrate with AI features. (Optional) Coach junior team members on Python development and AI concepts. Continuous Improvement: Continuously explore, improve, enhance, automate, and optimize the backend systems and AI tools to meet evolving business and market needs. Collaborate and contribute to improving the overall efficiency of the development team. Required Skills/Experience: Python & AI Expertise: Good knowledge of Django web framework. Proficiency in Python for building backend features and working with AI libraries. Solid understanding of machine learning concepts. Experience with AI libraries such as TensorFlow, PyTorch, or scikit-learn (experience with deep learning frameworks a plus). Experience with integrating AI models into backend systems. Version Control & Cloud (Optional): Experience with Version Control Systems like Git is mandatory. Experience with cloud platforms like AWS (a plus) to deploy and manage AI models.
+Must have skills
+Benefits: Competitive salary and benefits package. Opportunity to work on cutting-edge AI projects. Collaborative and fast-paced work environment with a focus on innovation. Be part of a team that's transforming the future with AI. Experience Required: - 2 years minimum
+What we offer
+We're looking for passionate individuals to join our team and contribute to a dynamic and impactful EdTech platform that is transforming the way education is delivered. As part of our collaborative and supportive work environment, you'll have the opportunity to grow while making a difference in the lives of students and educators.
+- Collaborative & Supportive Work Environment - Work alongside a diverse, skilled team that fosters creativity, innovation, and teamwork.
+- Competitive Salary & Benefits Package - We offer a competitive salary and comprehensive benefits to ensure that you are well taken care of.
+- Continuous Learning & Growth Opportunities - We believe in investing in our people by providing opportunities for skill development, training, and career growth.
+- Health Benefits - Enjoy robust health benefits to prioritize your well-being and peace of mind.

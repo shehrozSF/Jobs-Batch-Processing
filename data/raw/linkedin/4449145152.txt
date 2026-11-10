@@ -1,0 +1,45 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4449145152
+title: Senior Python AI/ML Engineer
+company: Hybrid Mediaworks
+location: Islamabad, Islāmābād, Pakistan
+scraped_at: 2026-09-04T03:58:29+00:00
+query: python developer
+---
+Based in Washington US, Hybrid Mediaworks is a custom web design and development services company, delivering industry-specific customized website solutions to businesses. Our clients range from start-ups to established enterprises and we are committed to helping businesses communicate their brand story through their online presence. Our regional office in Pakistan is located in Islamabad and we have a team of talented professionals who are passionate about delivering high quality work.
+Job role:
+We are looking for a highly skilled Senior Python AI/ML Engineer with strong expertise in AI systems, agentic workflows, backend development, and intelligent automation. The ideal candidate should have deep hands-on experience building scalable, production-grade AI applications using modern Python frameworks and LLM ecosystems.
+Key Responsibilities:
+· Design and develop scalable AI-powered applications using Python
+· Build RAG (Retrieval-Augmented Generation) systems and LLM-powered workflows
+· Develop agentic AI workflows using LangChain and LangGraph
+· Build high-performance backend APIs and services using FastAPI and Django
+· Develop web scraping and data orchestration pipelines using Playwright and Scrapy
+· Integrate vector databases including Pinecone and Chroma
+· Build and optimize machine learning and deep learning models
+· Work on NLP, Computer Vision, and intelligent automation solutions
+· Write clean, maintainable, secure, and scalable Python code
+· Collaborate with product, engineering, and AI teams to deliver production-ready solutions
+Requirements
+· Strong expertise in Python development
+· Hands-on experience with RAG architectures and LLM integrations
+· Strong experience building AI agents and autonomous workflows
+· Experience with LangChain and LangGraph
+· Strong backend development experience using FastAPI and Django
+· Experience with vector databases
+· Strong knowledge of ML/AI frameworks (PyTorch, TensorFlow, Keras, scikit-learn, pandas, XGBoost)
+· Experience with OpenCV, YOLO, Computer Vision and Natural Language Processing
+· Strong understanding of scalable architectures, APIs, async processing, and system design
+· Experience with Git, Docker, CI/CD, and cloud deployments
+· Experience deploying AI systems on AWS, GCP, or Azure
+· Familiarity with Kubernetes and distributed systems
+· Experience with AI monitoring, evaluation, and observability tools
+Experience with model fine-tuning and inference optimization
+Benefits
+Why should you Join Hybrid MediaWorks?
+At Hybrid Media works, we value your career growth. We offer a clear and transparent career path to help you achieve your life goals. Some of our benefits include:
+- Competitive basic salaries, personal and team-based bonuses, and additional incentives.
+- Regular team social events and awards for outstanding performance.
+- Additional benefits include paid leaves, health insurance, and bonuses.
+It’s an On-site Position
+Timing: 04:00 PM to 01:00 AM

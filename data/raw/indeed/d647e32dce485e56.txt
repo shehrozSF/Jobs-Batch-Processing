@@ -1,0 +1,51 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=d647e32dce485e56
+title: Python Developer Full Time
+company: SolutionInn
+location: Punjab
+scraped_at: 2026-09-04T05:32:37+00:00
+query: python developer
+---
+We are seeking a Python Developer, specializing in Django framework and capable of handling large datasets. This role offers an exciting opportunity to work on challenging projects and further develop your skills in web development and data management.
+Job Responsibilities
+- Develop and maintain web applications using the Django framework.
+- Design and implement efficient database schemas to handle large datasets.
+- Implement RESTful APIs using the Django REST framework.
+- Integrate data from various back-end services and databases.
+- Collaborate with front-end developers to integrate user-facing elements.
+- Write and maintain clean, reusable, and efficient code.
+- Participate in code reviews and contribute to team best practices.
+- Troubleshoot, debug and upgrade existing systems.
+- Stay updated with the latest Python, Django, and big data technologies trends.
+Skills Required
+- Strong proficiency in the Django framework
+- Solid understanding of relational databases ( MySQL )
+- Experience with payment integrations ( e.g. Stripe, PayPal )
+- Experience working with large datasets and database optimization
+- Experience with version control systems ( Git )
+- Basic understanding of front-end technologies ( HTML, CSS, JavaScript )
+- Experience with cloud platforms (AWS), specifically:( S3, CloudFront, EC2, Route53 )
+- Knowledge of caching mechanisms ( e.g., Redis )
+- Ability to write clean, readable, and well-documented code
+- Strong problem-solving skills and attention to detail
+- Good communication skills and ability to work in a team
+- Experience with Nginx, React, and Node.js
+- Knowledge of Elasticsearch or OpenSearch implementation
+- Experience with MongoDB or any other NoSQL databases
+- Familiarity with advanced Git workflows and CI/CD pipelines
+- Experience with test-driven development (TDD) and automated testing frameworks.
+Required Qualifications
+- BS degree in CS / SE / IT, a similar technical field of study, or have equivalent practical experience
+Job Experience
+- at least 1 year
+Other Benefits
+- Paid Time Off.
+- Travel Allowance.
+- Bonuses.
+- Entertainment Allowances.
+- Grocery Allowance.
+- Gym Allowance.
+Job Working Hours
+10AM - 7PM
+Equal Employment Opportunities
+We provide Equal Employment Opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, national origin, age, disability or genetics. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, compensation, and training.

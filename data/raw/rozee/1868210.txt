@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/tamadev-labs-full-stack-engineer-jobs-1868210
+title: Full Stack Engineer
+company: Tamadev Labs
+location: Pakistan
+scraped_at: 2026-09-04T05:10:21+00:00
+query: software engineer
+---
+
+Tamadev Labs is seeking a skilled Full Stack Engineer with at least five years of experience to join our dynamic technology team. The ideal candidate is proficient in both frontend and backend development, capable of building seamless, efficient, and scalable web applications. This role requires a professional who communicates fluently in English and has a strong command of full stack technologies to deliver product solutions that meet business objectives and user needs.
+
+As a Full Stack Engineer at Tamadev Labs, you will design, develop, test, and deploy high-quality software applications while collaborating closely with product managers and designers. Although this role does not include team management responsibilities, the candidate must work effectively within an agile environment, contributing ideas and solutions independently and within cross-functional teams to drive project success.
+
+

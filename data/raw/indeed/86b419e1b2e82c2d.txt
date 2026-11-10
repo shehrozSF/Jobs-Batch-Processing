@@ -1,0 +1,37 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=86b419e1b2e82c2d
+title: iOS/Android Application Developers
+company: Blue Ink Tech
+location: Huntington, WV 25701
+scraped_at: 2026-09-04T05:30:55+00:00
+query: python developer
+---
+Blue Ink Tech , a fast growing engineering firm based in Huntington, WV, is looking for a full time responsible, bright, motivated and qualified Mobile App Developers who can create cross-platform mobile applications and who is comfortable with scrum and sprint methodologies, as well as collaboration tools.
+Qualified Individuals will:
+- Develop cross platform mobile applications
+- Participate across the entire lifecycle of mission critical applications, including business analysis, design and architecture, development, deployment, and support
+- Maintain and report accurate data in a timely manner
+- Ensure compliance with regulations
+- All other related duties as assigned Required Skills:
+- Strong in following languages: C++, Javascript
+- iOS and Android development experience
+- Knowledge of multiple languages desirable
+- Knowledge of object modeling and design patterns
+- Experience of SQL, Relational Databases
+- Strong knowledge of Linux desirable
+- Must have demonstrated knowledge of Test-Driven development.
+- Experience designing and implementing real-time event-driven software systems desirable
+- Must have experience writing comprehensive unit tests and system-level integration tests.
+- Experience developing multi-threading processing and high-frequency, low-latency systems desirable
+- Self-motivating critical thinker
+- Sys Admin skills desirable
+- Meticulous attention to detail
+- Excellent written and verbal communication skills Job Type: Full-time
+Pay: $60,000.00 - $80,000.00 per year
+Benefits:
+- Dental insurance
+- Health insurance
+- Paid time off
+- Vision insurance Education:
+- Bachelor's (Preferred) Experience:
+- iOS Development: 1 year (Preferred) Work Location: In person

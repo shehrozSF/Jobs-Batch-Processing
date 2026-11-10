@@ -1,0 +1,30 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=5e4328285ca18366
+title: Software Automation Engineer
+company: Techneeds
+location: Chelmsford, MA 01824
+scraped_at: 2026-09-04T05:31:06+00:00
+query: python developer
+---
+Our client is looking for a Software Automation Contractor to join a leading provider of lifesaving medical devices and healthcare software solutions
+THIS POSITION REQUIRES BEING A COMMUTABLE DISTANCE TO THEIR FACILITY; SEEKING LOCAL CANDIDATES ONLY.
+In this role, you will develop, maintain, and enhance automated testing frameworks for embedded software systems used in electro-mechanical medical devices such as AEDs, ventilators, and temperature management solutions. Your expertise in Python programming, software test automation, and understanding of SDLC methodologies will be essential as you collaborate with cross-functional teams to improve test coverage and ensure product quality.
+As a Software Automation Contractor, your day-to-day responsibilities include designing and executing automated test scripts, reviewing software requirements for verification coverage, troubleshooting automation frameworks, and supporting CI/CD integration within an Agile environment. You will also analyze test results, document defects, and participate in sprint planning and retrospectives. This role offers an exciting opportunity to contribute to innovative medical device solutions while working in a collaborative and fast-paced environment.
+Work Schedule:
+Monday-Friday, 8:00 AM - 5:00 PM
+Required Skills, Education, and Experience:
+- Bachelor's degree in Computer Science, Software Engineering, or a related field
+- Minimum of 2 years of experience in software test automation, software verification, or software development
+- Proficiency in Python programming and developing automated test solutions
+- Knowledge of SDLC, software testing methodologies, and automation principles
+- Strong problem-solving, debugging, and analytical skills
+- Excellent written and verbal communication skills, with ability to work effectively in cross-functional teams
+Preferred Qualifications:
+- Experience with Pytest, Jenkins, Git, and automated testing frameworks for embedded systems
+- Familiarity with SSH, network troubleshooting, and embedded software testing
+- Experience using Google Test (gTest) and basic networking fundamentals
+Think you know someone who'd be perfect for this role? If you refer someone who gets hired for any of our job opportunities, and works a minimum of hours, we'll show our appreciation with a referral bonus. Spread the word and help us find top talent! Refer someone today: http://techneeds.com/current-employees/referrals/
+Stay in the Loop: Sign up for email notifications to hear about new openings as they're posted: http://www.techneeds.com/job-seekers/job-alerts/
+Visit http://jobs.techneeds.com regularly to see our latest opportunities.
+Techneeds has offered contract-to-hire and direct-hire talent solutions to some of the best employers in New England for over 50 years. As a Technology, Manufacturing, Engineering, Finance, and Professional staffing & recruitment agency, we're experts at finding, screening, and placing in-demand talent with top employers in New England.
+IND2

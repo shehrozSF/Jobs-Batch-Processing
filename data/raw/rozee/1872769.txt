@@ -1,0 +1,30 @@
+source: rozee
+url: https://www.rozee.pk/ai-automation-engineer-peshawar-jobs-1872769
+title: AI Automation Engineer
+company: SphereCode
+location: Peshawar, Pakistan
+scraped_at: 2026-09-04T05:02:40+00:00
+query: software engineer
+---
+This is a full-time, on-site position based in Peshawar, Pakistan, for an AI Automation Engineer working evening shifts. The role focuses on developing AI agents and integrating large language model (LLM) APIs to enhance automation processes. The engineer will be responsible for automating workflows, performing web scraping, enriching lead data, routing CRM data, and creating dashboards for monitoring purposes. This position offers an opportunity to work in a dynamic environment where practical application of AI and automation technologies is essential.
+Key Responsibilities
+- Develop and deploy AI agents tailored to business needs.
+- Integrate and manage LLM APIs to support automation tasks.
+- Automate complex workflows to improve operational efficiency.
+- Perform web scraping to gather relevant data for lead generation and enrichment.
+- Enrich lead data to enhance CRM accuracy and effectiveness.
+- Route CRM data appropriately to ensure seamless data flow across systems.
+- Design and maintain dashboards for real-time monitoring and reporting of automated processes.
+Required Qualifications
+- Bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
+- Approximately 2 years of professional experience in AI automation or related roles.
+- Strong understanding of AI technologies, APIs, and automation frameworks.
+- Experience with web scraping tools and techniques.
+- Familiarity with CRM systems and data routing processes.
+- Ability to work effectively during evening shifts in an on-site environment.
+Preferred Qualifications and Benefits
+- Experience working with large language models and their APIs is highly desirable.
+- Knowledge of dashboard creation and monitoring tools will be an advantage.
+- Competitive salary range between PKR 60,000 and 90,000.
+- Opportunity to work in a growing tech hub with exposure to cutting-edge AI automation projects.
+This role is ideal for candidates looking to apply their AI and automation skills in a practical setting while contributing to innovative solutions that drive business efficiency..

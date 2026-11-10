@@ -1,0 +1,36 @@
+source: rozee
+url: https://www.rozee.pk/online-junior-wordpress-php-developer-devops-trainee-internship-apprenticeship-karachi-jobs-1872751
+title: Online Junior WordPress / PHP Developer & DevOps Trainee (Internship / Apprenticeship)
+company: Buxton North Ltd. - Qulbay
+location: Karachi, Pakistan
+scraped_at: 2026-09-04T04:54:46+00:00
+query: python developer
+---
+This internship/apprenticeship opportunity is designed for entry-level candidates aspiring to become Junior WordPress/PHP Developers and DevOps Trainees. The role focuses on hands-on experience in developing and maintaining WordPress websites, including themes, plugins, and third-party integrations. Candidates will also be involved in troubleshooting web-related issues and supporting essential development workflows such as Git version control, testing, backups, and software releases. Additionally, the position offers exposure to deployment processes, hosting environments, system monitoring, Linux administration, and automation techniques. The work is conducted remotely or online during morning hours, based in Karachi, Pakistan, with occasional travel requirements. Compensation ranges from PKR 25,000 to 55,000.
+Key Responsibilities
+- Develop, customize, and maintain WordPress websites, including themes and plugins.
+- Troubleshoot and resolve website and server-related issues.
+- Support Git workflows, including version control, branching, and merging.
+- Assist in testing, backup management, and release processes.
+- Learn and participate in deployment, hosting, and monitoring activities.
+- Gain practical experience with Linux systems and automation tools.
+- Collaborate with the team to improve development and operational processes.
+- Adapt to remote work dynamics and manage time effectively during morning shifts.
+- Travel as needed for training or project requirements.
+Required Qualifications
+- Basic understanding of WordPress development, including themes and plugins.
+- Familiarity with PHP programming language.
+- Fundamental knowledge of Git version control systems.
+- Willingness to learn Linux system administration and DevOps practices.
+- Strong problem-solving skills and attention to detail.
+- Ability to work independently and as part of a remote team.
+- Good communication skills in English.
+- Availability to work morning shifts and travel when required.
+Preferred Qualifications and Benefits
+- Prior exposure to website deployment and hosting environments.
+- Interest in automation and monitoring tools.
+- Opportunity to gain practical experience in a professional development and DevOps environment.
+- Flexible remote working arrangement.
+- Competitive stipend within the specified compensation range.
+- Career growth potential through hands-on learning and mentorship.
+This role is ideal for candidates looking to build a foundation in WordPress development and DevOps, combining technical skill development with real-world project experience in a supportive remote setting..

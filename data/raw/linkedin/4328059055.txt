@@ -1,0 +1,49 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4328059055
+title: AI / ML Engineer (Applied AI & Automations)
+company: Albi
+location: Karāchi, Sindh, Pakistan
+scraped_at: 2026-09-04T03:59:22+00:00
+query: python developer
+---
+We are a fast-growing SaaS company on a mission to propel the restoration industry forward by empowering restoration companies with the technology they need to scale and grow their businesses.
+Recently voted a Top 10 Start-up in Chicago by LinkedIn and a Top Start-up by Built In, and backed by Y Combinator, this is an exciting time to join our team as we enter a stage of rapid growth and product expansion.
+We're looking for an AI / ML Engineer to help us build production-grade AI systems that power real operational workflows across our platform. This role is hands-on and highly impactful — you'll work on NLP, LLM-powered features, AI-driven automations, and scalable machine learning systems that are actively used by customers.
+You'll collaborate closely with product, engineering, and leadership, owning AI features end-to-end — from data and models to APIs and production deployment — while helping shape the future of AI at Albi.
+Requirements
+Key Responsibilities:
+- Design, build, and deploy applied AI and ML features used in production environments
+- Develop NLP and LLM-based systems (classification, extraction, summarization, QA, RAG)
+- Build and maintain AI-driven workflows and automations integrated with core product logic
+- Design and implement backend services and APIs to support AI inference and data processing
+- Work with embeddings, vector search, and retrieval-augmented generation (RAG) pipelines
+- Train, fine-tune, and optimize domain-specific machine learning models
+- Improve model performance across accuracy, latency, reliability, and cost
+- Deploy and monitor ML systems in cloud environments
+- Collaborate closely with product managers and engineers to deliver impactful AI features
+- Participate in architectural decisions, code reviews, and technical planning
+- Contribute to testing, monitoring, and continuous improvement of AI systems in production
+Requirements:
+- 3+ years of professional experience in AI / ML or software engineering roles
+- Strong proficiency in Python
+- Hands-on experience with machine learning, NLP, or LLM-based systems
+- Experience deploying ML models or AI services into production
+- Experience building and integrating RESTful APIs
+- Familiarity with cloud platforms (Azure, AWS, or GCP)
+- Understanding of CI/CD pipelines and production reliability
+- Strong problem-solving skills and a product-oriented mindset
+- Excellent collaboration and communication skills
+Benefits
+We're driven by purpose, fueled by high energy, and backed by venture funding. We're unapologetically ambitious and make sure that everyone has the support they need to succeed.
+We offer a competitive and comprehensive benefits package, including:
+- Competitive salary (based on experience and location)
+- Generous PTO
+- Medical, dental, and vision insurance coverage
+- 401(k) plan
+- High ownership and autonomy over your work
+- Collaboration with a team of smart, kind, and motivated engineers
+- An environment where your ideas are valued and growth is prioritized
+- Regular team events and company off-sites
+- Equipment budget to help you do your best work
+- Ongoing learning, mentoring, and career development opportunities
+Your journey is your own — and we're here to help you thrive, no matter your starting point.

@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/markify-technologies-full-stack-developer-karachi-jobs-1871760
+title: Full Stack Developer
+company: Markify Technologies
+location: Karachi, Pakistan
+scraped_at: 2026-09-04T04:58:04+00:00
+query: python developer
+---
+
+Markify Technologies is seeking a skilled Full Stack Developer with a minimum of one year of experience to join our dynamic team. This role requires strong expertise in frontend and backend development, including proficiency in React.js and Node.js, RESTful API design, and database management using SQL or NoSQL systems. The ideal candidate demonstrates a solid understanding of software development best practices, writes clean and maintainable code, and possesses excellent problem-solving abilities. Working at Markify Technologies means contributing to high-quality production applications while continuously learning new technologies in a collaborative and supportive environment.
+
+The Full Stack Developer works closely with cross-functional teams but does not have direct team management responsibilities. The position demands strong communication skills, the ability to work independently, and a proactive attitude toward learning emerging technologies. Core technical skills include HTML5, CSS3, JavaScript, React Router, Express.js, and version control using Git and GitHub. Knowledge in responsive web design and basic deployment and server management is essential to deliver seamless user experiences across various platforms and devices.
+
+

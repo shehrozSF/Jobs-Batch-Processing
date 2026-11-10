@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/saab-moulded-furniture-quality-assurance-engineer-jobs-1871691
+title: Quality Assurance Engineer
+company: Saab Moulded Furniture
+location: Muridkay, Pakistan
+scraped_at: 2026-09-04T05:10:24+00:00
+query: software engineer
+---
+
+Saab Moulded Furniture is seeking an experienced Quality Assurance Engineer with a minimum of 5 years in quality assurance practices. The ideal candidate will have expertise in defect tracking, quality metrics, performance testing, and Six Sigma methodologies. This role requires hands-on experience in quality assurance within the manufacturing environment, specifically with MS Pipe and MS Sheet cutting, bending, and fabrication processes. The Quality Assurance Engineer will lead a team of five individuals and will be responsible for ensuring the highest quality standards throughout production operations.
+
+The successful candidate will oversee the implementation and continuous improvement of quality assurance protocols at Saab Moulded Furniture. This position involves close collaboration with fabrication units and production teams to monitor, evaluate, and enhance production quality and efficiency. The engineer plays a critical role in identifying defects, establishing quality metrics, and facilitating root cause analysis to drive process improvements consistent with Six Sigma principles and best industry practices.
+
+

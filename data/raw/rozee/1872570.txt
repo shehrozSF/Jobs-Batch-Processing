@@ -1,0 +1,39 @@
+source: rozee
+url: https://www.rozee.pk/ms-fabric-engineer-hyderabad-jobs-1872570
+title: MS Fabric Engineer
+company: Bounteous
+location: Hyderabad, Pakistan
+scraped_at: 2026-09-04T05:01:39+00:00
+query: software engineer
+---
+The MS Fabric Engineer position is a contract role based in Bangalore, Hyderabad, Gurugram, or Chennai, requiring 5 to 10 years of experience. The engineer will be responsible for designing, building, and managing the Microsoft Fabric (OneLake) data platform for a major telecom project. The role focuses on developing scalable data pipelines, enabling analytics, and supporting reporting across diverse customer segments. Strong expertise in cloud data platforms, data integration, and reporting tools is essential to deliver reliable and high-quality data solutions.
+Key Responsibilities
+Data Platform Development:
+Design and implement the MS Fabric/OneLake architecture by building and managing Lakehouses, Warehouses, and data pipelines. Develop efficient data models that support business intelligence and reporting requirements while ensuring scalability and performance.
+Data Integration:
+Ingest data from Google Cloud Platform services such as BigQuery and Kafka pipelines into MS Fabric. Build and maintain reliable data pipelines using Azure Data Factory and Fabric pipelines, ensuring data quality, lineage, and audit readiness throughout the process.
+Collaboration & Data Exposure:
+Work closely with API teams (DxL/Node.js) to define clear data contracts. Facilitate the creation of structured datasets for downstream consumption, aligning data models with reporting and API needs. Validate data integrity against source systems before enabling downstream usage.
+Reporting Enablement:
+Enable Power BI datasets and semantic models, optimizing performance through DirectLake or Import modes. Provide ongoing support to reporting teams by delivering well-structured data models and offering guidance on DAX calculations to enhance report accuracy and efficiency.
+Data Modeling & Security:
+Develop segment-specific data models tailored for various business units such as SMB and Managed Services. Ensure consistent business logic and data definitions across models to maintain accuracy and reliability.
+Platform Operations & Governance:
+Manage CI/CD deployments across development and production environments. Implement monitoring, governance, and data quality checks to maintain platform stability, compliance, and operational excellence.
+Required Qualifications
+- Minimum of 4 years’ experience in Data Engineering, with hands-on expertise in MS Fabric, Azure Data Factory, or Synapse.
+- Strong proficiency in SQL and PySpark/Spark SQL for data processing and transformation.
+- Practical experience working with Data Lakes, Lakehouse architectures, and building scalable data pipelines.
+- Exposure to Google Cloud Platform, particularly BigQuery integration.
+- Solid knowledge of Power BI semantic modeling and report optimization techniques.
+Preferred Qualifications and Benefits
+- Experience with Kafka or other streaming data technologies.
+- Familiarity with Node.js and API data exposure is advantageous.
+- Microsoft Fabric or Azure certifications are a plus.
+- Background in telecom, billing, or other data-intensive domains is highly desirable.
+Technology Stack
+- Core: Microsoft Fabric, OneLake, Power BI semantic modeling
+- Data Sources: Google Cloud Platform (BigQuery), Kafka
+- Engineering Tools: Azure Data Factory, PySpark, SQL, Delta Lake
+- Integration: Node.js, REST APIs
+This role offers the opportunity to work with cutting-edge data platform technologies within a dynamic telecom environment. The successful candidate will contribute to scalable data solutions that drive business insights and operational excellence..

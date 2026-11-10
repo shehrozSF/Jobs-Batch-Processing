@@ -1,0 +1,35 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=a6039f7d2486f9c9
+title: Consultant Programmer (AI-Assisted CRM & Financial Module Customization)
+company: Immigration Experts
+location: Islamabad
+scraped_at: 2026-09-04T05:32:51+00:00
+query: python developer
+---
+We are looking for an experienced software programmer/developer to work on the customization and enhancement of our existing CRM and Financial Management System developed using Deepseek.
+The consultant will leverage modern AI-assisted development tools (such as Cursor, GitHub Copilot, Claude Code, ChatGPT, or similar) to efficiently implement new features, modify existing workflows, improve automation, and optimize system performance.
+Responsibilities
+- Analyze our existing CRM and Financial modules.
+- Develop and implement requested enhancements.
+- Modify existing workflows and business logic.
+- Integrate APIs where required.
+- Improve system usability and performance.
+- Utilize AI-assisted coding tools to accelerate development.
+- Fix bugs and optimize existing code.
+- Maintain proper documentation of all changes.
+- Provide knowledge transfer upon project completion. Required Skills
+- Experience with ERP or Financial Management Systems.
+- Excellent programming skills (PHP, Laravel, .NET, Python, JavaScript, React, Vue.js, or relevant technologies).
+- Database experience (MySQL, PostgreSQL, SQL Server).
+- REST API integration experience.
+- Git version control.
+- Experience using AI coding assistants such as Cursor, GitHub Copilot, Claude Code, ChatGPT, or similar.
+- Strong analytical and problem-solving skills. Preferred Qualifications
+- Experience integrating payment gateways and third-party APIs.
+- Understanding of AI-assisted software development workflows.
+- Ability to work independently and deliver within tight deadlines. Contract Details
+- Duration: 1 Month
+- Engagement: Consultancy / Project-Based
+- Start Date: Immediate
+- Compensation: Market Competitive (Based on Experience) Pay: Rs40,000.00 - Rs50,000.00 per month
+Work Location: In person

@@ -1,0 +1,31 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=1d8fad561cb13726
+title: Junior Python Developer
+company: Quality Resource Marketing
+location: Islamabad E-11
+scraped_at: 2026-09-04T05:32:37+00:00
+query: python developer
+---
+About Us:
+At our company, we are focused on data-driven marketing strategies, business automation, and scaling data extraction infrastructure. We are seeking a detail-oriented and motivated Junior Python Developer with a solid foundation in Python to join our team. If you are passionate about writing clean code, building efficient backend services, and working with complex data handling/scraping pipelines, we want to hear from you.
+As a Junior Developer, you will work closely with our data and marketing teams to maintain existing codebases, automate workflows, and design robust data extraction and processing tools.
+Key Responsibilities:
+- Backend Development: Write clean, maintainable, and efficient Python code to support internal applications and data management workflows.
+- Data Automation & Scraping: Build, optimize, and maintain web scraping scripts and automation routines to extract data accurately from various online platforms.
+- Database Management: Assist in designing, querying, and optimizing databases (SQL/NoSQL) to handle bulk business records and lead lists.
+- API Integration: Develop and integrate RESTful APIs to connect internal marketing tools with third-party platforms.
+- Code Maintenance & Debugging: Identify bugs, troubleshoot system performance issues, and refactor existing scripts for better efficiency. Required Skills & Qualifications:
+- Education: Graduation degree (BS in Computer Science, Software Engineering, IT, or a related field is highly preferred).
+- Experience: Minimum 1 year of professional experience working as a Python Developer.
+- Core Technical Skills:
+- Strong proficiency in Core Python (Object-Oriented Programming, Data Structures, Exceptions).
+- Hands-on experience with Python web frameworks (such as Django , FastAPI , or Flask ).
+- Solid understanding of web scraping libraries ( Scrapy , or Selenium ).
+- Good command over SQL (MySQL, PostgreSQL) and data formatting/manipulation (CSV, JSON, Excel handling).
+- Familiarity with Git/GitHub for version control.
+- Soft Skills: Good problem-solving abilities, willingness to learn new technologies, and strong communication skills for effective team collaboration. What We Offer:
+- Competitive monthly salary based on skills and evaluation.
+- Professional and growth-oriented work environment.
+- Hands-on experience with large-scale data and automation projects.
+- Mentorship from senior team members to accelerate your career. Pay: Rs50,000.00 - Rs60,000.00 per month
+Work Location: In person

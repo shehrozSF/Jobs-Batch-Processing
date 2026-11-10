@@ -1,0 +1,59 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4460475188
+title: Senior AI Full-Stack Engineer
+company: Value & Growth Advisory-VGA
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:52+00:00
+query: python developer
+---
+Senior AI Full-Stack Engineer
+📍 Location : CoLabs, Gulberg II, Lahore | On-site
+🕒 Type : Full-Time | 📈 Experience : 4+ years
+🏢 Team : Lahore Engineering Hub
+About VGA
+VGA is a Kuwait-based technology company building AI-driven products across e-commerce, gaming, AI, and SaaS for clients throughout the GCC and beyond. Our Lahore engineering hub at CoLabs, Gulberg II is where we design and ship high-quality digital products — from interactive gaming and fantasy-sports experiences to scalable enterprise platforms.
+We're at the stage where shipping fast isn't enough on its own — we want to change how software gets built. That's where you come in: designing the automated, agent-driven pipeline that turns requirements into production-ready software.
+The Role
+We're hiring a Senior AI Engineer to design and ship production-grade agentic AI systems — RAG pipelines, multi-agent workflows, voicebots, and chatbots — across e-commerce and SaaS verticals.
+You'll own backend services end-to-end: design, build, deploy, monitor, iterate. This is a hands-on engineering role, not a research seat. You'll work directly with founders and senior engineers, make architecture calls, and see your work in front of paying customers within weeks.
+What You'll Do
+- Design and build agentic systems with LangChain and LangGraph — orchestration, tool use, memory, and planning
+- Build RAG pipelines end-to-end: chunking strategies, embeddings, vector stores, retrieval evals, and re-ranking
+- Develop backend services in Python using FastAPI, SQLAlchemy, and Prisma
+- Ship voicebots, chatbots, and agent-as-a-service products integrated with client systems
+- Build integrations with Shopify, Amazon Marketplace, and Salla for catalog, orders, and automation workflows
+- Own LLMOps: prompt versioning, evals, tracing, guardrails, and cost/latency monitoring
+- Design and optimize SQL schemas for high-throughput workloads
+- Deploy on AWS (ECS/EKS, Lambda, RDS, S3, SQS, Bedrock) with CI/CD, IaC, and observability baked in
+- Review code, mentor mid-level engineers, and drive architecture decisions
+What We're Looking For
+- BS in Computer Science, AI, Data Science, or a related field
+- 4+ years shipping production AI and/or backend systems
+- Expert-level Python, FastAPI, SQLAlchemy, and SQL (schema design, query optimization, indexing)
+- Production experience with LangChain, LangGraph, LLMs, multi-agent systems, and RAG
+- Track record of building and deploying voicebots, chatbots, or agent-as-a-service products in production
+- Hands-on e-commerce integration experience with Shopify, Amazon Marketplace, or Salla
+- AWS proficiency — deploying and operating services in production, not just toy projects
+- DevOps fundamentals: Docker, CI/CD, observability
+- Vector DB experience (pgvector, Pinecone, Weaviate, or Qdrant)
+- A backend specialist mindset — you think in services, contracts, latency budgets, and failure modes
+Nice to Have
+- Django or Flask experience
+- Kubernetes in production
+- Real-time voice infrastructure (Twilio, LiveKit, Deepgram, ElevenLabs), streaming inference, WebSockets
+- Fine-tuning, distillation, or model serving (vLLM, TGI, SageMaker)
+- Open-source contributions in the AI / agents ecosystem
+Why VGA
+- Real ownership — you'll lead systems, not tickets
+- Senior team, flat structure — direct collaboration with founders and lead engineers
+- Production at scale — your work runs in front of paying GCC customers from day one
+- Modern stack — LangGraph, FastAPI, AWS Bedrock, pgvector; no legacy baggage
+- Competitive compensation — base salary + performance bonuses, commensurate with experience
+- Premium workspace — CoLabs Gulberg II, one of Lahore's best engineering environments
+How to Apply
+Click Easy Apply and attach your resume. Strong applications include links to:
+- GitHub or representative production work
+- A short note on an agentic or RAG system you've shipped — what it did, what broke, what you'd build differently.
+- Email your CV and portfolio to vgapak@vgaadvisory.com with the subject line: Senior AI Full-Stack Engineer.
+Equal Opportunity
+VGA is an equal opportunity employer. We celebrate diversity and are committed to building an inclusive environment for all employees. All qualified applicants will receive consideration for employment, and we welcome candidates from all backgrounds to apply.

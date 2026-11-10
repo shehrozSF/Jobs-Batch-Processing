@@ -1,0 +1,9 @@
+source: rozee
+url: https://www.rozee.pk/recruit-ai-software-qa-automation-test-engineer-jobs-1870411
+title: Software QA & Automation Test Engineer
+company: Recruit AI
+location: Faisalabad, Pakistan
+scraped_at: 2026-09-04T05:01:31+00:00
+query: software engineer
+---
+We are seeking a skilled and detail-oriented Software Quality Assurance & Automation Test Engineer to ensure the quality, reliability, performance, and security of our software applications used across academic and administrative operations. The ideal candidate will have a strong foundation in both manual and automated testing and will be responsible for maintaining high-quality standards throughout the software development lifecycle.

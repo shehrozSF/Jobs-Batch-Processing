@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/mancad-product-design-engineer-mechanical-rawalpindi-jobs-1871001
+title: Product Design Engineer (Mechanical)
+company: Mancad
+location: Rawalpindi, Pakistan
+scraped_at: 2026-09-04T05:02:20+00:00
+query: software engineer
+---
+
+Mancad seeks a detail-oriented and energetic Product Design Engineer (Mechanical) to join our dynamic engineering team. This role involves transforming product concepts into production-ready physical components by bridging initial sketches, detailed 3D digital modeling, and hands-on prototyping. The successful candidate will take ownership of mid-level assemblies under the mentorship of a Team Lead while managing a team of 10. This position enables close collaboration across manufacturing facilities, prototyping centers, and design departments to ensure seamless transition from design to production.
+
+The ideal candidate holds a Bachelor’s degree in Mechanical, Mechatronics, or Aerospace Engineering from a PEC-recognized university and brings over two years of experience in an active product development environment such as an R&D facility or high-tech prototyping lab. Expertise in SolidWorks, engineering documentation, and Design for Manufacturing principles is critical. In addition, familiarity with reverse engineering techniques, tolerance stacking, and physical prototype development is expected. Strong organizational skills and effective communication are essential to managing documentation and coordinating with both internal teams and external vendors.
+
+

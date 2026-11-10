@@ -1,0 +1,52 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4456701675
+title: Software Engineer Level II
+company: Softpers
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:16+00:00
+query: python developer
+---
+Company Description
+Softpers Interactive is a full service IT Company that synchronizes people, processes, and technology in the smartest way possible. Our global clientele ranges from startups to SMBs to fortune 50 companies and we not only help them grow but also make sure that the implementation of our technology solutions is seamless, pain-free and result driven.
+Job Description
+We are looking for a Software Engineer (Mid-Level) to join our full-stack development team. In this role, you will take ownership of features and modules, contribute to AI-powered applications, and work closely with senior engineers, product teams, and clients to deliver high-quality software solutions across diverse projects.
+Key Responsibilities
+- Design, develop, and maintain scalable full-stack web applications
+- Build and integrate LLM-powered features and AI-assisted workflows into applications
+- Actively work with AI code agents (Copilot, Cursor, Claude, etc.) to enhance productivity and code quality
+- Write clean, efficient, maintainable, and well-documented code
+- Participate in system design discussions, architecture decisions, and code reviews
+- Debug, optimize, and troubleshoot complex issues across the full stack
+- Collaborate with cross-functional teams including QA, product, and design
+- Communicate technical concepts clearly in client meetings and internal discussions
+- Mentor junior developers and contribute to team knowledge sharing
+- Continuously improve development practices, performance, and security standards
+Qualifications
+Technical Skills
+- Strong proficiency in Python and Node.js for backend development
+- Solid experience with React and Next.js for frontend development
+- Working knowledge of Laravel/PHP (preferred but not mandatory)
+- Hands-on experience with RESTful APIs, third-party integrations, and authentication flows
+- Strong understanding of databases (SQL and/or NoSQL) and ORM frameworks
+- Experience with version control (Git) and collaborative development workflows
+- Familiarity with cloud platforms, deployment pipelines, or containerization (Docker) is a plus
+- Good grasp of software architecture principles, design patterns, and performance optimization
+Experience & Education
+- Bachelor’s degree in Computer Science or a related field, preferably from FAST-NUCES, COMSATS, PUCIT, or NUST.
+- 1–2 years of professional software development experience
+- Experience working on production-level applications and client-facing projects
+- Demonstrated ability to independently handle modules or features end-to-end
+Soft Skills & Communication
+- Excellent English communication skills (written and verbal)
+- Strong analytical thinking and problem-solving abilities
+- Ability to explain technical concepts to both technical and non-technical stakeholders
+- Proactive mindset with a sense of ownership and accountability
+Additional Information
+What We Offer
+- Competitive salary 100k-130k
+- Opportunity to work on diverse projects across multiple industries
+- Hands-on exposure to modern tech stacks and AI-driven development
+- A collaborative, growth-oriented environment with strong learning culture
+- Mentorship, career progression, and opportunities to lead initiatives
+- Flexible, innovation-driven workplace that values impact over hierarchy
+Timing: 02:00 PM - 11:00 PM

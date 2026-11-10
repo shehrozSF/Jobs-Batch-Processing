@@ -1,0 +1,30 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=4c9e643a551e4f3e
+title: Laravel Developer
+company: Ozoned Digital
+location: Lahore
+scraped_at: 2026-09-04T05:32:51+00:00
+query: python developer
+---
+Ozoned Digital is a Value Chain driven InsurTech company , that has created a technology platform that builds upon a mix of new tech and disruptive business models, in turn creating efficiencies, value additions and customer satisfaction in the insurance industry.
+The ideal candidate is a creative problem solver who will work in coordination with cross-functional teams to develop, record, and maintain cutting-edge web-based PHP applications on portal plus top service platforms.
+Office Location: DHA Phase 5, Lahore.
+Responsibilities
+- Developing, recording, and maintaining cutting-edge web-based PHP applications on portal plus top service platform.
+- Write clean, secure, test-driven, easily maintainable, and modular codes.
+- Building innovative, state-of-the-art applications and collaborating with the internal team.
+- Ensure HTML, CSS, and shared JavaScript is valid and consistent across applications.
+- Prepare and maintain all applications utilizing standard development tools.
+- Stay well informed of new trends and best practices in web development.
+- Laravel Framework within PHP programming language.
+- Excellent knowledge of Laravel framework.
+- Excellent Knowledge of Vue.js. Qualifications
+- Bachelor's degree or Master's degree in Computer Science.
+- Minimum 3 year of professional experience in Laravel.
+- Experience in Vue.Js is a plus.
+- Experience in Python is a plus. Job Type: Full-time
+Pay: Rs120,000.00 - Rs150,000.00 per month
+Ability to commute/relocate:
+- Lahore: Reliably commute or planning to relocate before starting work (Preferred) Experience:
+- Laravel: 3 years (Preferred) Location:
+- Lahore (Preferred) Work Location: In person

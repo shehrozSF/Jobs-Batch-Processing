@@ -1,0 +1,32 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=a9132dcec68449c5
+title: Software Engineering for Research & Development
+company: DGB Technologies
+location: Pakistan
+scraped_at: 2026-09-04T05:34:01+00:00
+query: python developer
+---
+As a software developer, you will be responsible for building prototypes to validate proof-of-concepts and collaborating with business units to adopt the concept and drive growth while creating long-term value. You will be an integral part of the innovation team, working closely with cross-functional teams, including business stakeholders, designers, engineers, and data scientists, to develop innovative solutions that solve real-world problems and deliver business value.
+Job Responsibilities
+- Develop prototypes to validate proof-of-concepts using various tools, technologies, and programming languages based on business requirements.
+- Collaborate with business units to understand their needs, identify opportunities, and design innovative solutions that drive growth and create long-term value.
+- Conduct research and analysis to identify industry trends, emerging technologies, and best practices to inform prototype development and innovation strategies.
+- Iterate and optimize prototypes based on feedback from stakeholders and end-users, ensuring that the final product meets the desired outcomes.
+- Collaborate with cross-functional teams, including business stakeholders, designers, engineers, and data scientists, to develop prototypes that align with business objectives and user needs.
+- Communicate effectively with stakeholders to gather requirements, present prototypes, and obtain feedback for further enhancements.
+- Stay up-to-date with the latest advancements in technology, design principles, and industry trends to continuously improve the prototype development process.
+- Collaborate with the legal and compliance teams to ensure prototypes comply with relevant laws, regulations, and security standards.
+- Document and present findings, insights, and recommendations to leadership and other stakeholders.
+Required Skill Set
+- Bachelor's degree in computer science, engineering, or a related field. Master's degree preferred.
+- Hands-on experience in building prototypes to validate proof-of-concepts, preferably in a business or innovation setting.
+- Strong programming skills in one or more programming languages (e.g., Python, Java, C++, etc.) and familiarity with relevant software development tools and frameworks.
+- Understanding of business concepts, market trends, and customer needs to develop prototypes that align with business objectives.
+- Excellent communication skills to effectively collaborate with cross-functional teams, present prototypes, and obtain feedback.
+- Strong problem-solving and analytical skills to identify opportunities, design innovative solutions, and optimize prototypes based on feedback.
+- Ability to work in a fast-paced, dynamic environment and adapt to changing priorities and requirements.
+- Knowledge of design thinking principles, human-centered design, and agile methodologies.
+- Experience with data visualization, machine learning, or other emerging technologies is a plus.
+If you are a creative and innovative thinker with a passion for building prototypes that drive growth and create long-term value, we would love to hear from you. Apply now to join our dynamic innovation team and make a meaningful impact on our organization's future success.
+To Apply
+Send your resume at contact@dgbtek.com

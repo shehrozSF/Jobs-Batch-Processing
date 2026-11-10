@@ -1,0 +1,31 @@
+source: rozee
+url: https://www.rozee.pk/senior-frontend-engineer-karachi-jobs-1872527
+title: Senior Frontend Engineer
+company: Orbilect Labs
+location: Karachi, Pakistan
+scraped_at: 2026-09-04T05:02:37+00:00
+query: software engineer
+---
+We are seeking a highly skilled Senior Frontend Engineer to join our team in Karachi, Pakistan. This full-time, on-site position operates during morning hours and requires a minimum of five years of experience in frontend development. The role involves designing and implementing responsive, accessible, scalable, and high-performing web applications. Candidates should be proficient in JavaScript or TypeScript and have hands-on experience with modern frontend frameworks such as React, Vue, or Angular. This is an excellent opportunity to contribute to innovative projects while working in a dynamic and collaborative environment.
+Key Responsibilities
+- Develop and maintain responsive web applications that deliver seamless user experiences across various devices and browsers.
+- Ensure applications are accessible and meet industry standards for usability and inclusivity.
+- Collaborate closely with backend developers, UX/UI designers, and product managers to translate requirements into functional, high-quality code.
+- Optimize application performance to handle large-scale user interactions efficiently.
+- Write clean, maintainable, and well-documented code following best practices and coding standards.
+- Participate in code reviews, provide constructive feedback, and mentor junior developers.
+- Stay up-to-date with emerging frontend technologies and frameworks to continuously improve the development process.
+- Troubleshoot and resolve frontend issues in a timely manner to maintain application stability.
+Required Qualifications
+- Minimum of 5 years of professional experience in frontend development.
+- Strong proficiency in JavaScript or TypeScript.
+- Extensive experience with at least one modern frontend framework such as React, Vue, or Angular.
+- Solid understanding of responsive design principles and accessibility standards (e.g., WCAG).
+- Familiarity with version control systems, preferably Git.
+- Ability to write modular, reusable, and scalable code.
+- Experience working in an Agile or Scrum development environment.
+- Excellent problem-solving skills and attention to detail.
+- Strong communication skills and ability to work effectively within a team.
+Preferred Qualifications and Benefits
+While not explicitly mentioned, candidates with experience in performance optimization, testing frameworks, and continuous integration/deployment (CI/CD) pipelines will have an advantage. The role offers a competitive salary range of PKR 150,000 to 220,000 per month, reflecting the candidate’s expertise and contribution to the organization. Working onsite provides the opportunity for direct collaboration with cross-functional teams, fostering professional growth and knowledge sharing.
+This position is ideal for a motivated frontend engineer looking to advance their career by working on challenging projects that require technical excellence and creativity..

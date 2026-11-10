@@ -1,0 +1,29 @@
+source: rozee
+url: https://www.rozee.pk/full-stack-developer-karachi-jobs-1871787
+title: Full Stack Developer
+company: Markify Technologies
+location: Karachi, Pakistan
+scraped_at: 2026-09-04T04:54:25+00:00
+query: python developer
+---
+We are seeking a full-time, on-site Full Stack Developer based in Karachi with a minimum of two years of professional experience. This role is ideal for a skilled developer who is not currently in a managerial position and is looking to contribute to the design and development of responsive web applications and backend services. The successful candidate will work primarily during the morning shift and will be responsible for a variety of development tasks including API creation, database management, debugging, performance tuning, testing, security implementation, and deployment. The offered salary range for this position is PKR 30,000 to 50,000.
+Key Responsibilities
+- Develop and maintain responsive web applications ensuring seamless user experience across devices.
+- Design, build, and manage backend services and APIs to support front-end functionality.
+- Work with databases and third-party integrations to ensure data integrity and smooth operation.
+- Identify and resolve bugs and performance issues to optimize application efficiency.
+- Conduct thorough testing to ensure the reliability and security of applications.
+- Implement security best practices to protect applications and data.
+- Manage deployment processes and assist in continuous integration and delivery workflows.
+Required Qualifications
+- Minimum of 2 years of hands-on experience as a Full Stack Developer or in a similar technical role.
+- Proficiency in front-end technologies such as HTML, CSS, JavaScript, and relevant frameworks.
+- Strong knowledge of backend programming languages and frameworks.
+- Experience working with databases, both relational and non-relational.
+- Familiarity with API development and integration.
+- Solid understanding of debugging techniques and performance optimization.
+- Awareness of security principles and best practices in web application development.
+- Ability to work effectively in a full-time, on-site environment during morning hours.
+Preferred Qualifications and Benefits
+While not explicitly stated, candidates with additional experience in modern development tools, version control systems, and cloud deployment platforms will have an advantage. The role offers a competitive salary within the stated range and the opportunity to work in a dynamic, technology-driven environment in Karachi.
+This position is well-suited for developers eager to deepen their expertise in full stack development and contribute to impactful projects within a collaborative team setting..

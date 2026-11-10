@@ -1,0 +1,15 @@
+source: rozee
+url: https://www.rozee.pk/python-django-developer-lahore-jobs-1872180
+title: PYTHON / DJANGO DEVELOPER
+company: TechLeadz
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T04:13:53+00:00
+query: python developer
+---
+We are undergoing rapid expansion and looking to add a skilled Python Developer to our growing team. This role involves managing and developing multiple applications, requiring a proactive professional who can work across various technologies. The ideal candidate will contribute to the ongoing enhancement of our software solutions, ensuring high performance and reliability.
+Key Responsibilities
+Develop and maintain applications primarily using Python with Django or Flask frameworks. Integrate multiple data sources and databases into a cohesive system. Implement server-side templating and ensure smooth interaction with front-end technologies such as JavaScript, HTML5, and CSS3. Manage user authentication and authorization across different systems, servers, and environments. Apply event-driven programming techniques in Python to optimize application performance. Write comprehensive unit tests and conduct debugging to maintain code quality. Collaborate with team members using Git for version control and code management. Understand Python’s threading limitations and implement multi-process architecture when necessary.
+Required Qualifications
+At least one year of professional experience in Python development using Django or Flask frameworks. Familiarity with ORM (Object Relational Mapper) libraries to streamline database interactions. Strong understanding of server-side templating languages. Good knowledge of front-end technologies including JavaScript, HTML5, and CSS3. Experience in managing user authentication and authorization across diverse environments. Proficiency in writing unit tests and debugging Python applications. Skilled in using Git for version control. Awareness of Python’s threading constraints and multi-process architecture concepts.
+Preferred Qualifications and Benefits
+We offer competitive salary packages along with comprehensive medical coverage. Employees enjoy leave encashment options and multiple bonuses awarded monthly, quarterly, and annually. Our workplace promotes a friendly atmosphere with recreational areas featuring in-house games, supporting a balanced and enjoyable work culture. This is a full-time, in-person position requiring physical presence at the office. Candidates will be asked to provide their current and expected salary packages during the application process..

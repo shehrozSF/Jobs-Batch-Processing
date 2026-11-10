@@ -1,0 +1,46 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=08266d39567ebc1b
+title: Senior Python & AI Engineer
+company: Ropstam Solutions Inc.
+location: Islamabad
+scraped_at: 2026-09-04T05:32:51+00:00
+query: python developer
+---
+Ropstam Solutions is looking for a Senior Python & AI Engineer to join our engineering team and build production-grade AI-powered applications. We’re looking for someone with practical production experience—not just experience with LLM APIs or basic AI demos. The ideal candidate will have strong Python/backend development fundamentals combined with practical experience building and deploying LLM, RAG, and agentic AI systems, and should be comfortable taking AI features from architecture and implementation through evaluation and production.
+Responsibilities
+- Design and develop scalable backend services using Python, Django, and FastAPI.
+- Build production-grade RAG (Retrieval-Augmented Generation) systems.
+- Develop LLM-powered workflows and AI agents using LangChain and LangGraph.
+- Design and implement multi-agent architectures for complex AI workflows.
+- Build ingestion, chunking, embedding, retrieval, reranking, and generation pipelines.
+- Work with Vector Databases and hybrid/semantic search.
+- Deploy and work with open-source LLMs.
+- Build MCP (Model Context Protocol) servers/clients and AI tool integrations.
+- Integrate LLM providers such as OpenAI, Anthropic, Gemini, and open-source models.
+- Design and optimize PostgreSQL databases and data models.
+- Build reliable REST APIs and asynchronous/background processing systems.
+- Implement LLM evaluation, tracing, monitoring, and observability.
+- Improve AI systems for accuracy, latency, reliability, and cost.
+- Containerize and deploy services using Docker and cloud infrastructure.
+- Write maintainable, well-tested, production-quality code.
+- Participate in architecture decisions, code reviews, and technical planning. Requirements
+- Bachelor’s degree in Computer Science, Software Engineering, Artificial Intelligence, or a related field.
+- 3–5 years of professional experience in software engineering, with strong experience in Python and AI/LLM development.
+- Strong understanding of backend architecture, REST APIs, PostgreSQL, and async Python.
+- Production experience building RAG-based systems.
+- Hands-on experience with LangChain and LangGraph.
+- Experience with Vector Databases such as Pinecone, Qdrant, pgvector, or similar.
+- Strong understanding of embeddings, semantic search, chunking, metadata filtering, retrieval, and reranking.
+- Experience with LLM APIs, including OpenAI, Anthropic, Gemini, or open-source models.
+- Experience with open-source LLMs and the Hugging Face ecosystem.
+- Understanding of LLM evaluation, benchmarking, hallucination mitigation, grounding, guardrails, and AI application security.
+- Understanding of token usage, latency, cost optimization, monitoring, and observability.
+- Experience with MCP (Model Context Protocol) and AI tool integrations.
+- Experience with Docker, Git, and cloud platforms such as AWS or GCP.
+- Strong testing, debugging, and problem-solving skills. Employment Type : This is a 6-month contractual role, with extension based on performance and business requirements.
+Working Hours: 9 AM – 6 PM PKT
+Work Mode : Hybrid [3 days on-site, 2 days WFH]
+Pay: Rs200,000.00 - Rs250,000.00 per month
+Application Question(s):
+- Do you have hands-on production experience with both RAG and LangChain? Experience:
+- Python: 3 years (Required) Work Location: Hybrid remote in Islamabad

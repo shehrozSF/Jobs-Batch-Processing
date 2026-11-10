@@ -1,0 +1,62 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=960ad6d82d97d477
+title: Intermediate Full-Stack Software Developer
+company: LetHub
+location: Pakistan
+scraped_at: 2026-09-04T05:34:04+00:00
+query: python developer
+---
+LetHub is a next-generation AI-powered web platform for landlords and property managers that makes it easy to find high-quality renters without hiring more staff.
+Finding a place to rent is a painful and time-consuming task for professionals with a busy schedule. On the other hand, it's very costly for property managers and landlords to have systems in place to improve the experience and make the process super easy. LetHub solves this two-sided problem by taking care of the whole process from responding to inquiries to getting prospects to show up for property tours without hiring leasing agents.
+Check us out at https://www.lethub.co/
+-
+Perks We Offer:
+- Employee share options plan (equity)
+-
+Work from anywhere in the world
+-
+Competitive compensation package
+-
+Real-world training, development, and support for a career in technology sales and business development
+-
+3 weeks of paid vacation
+-
+Access to paid courses
+-
+Snacks, gym passes and much more
+-
+Be part of a fast-growing PropTech company backed by renowned investors
+General Responsibilities:
+This position will apply its skills to help improve the foundation of a ground-breaking, innovative company that will be at the forefront of the property management software industry. We have a vision that keeps full-stack development at its present and AI development in its future.
+The successful candidate will assist in the development and improvement of the core product including:
+- Design and develop full-stack software solutions
+-
+Work collaboratively in an Agile + Scrum development environment
+-
+Write documentation for the use and maintenance of designed applications
+Requirements and Skills:
+- 3+ years of full-stack web development experience and a combination of a degree or diploma in a related field
+-
+Able to learn quickly and independently through studying existing code
+-
+Web application development experience on Angular 6+ framework
+-
+Proficient in JavaScript
+-
+Backend application development experience in designing and developing RESTful APIs (with NodeJs + Express)
+-
+Experience with relational databases (MySQL and Postgres)
+-
+Experience with Linux environment
+Nice to have:
+- Experience with AWS
+-
+Experience in Machine Learning models
+-
+Experience with OpenAI API
+-
+Basic understanding of Natural Language Processing
+-
+Experience in Python
+-
+Experience in Proptech or related industries

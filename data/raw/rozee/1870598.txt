@@ -1,0 +1,12 @@
+source: rozee
+url: https://www.rozee.pk/haier-quality-assurance-engineer-%e2%80%93-p2-jobs-1870598
+title: Quality Assurance Engineer – P2
+company: Haier
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T05:02:34+00:00
+query: software engineer
+---
+
+You will develop and monitor quality assurance objectives, analyze quality data to uncover improvement opportunities, and collaborate closely with research, development, and customer service teams to address product and process quality concerns. Your leadership will extend to training and guiding quality inspectors, promoting quality awareness, and ensuring timely response to customer complaints. The role involves conducting rigorous internal audits, preparing for external ISO audits, and supporting cost reduction initiatives through product quality enhancements. This position demands a proactive approach to managing defect rates, coordinating quality documentation, and maintaining compliance with environmental and occupational health and safety standards.
+
+

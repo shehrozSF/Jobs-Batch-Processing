@@ -1,0 +1,36 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=12890420c0f5c108
+title: Backend Developer (Python)
+company: Quanrio LLP
+location: Karachi
+scraped_at: 2026-09-04T05:32:37+00:00
+query: python developer
+---
+This position is for a client and not part of Quanrio’s internal hiring.
+Function/Specialisation: Enterprise Integrations
+Experience: 3+ years
+We are looking for an experienced Python Backend Engineer – Enterprise Integrations to build and support integrations with core banking systems, FileNet, document repositories, enterprise APIs, and bank deployment environments.
+Key Responsibilities:
+- Develop integrations using Python, FastAPI, REST APIs, SOAP, and WSDL.
+- Parse, validate, map, and transform JSON and XML data.
+- Build ETL workflows, webhooks, callbacks, and SFTP-based batch file transfers.
+- Integrate messaging platforms such as IBM MQ, RabbitMQ, or Kafka.
+- Implement retries, backoff, idempotency, dead-letter queues, and error recovery.
+- Work with SQL and PostgreSQL for data processing, validation, and reconciliation.
+- Implement Active Directory, LDAP, RBAC, and Active Directory SSO integrations.
+- Deploy and support services on Linux, Windows, and Docker environments.
+- Troubleshoot networks, APIs, firewalls, DNS, routing, subnets, ports, and connectivity issues using tools such as curl, telnet, and tcpdump.
+- Maintain integration mappings, API documentation, deployment guides, and production support records. Required Skills:
+- 3+ years of experience in enterprise integrations, backend development, or middleware engineering.
+- Strong experience with Python, FastAPI, REST APIs, JSON, XML, Git, SQL, and PostgreSQL.
+- Experience with SOAP/WSDL, ETL, webhooks, callbacks, SFTP, and message queues.
+- Knowledge of IBM MQ, RabbitMQ, Kafka, retry mechanisms, backoff, and dead-letter queues.
+- Experience with Active Directory, LDAP, RBAC, and SSO.
+- Working knowledge of Linux, Windows, Docker, network security, DNS, routing, firewalls, and network troubleshooting.
+- Strong problem-solving, documentation, communication, and stakeholder-management skills. Preferred:
+Experience with core banking systems, FileNet, document repositories, financial institutions, or regulated enterprise environments.
+Timings: Morning Shift
+Job type: Full time (Onsite)
+Location: MACHS, Karachi
+Pay: Rs180,000.00 - Rs200,000.00 per month
+Work Location: In person

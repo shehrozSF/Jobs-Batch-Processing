@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/the-lmar-systems-software-engineer-peshawar-jobs-1869814
+title: Software Engineer
+company: The Lmar Systems
+location: Peshawar, Pakistan
+scraped_at: 2026-09-04T05:01:14+00:00
+query: software engineer
+---
+The Lmar Systems is seeking a motivated and recent graduate in Computer Science, Software Engineering, or a related technical field to join the consulting and engineering teams as a Software Engineer. This role involves working closely with experienced professionals to design, develop, and maintain software solutions that meet client requirements.
+The ideal candidate possesses a strong foundation in core programming concepts and problem-solving and demonstrates eagerness to learn in a collaborative environment.
+In this position, the Software Engineer contributes to the entire Software Development Life Cycle, including coding, testing, and deployment.
+The role demands familiarity with programming languages like Java and C#, and experience with version control systems such as Git.
+The candidate should be comfortable with basic computing tasks, have exposure to databases with the ability to write simple SQL queries, and possess foundational knowledge of cloud computing and web technologies.
+Effective communication skills are essential to work with team members and stakeholders as the candidate gains practical experience and grows technically within the company.

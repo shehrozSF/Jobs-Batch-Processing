@@ -1,0 +1,25 @@
+{# Polls itself every 2s until the batch is complete or halted, then stops. #}
+<div id="progress"
+     {% if not p.complete and not p.halted_reason %}
+     hx-get="/batches/{{ p.id }}/progress" hx-trigger="every 2s" hx-swap="outerHTML"
+     {% endif %}>
+  <div class="bar"><div style="width: {{ p.percent }}%"></div></div>
+  <p>{{ p.percent }}% of {{ p.total }} postings</p>
+
+  {% if p.halted_reason %}
+  <p class="alert"><strong>Halted:</strong> {{ p.halted_reason }}</p>
+  {% endif %}
+
+  <table>
+    <tr>{% for status in p.counts %}<th>{{ status }}</th>{% endfor %}</tr>
+    <tr>{% for count in p.counts.values() %}<td>{{ count }}</td>{% endfor %}</tr>
+  </table>
+  <p>{{ p.model_calls }} model calls · {{ p.input_tokens }} tokens in / {{ p.output_tokens }} out ·
+     <strong>${{ "%.4f"|format(p.cost_usd) }}</strong></p>
+
+  {% if p.retryable %}
+  <form action="/batches/{{ p.id }}/retry" method="post">
+    <button type="submit">Retry {{ p.retryable }} dead/paused/stuck jobs</button>
+  </form>
+  {% endif %}
+</div>

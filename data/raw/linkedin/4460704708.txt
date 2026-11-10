@@ -1,0 +1,68 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4460704708
+title: Senior Full Stack Engineer
+company: Value & Growth Advisory
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:38+00:00
+query: python developer
+---
+🚀 We're Hiring — Senior Full-Stack Engineer | MERN Stack or Python + React
+Job Type : Full-time, Permanent | Location : Lahore, Pakistan
+Workplace Type : On-site | Experience : 3+ years
+About the Role
+Value & Growth Advisory (VGA) builds enterprise-grade software for large-scale B2B clients, and we are growing our engineering team. We are hiring a Senior Full Stack Engineer to own features end to end: technical design, backend and frontend development, data modeling, automated testing, CI/CD, and production support.
+We build with MERN (Node.js, Express.js, React, MongoDB) and Python + React (Django or FastAPI, React, PostgreSQL). Production experience in one of them is enough; you do not need both. Your work ships to enterprise clients from week one, you make real architectural decisions on the APIs, data models, and React frontends you build, and you help raise the bar for the team through code reviews and mentoring.
+What You'll Do
+- Own full-stack features end to end: requirements, technical design (API contracts, data models), implementation, testing, deployment, and production support, with minimal supervision.
+- Design and build clean, versioned REST or GraphQL APIs.
+- Design scalable data models and own schema design, indexing, and query optimization on PostgreSQL or MongoDB.
+- Build high-performance React frontends with a strong focus on UX and accessibility.
+- Write automated tests as part of everyday delivery, using tools such as Jest, Pytest, or Cypress.
+- Own CI/CD quality, working with Docker and pipelines such as GitHub Actions.
+- Diagnose and resolve production incidents in the systems you own.
+- Review code and mentor junior engineers through code reviews and pair programming.
+Required Qualifications
+- 3+ years of professional full-stack development in production environments.
+- Production experience in at least one of these stacks (one is enough; both is a plus): MERN (Node.js, Express.js, React, MongoDB) or Python + React (Django or FastAPI, React, PostgreSQL).
+- Ability to design and build clean REST or GraphQL APIs from scratch.
+- Database design and optimization skills: schema design, indexing, and query optimization on the primary SQL or NoSQL database of your stack.
+- Experience building and maintaining production React frontends, including performance and accessibility considerations.
+- Practical experience with Docker and CI/CD pipelines.
+- Practical experience with automated testing.
+- Experience diagnosing and resolving production incidents in systems you own.
+- A track record of owning features from requirements to production with a high degree of independence.
+Preferred Qualifications
+- Experience across both stacks (MERN and Python + React).
+- Experience with microservices, event-driven, or distributed systems.
+- Kubernetes or infrastructure as code (Terraform or Pulumi).
+- Background in enterprise SaaS or large B2B platforms.
+- Familiarity with other parts of our environment: TypeScript, Redis, GitHub Actions, or deploying to AWS, GCP, or Azure.
+- Mobile development with React Native or Flutter.
+Technical Skills
+This list describes our engineering environment. The mandatory items are in Required Qualifications above; you are not expected to know everything here.
+- Backend Development (one track): Node.js with Express.js, or Python with Django or FastAPI
+- Frontend Development: React, TypeScript, JavaScript (ES6+)
+- APIs: REST APIs, GraphQL, API design and versioning
+- Databases (SQL / NoSQL): PostgreSQL or MongoDB (by track), Redis
+- DevOps and Cloud: Docker, CI/CD, GitHub Actions, AWS / GCP / Azure
+- Testing: Jest, Pytest, Cypress
+- Engineering Practices: software architecture, code reviews, pair programming, accessibility, production incident response
+What We're Looking For
+- Ownership: you treat a feature as yours until it is running well in production, not until the pull request merges.
+- Engineering judgment: you can explain the trade-offs behind an API shape or a schema, and you choose the simplest approach that will scale.
+- Quality by default: tests, CI/CD, performance, and accessibility are part of how you build, not an afterthought.
+- Clear communication: your code, reviews, and explanations are easy for other engineers to follow.
+- Collaboration: you are as comfortable pairing with a junior engineer as you are debugging a production incident.
+Why Join Us
+- Your work ships to enterprise clients from week one.
+- Engineering-first culture: code quality, testing, and a sustainable pace are priorities, not afterthoughts.
+- Competitive compensation plus a dedicated learning and training budget.
+- Real architectural ownership and a clear path to senior and lead-level growth.
+About the Company
+Value & Growth Advisory (VGA) builds enterprise-grade software trusted by large-scale B2B clients. Our engineering team is growing, and this role is based on-site in Lahore, Pakistan.
+Application / Next Steps
+Send your application to vgapak@vgaadvisory.com with:
+- Your CV or resume (PDF preferred).
+- A link to your GitHub profile or portfolio.
+- A short note (3 to 5 sentences) describing something you built, the stack you used, and your specific role.
+Subject line (please use this exact subject line): Application - Senior Full Stack Engineer - [Your Name]

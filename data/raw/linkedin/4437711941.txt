@@ -1,0 +1,64 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4437711941
+title: AI ML Engineer (Mid-Senior)
+company: IKONIC
+location: Islamabad, Islāmābād, Pakistan
+scraped_at: 2026-09-04T03:59:41+00:00
+query: python developer
+---
+Position Title: AI ML Engineer (Mid-Senior)
+Timings: 2:00 pm - 11:00 pm (Onsite)
+Department: AI ML
+Location: Ikonic, Plot # 176, Korang Road, near Rahat Bakers, I-10/3, Islamabad
+About Us:
+IKONIC is a US-based IT company headquartered in Miami, Florida, serving clients globally for over 9 years. Were known for building scalable digital solutions and high-performing product teams. Innovation, ownership, and outcomes are core to how we work.
+Position Purpose:
+We are seeking a highly skilled and motivated Mid-Senior AI/ML Engineer with over 3 years of experience to join our dynamic team. The ideal candidate will have a deep understanding of machine learning algorithms, a strong background in Python programming, and a passion for developing cutting-edge AI solutions. In this role, you will lead the design, development, and deployment of machine learning models and contribute to our overall AI strategy.
+Education & Professional Qualification:
+- Bachelor or equivalent degree from a reputed educational institute, preferably in computer programming, computer science, or a related field.
+- Certification(s): Not mandatory, but certification in a relevant field is a plus.
+Experience:
+Minimum 3 years of experience in AI/ML engineering with a proven portfolio of relevant projects.
+Responsibilities:
+- Build and fine-tune Generative AI models (LLMs, diffusion models, transformers, etc.) for text, image, or multimodal tasks.
+- Explore and implement Agentic AI frameworks (autonomous/AI agents, tool-using models, reasoning systems).
+- Build AI chatbots and virtual assistants with advanced memory, reasoning, and multi-turn conversation abilities.
+- Collaborate with data scientists, engineers, and product teams to integrate AI/ML solutions into production systems.
+- Utilize Python and its machine learning libraries (e.g., TensorFlow, PyTorch, scikit-learn) to design, develop, and deploy machine learning models tailored to specific business needs.
+- Utilize no-code and low-code platforms such as Make, Zapier, and n8n to rapidly design, prototype, and deploy automation workflows and client-ready solutions.
+- Continuously improve and optimize machine learning algorithms to enhance the accuracy and performance of predictive models.
+- Experience with image processing, feature extraction, and neural network architectures (CNNs, R-CNN, YOLO, Mask R-CNN, ViT, etc.).
+- Apply a strong understanding of machine learning algorithms, statistical methods, and data preprocessing techniques to analyze complex data sets.
+- Fine-tune and evaluate models for accuracy, latency, and reasoning depth.
+- Work with cloud platforms (e.g., AWS, GCP, Azure) to deploy models and manage computational resources efficiently.
+- Utilize containerization technologies such as Docker to create scalable and reproducible environments for model development and deployment.
+Requirements
+- Bachelors or Masters degree in Computer Science, AI, Data Science, or related field.
+- 3+ years of experience in AI / ML / LLM-based development.
+- Hands-on experience with Generative AI frameworks (OpenAI, Stability AI, Hugging Face Transformers, Diffusion models).
+- Hands-on experience with Agentic AI tools/frameworks (LangChain, AutoGPT, CrewAI, or similar).
+- Design, develop, and optimize machine learning models and algorithms tailored to business needs, utilizing Python and relevant libraries (e.g., TensorFlow, PyTorch, scikit-learn).
+- Deep understanding of multi-layer neural network models and architectures such as CNN, RNN, LSTM, encoders, transformers etc.
+- Write clean, efficient, and maintainable code while adhering to best practices in software engineering.
+- Work closely with cross-functional teams including data scientists, engineers, and product managers to integrate machine learning solutions into products and systems.
+- Stay updated with the latest advancements in AI/ML technologies and techniques, and contribute to research and innovation within the team.
+- Provide guidance and mentorship to junior engineers, fostering a collaborative and knowledge-sharing environment.
+Benefits
+- EOBI
+- Provident Fund
+- Medical Health Insurance
+- Annual Leaves
+- Casual leaves
+- Sick Leaves
+- Bereavement Leaves
+- Marriage Leaves
+- Paternity Leaves
+- Maternity Leaves
+- Recreational area for in-house games
+Why Should You Join IKONIC?
+At IKONIC, we believe in providing development opportunities to all its employees which is why our job comes with a variety of challenging assessments meant to catapult your career to the next level. This is made evident with our offerings such as:
+- A growth mindset through the help of experienced and helpful Mentors. Ikonic is made up of passionate individuals who aim to support each other in their training as well as day-to-day tasks.
+- A Dynamic Environment where we focus on encouraging initiatives, promoting agility and creating a work/life balance. We know the value you bring in and we aim to nurture it.
+- Market Competitive Compensation based upon your professional qualifications and skill set.
+- As an Equal employment opportunity provider. All employment associated decisions are based on an individual's merit.
+Note: Above goals and job descriptions are indicative and subject to change.

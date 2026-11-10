@@ -1,0 +1,38 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4384582559
+title: Senior Python Engineer
+company: SkyLabs AI
+location: Islamabad, Islāmābād, Pakistan
+scraped_at: 2026-09-04T03:58:03+00:00
+query: python developer
+---
+About Us
+At SkyLabs AI Inc., we are at the forefront of the artificial intelligence revolution. As a US-headquartered company, we conduct applied research on AI for intelligent reasoning. We specialize in complex neurosymbolic AI to solve intricate problems within software engineering. Our team is composed of world-class researchers and engineers dedicated to building the platforms and intelligent agents that will power the next generation of software. If you are passionate about building truly intelligent systems and want to make a lasting impact, join us.
+The Role
+We are seeking an exceptional Senior Python Engineer to take ownership of the Python infrastructure that powers our agent runtimes and evaluation pipelines. This is a foundational role where you will design scalable systems, bridge protocol boundaries, and establish the engineering standards.
+Requirements
+Key Responsibilities
+- Platform & Agent Runtime: Own and scale the Python layers for our agent runtime, remote execution sandboxes, and AI evaluation pipelines
+- System Integration: Improve the reliability of asynchronous RPC and protocol boundaries between our Python services and proof tooling e.g. our opensource rocq-agent-toolkit (https://github.com/SkyLabsAI/rocq-agent-toolkit )
+- Backend & Observability: Build and maintain high-throughput backend ingestion APIs, query interfaces, and comprehensive observability workflows
+- Engineering Excellence: Define and enforce rigorous engineering standards for typing, testing, release cycles, and incident/debug workflows
+- Leadership: Mentor fellow engineers and drive critical architectural decisions across our agent and platform modules
+Qualifications & Skills
+- Experience: 5+ years of experience building, shipping, and maintaining high-quality production code
+- Core Python Mastery: Deep expertise in async I/O (asyncio), subprocess orchestration, and WebSockets/JSON-RPC
+- API Design: Extensive experience with FastAPI and PostgreSQL (SQLModel/SQLAlchemy) for production API design, alongside strong proficiency in Pydantic v2, schema-first API design, and building type-safe SDKs
+- Multiple API Paradigms: Demonstrated experience building and integrating multiple API types, specifically gRPC and REST
+- Agent Frameworks: Proven experience building or owning agent frameworks, including tool calling, run orchestration, and evaluation pipelines
+- Testing Culture: Solid background in automated testing, including hands-on experience with pytest, pytest-asyncio, integration/contract tests, and establishing CI quality gates
+- Production Observability: Expertise in instrumenting production systems using OpenTelemetry, structured logging, and trace correlation
+- Security Fundamentals: Strong understanding of security basics for platform code, including API key handling, OAuth/device-flow style authentication, and secrets hygiene
+- Polyglot Environments: Comfortable working within polyglot systems, with the ability to seamlessly integrate Python services with non-Python components
+Who You Are
+You are a builder at heart, driven by curiosity and a desire to solve hard problems. You don't wait for instructions; you identify opportunities and seize them. You are comfortable with ambiguity and thrive in a fast-paced, in-depth environment where you are encouraged to experiment and push boundaries. You are a clear communicator who can articulate complex technical concepts and work collaboratively to achieve ambitious goals.
+Benefits
+- Competitive salary in USD
+- Comprehensive health allowance
+- Relocation allowance (if you're moving to Islamabad)
+- Monthly team events and offsites
+- A beautiful, collaborative office space
+- Work alongside world-class AI researchers and engineers

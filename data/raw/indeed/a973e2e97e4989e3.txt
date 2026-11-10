@@ -1,0 +1,60 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=a973e2e97e4989e3
+title: Full-Stack Developer
+company: Horticlub
+location: Faisalabad
+scraped_at: 2026-09-04T05:34:04+00:00
+query: python developer
+---
+Full-Stack Developer, Flutter & Backend (Remote/Faisalabad-Lahore)
+Job Type: Full-time | Onsite (Pakistan, Faisalabad)
+About the Role
+Horti Club, one of Pakistan's largest horticulture and landscaping companies, is building a nationwide plants marketplace, a purpose-built delivery platform for plants, connecting customers with nurseries across the country, the idea is similar to Food Panda. We're looking for a strong full-stack developer who can own both the backend and the mobile app for this build from the ground up, working directly alongside our lead developer.
+This is a real, funded, ground-floor project, not a maintenance role. You'll be one of two developers building the entire system: customer app, delivery logistics, nursery onboarding, and order management, end to end.
+Responsibilities
+· Build the backend (FastAPI, Python) powering orders, payments, nursery listings, and delivery logistics.
+· Design and manage the database (PostgreSQL), including location-based logic for matching customers to nearby nurseries.
+· Develop the customer-facing and delivery-rider mobile apps using Flutter, for both Android and iOS.
+· Build and consume REST APIs connecting the mobile app, website, and backend.
+· Work with mapping/location services and delivery-route logic.
+· Publish and maintain apps on the Google Play Store and Apple App Store.
+· Use Git/GitHub for version control, branching, and code review.
+· Write clean, well-documented, maintainable code and collaborate closely with the rest of the team.
+· Debug, test, and optimize for performance and reliability under real order volume.
+Education
+· At least a bachelors in software engineering or any related field.
+Experience
+· Minimum 3 years of real software engineering experience building scalable and easy to maintain systems.
+Requirements
+· Solid experience with Flutter for cross-platform mobile development and deploying apps to play store and apple store.
+· Solid backend experience, FastAPI or a comparable Python framework.
+· Strong working knowledge of PostgreSQL or similar relational databases.
+· Comfortable owning a feature end to end: database, API, and mobile UI.
+· Experience with REST API design and integration.
+· Good understanding of Git/GitHub workflows.
+· Experience publishing apps to the Google Play Store (App Store experience a strong plus).
+· Experience deploying backends and databases.
+· Strong problem-solving skills and ability to work independently with minimal hand-holding.
+· Good communication skills, comfortable working closely with a small, fast-moving team.
+Nice to Have
+· Experience with location-based / geospatial features (maps, delivery radius, PostGIS).
+· Experience with route optimization or logistics-style systems.
+· Familiarity with payment gateway integrations (JazzCash, EasyPaisa, or similar).
+· Experience with state management in Flutter (Bloc, Provider, Riverpod).
+· Prior experience on a marketplace, delivery, or logistics app.
+What We Offer
+· Full-time, funded, high-ownership role on a major national project from day one.
+· Work directly with leadership. Fast decisions, no bureaucracy.
+· Competitive pay, based on experience.
+· Real opportunity to grow with the project.
+How to Apply
+Please submit:
+· Your resume.
+· Your GitHub profile.
+· Links to any of your deployed projects
+Work Location: Onsite (Pakistan-based, Faisalabad)
+Pay: Rs80,000.00 - Rs150,000.00 per month
+Education:
+- Bachelor's (Preferred) Experience:
+- Full-Stack Developer, Flutter & Backend: 3 years (Preferred) Location:
+- Faisalabad (Preferred) Work Location: Hybrid remote in Faisalabad

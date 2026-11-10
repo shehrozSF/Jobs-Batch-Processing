@@ -1,0 +1,9 @@
+source: rozee
+url: https://www.rozee.pk/sitealive-net-developer-jobs-1871136
+title: .Net Developer
+company: SiteAlive
+location: Pakistan
+scraped_at: 2026-09-04T04:54:53+00:00
+query: python developer
+---
+Looking for an experienced .NET Developer to maintain and enhance existing applications built on ASP.NET, backed by SQL Server and MySQL. You will be working across the full stack from database design to front-end on established codebases, so comfort in reading, refactoring, and extending existing projects is essential.

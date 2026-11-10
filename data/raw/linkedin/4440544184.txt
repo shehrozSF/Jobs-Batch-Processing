@@ -1,0 +1,47 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4440544184
+title: Senior Full Stack Developer (React & Python)
+company: INTECH Automation & Intelligence
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:58:56+00:00
+query: python developer
+---
+About The Job
+Join our Team - Your career journey starts here – not just a job, but a future.
+Our Potential Opportunity
+INTECH Automation Intelligence is seeking a Senior Full Stack Developer to join our dynamic Industrial Intelligence team. INTECH IIS applications are built on its proprietary Industry 4.0 platform. They help address operational, optimization, and performance challenges faced by industries, be it in manufacturing, oil & gas, chemical & process, food & beverages, or metals & mining. These applications harness the capabilities of artificial intelligence, machine learning, physical and knowledge modeling, and visualizations for analyses on real-time and historical big data.
+What You’ll Lead and Deliver:
+- Design, develop, and maintain web applications using React for front-end development and Python for back-end services.
+- Build new use cases and mini-apps from conceptualization to deployment, collaborating closely with product managers and UX/UI designers.
+- Implement RESTful APIs, integrate third-party services, and manage server-side logic efficiently.
+- Write clean, maintainable, and well-documented code while following best practices and coding standards.
+- Optimize applications for maximum speed, scalability, and responsiveness.
+- Conduct code reviews, unit testing, and ensure high-quality software delivery.
+- Troubleshoot, debug, and enhance existing applications to improve functionality and user experience.
+- Participate in architecture and design discussions, providing technical input on new features and solutions.
+- Stay up-to-date with emerging technologies, frameworks, and best practices in software development.
+Requirements:
+To Be Successful in This Role, You Must Have:
+- Proven experience of 3 - 5 years as a Full Stack Developer with strong React and Python skills.
+- Hands-on experience in building web applications, APIs, and mini apps.
+- Solid understanding of back-end development with Python, including frameworks such as FastAPI & Flask.
+- Familiarity with relational and NoSQL databases, cloud platforms (AWS, Azure, GCP), and version control systems (Git).
+- Experience in developing responsive, scalable, and secure web applications.
+- Excellent problem-solving skills and attention to detail.
+- Strong communication skills and ability to work effectively in a collaborative team environment.
+﻿We Offer Competitive Benefits:
+- Global Exposure: Opportunities to work on international projects and collaborate with global teams.
+- Competitive Compensation in USD: A salary package that recognizes your expertise and contributions.
+- Annual Bonus in USD: Performance-driven rewards based on your gross pay to celebrate your achievements and contributions.
+- In-House Lunch: Delicious meals provided during work hours to keep you fueled and focused.
+- Health Insurance: OPD coverage for you and your parents, plus IPD coverage for you and your dependents.
+- Learning Opportunities: Access to training programs, workshops, and certifications to enhance your skills.
+- Work-Life Balance: Paid time off, including annual leave and holidays.
+- Inclusive Environment: A workplace that celebrates diversity and fosters collaboration.
+﻿Why Join INTECH Automation Intelligence?
+At INTECH, you will have the opportunity to work with a globally renowned industrial automation and digitalization technology company. For nearly 30 years, INTECH has partnered with major oil and gas global giants to deliver innovative solutions. As we continue to lead in the Industry 4.0 era, you will be at the forefront of transformative technologies that solve real-world challenges.
+What to Expect After Applying?
+Explore how INTECH’s Talent Acquisition team ensures a seamless hiring journey. From embracing talent with a passion for innovation to fostering a culture of continuous learning and growth, we’re dedicated to finding and supporting the best minds in the industry.
+Click Here to learn more about our hiring process and discover your path to success with us.
+Our hiring process is designed to assess your skills and potential in a fair and inclusive manner. After applying, you will be guided through a structured evaluation process to ensure mutual alignment.
+INTECH Automation Intelligence is proud to be an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

@@ -1,0 +1,9 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=bad7d622e67d3c12
+title: Python developer
+company: Intone Networks
+location: Chicago, IL 60611
+scraped_at: 2026-09-04T05:31:09+00:00
+query: python developer
+---
+Top 5 Skill sets 1. Programming Language: Python leveraging Panda - KEY SKILL 2. Development experience on AWS platform 3. Containerization tool: Docker 4. Environments: Linux WINDOWS 5. Version Control: GIT Nice to have 1. Databases: MySQL RDS Redshift Iceberg 2. Experience in Automation Individual will be working on FareWorks project which will be implemented in AWS platform.

@@ -1,0 +1,25 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=2628d7525e945e5c
+title: Software Developer
+company: SDH Systems
+location: Remote
+scraped_at: 2026-09-04T04:07:22+00:00
+query: python developer
+---
+Location: Remote
+Job Schedule: Full Time (40 Hours/Week)
+Salary: $94,827.00/Annum
+Job duties:
+Design, develop, and implement software applications based on business and technical requirements.
+Analyze user needs and system requirements to determine feasibility and design specifications.
+Write clean, scalable, and efficient code using programming languages such as Java, Python, C#, or JavaScript.
+Develop and integrate APIs, web services, and third-party components to enhance application functionality.
+Perform unit testing, debugging, and troubleshooting to ensure software quality and performance.
+Collaborate with cross-functional teams including QA, DevOps, and business analysts to deliver high-quality solutions.
+Maintain and enhance existing applications by identifying areas for modification and improvement.
+Participate in code reviews to ensure adherence to coding standards and best practices.
+Deploy applications to development, testing, and production environments and monitor system performance.
+Document software designs, processes, and technical specifications for future reference and compliance
+Design, develop, and implement software applications based on business and technical requirements.
+Analyze user needs and system requirements to determine feasibility and design specifications.
+Minimum Education Requirement: This position requires minimum of Bachelor’s degree in computer science, computer information systems, information technology, or a combination of education and experience equating to the U.S. equivalent of a Bachelor’s degree in one of the aforementioned subjects.

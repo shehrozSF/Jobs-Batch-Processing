@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/shifa-tameer-e-millat-university-software-developer-it-technician-jobs-1868676
+title: Software Developer / IT Technician
+company: Shifa Tameer-e-Millat University
+location: Islamabad, Pakistan
+scraped_at: 2026-09-04T04:58:44+00:00
+query: python developer
+---
+
+Shifa Tameer-e-Millat University is seeking a dedicated Software Developer / IT Technician with at least one year of experience to join our technology team. This role requires a versatile professional who is skilled in both software development and IT technical support functions. The successful candidate will be responsible for designing, developing, and maintaining software solutions that align with the university's operational needs while simultaneously providing technical assistance and maintaining network and system security. As an individual contributor, this position does not involve team management but offers ample opportunity for hands-on involvement with a variety of IT systems and platforms.
+
+The ideal candidate must have a solid understanding of software development life cycles and possess strong expertise in system administration and network configuration. Expertise in troubleshooting and IT security practices is essential for ensuring the integrity and availability of computing resources. Additionally, the role requires the management of databases along with knowledge of Windows Server environments and network security protocols. Experience with Security Information and Event Management (SIEM) tools will be advantageous for monitoring and responding to cybersecurity threats. The position demands a proactive approach to problem-solving and continuous improvement in technology service delivery within the university setting.
+
+

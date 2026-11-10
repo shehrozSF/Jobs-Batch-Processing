@@ -1,0 +1,52 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=fd32b7bdff418613
+title: Senior Software Development Engineer in Test
+company: NJM Insurance
+location: Ewing, NJ 08628
+scraped_at: 2026-09-04T05:31:06+00:00
+query: python developer
+---
+The Senior Software Development Engineer in Test (SDET) is responsible for designing, developing, and maintaining automated testing frameworks/solutions that ensure the quality, reliability, and performance of NJM’s business applications. The SDET will work closely with developers, quality engineers, and solution owners to embed quality throughout the software development lifecycle.
+Essential Duties and Responsibilities:
+- Design, develop, and maintain automated test frameworks and test scripts for web, mobile, and API-based applications
+- Write robust, scalable, and reusable test code using industry-standard tools and programming languages
+- Collaborate with software engineers and quality engineers to define shift-left test approaches with automation embedded throughout the delivery cycle.
+- Participate in code reviews, providing feedback on testability, quality, and automation coverage
+- Execute and analyze automated, manual, regression, smoke, integration, and performance tests
+- Integrate automated tests into CI/CD pipelines to support continuous testing
+- Monitor test execution results and provide clear reporting on quality metrics
+- Contribute to test data management, environment setup, and test infrastructure improvements
+- Support users including training, mentoring and troubleshooting
+- Experience working in Agile development environments.
+- Strong written and verbal communication skills across technical and non-technical audiences Required Qualifications:
+- 7+ years of experience in software delivery, including 5+ years in Quality Engineering, software development and building test automation tools and frameworks
+- Bachelor’s degree in computer science or equivalent professional experience.
+- Strong foundation in Quality Engineering principles and advanced testing methodologies.
+- Hands-on experience with test automation tools (e.g., Selenium, Playwright, Cypress, TestNG, JUnit, NUnit)
+- Experience testing APIs using tools/frameworks such as Postman, RestAssured, or similar
+- Strong experience with software testing and test automation methodologies
+- Expertise in at least one programming language such as Java, .Net, Python, C#, or JavaScript
+- Experience with version control systems (e.g., Git) Preferred Qualifications:
+- Experience with performance and load testing tools like NeoLoad and JMeter
+- Experience with cloud platforms
+- Experience with Docker, Kubernetes, or container-based testing
+- Experience using AI tools and technology to assist with automated tests.
+- Knowledge of BDD frameworks Compensation: Salary is commensurate with experience and credentials.
+Pay Range: $109,200-$126,922
+Eligible full-time employees receive a competitive Total Rewards package, including but not limited to a 401(k) with employer match up to 8% and additional service-based contributions, Health, Dental, and Vision insurance, Life and Disability coverage, generous PTO, Paid Sick Leave, and paid parental leave in addition to state-mandated leave. Employees may also be eligible for discretionary bonuses.
+Legal Disclaimer: NJM is proud to be an equal opportunity employer. We are committed to attracting, retaining and promoting a diverse and inclusive workforce that is fully representative of the diversity that exists in the communities in which we do business.
+Pay: $109,200.00 - $126,922.00 per year
+Benefits:
+- 401(k)
+- 401(k) matching
+- Dental insurance
+- Employee assistance program
+- Employee discount
+- Health insurance
+- Life insurance
+- Paid time off
+- Referral program
+- Tuition reimbursement
+- Vision insurance Application Question(s):
+- Will you now, or at any time in the future, require sponsorship?
+- What is your current city and ZIP code, and how many minutes is your typical commute to West Trenton, NJ (08628) during peak hours? FAILURE TO ANSWER THIS QUESTION WILL RESULT IN YOUR APPLICATION BEING REJECTED. Work Location: Hybrid remote in Ewing, NJ 08628

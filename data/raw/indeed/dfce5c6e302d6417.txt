@@ -1,0 +1,23 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=dfce5c6e302d6417
+title: Python Developer
+company: Robotics Technologies
+location: Oak Ridge, TN
+scraped_at: 2026-09-04T05:31:09+00:00
+query: python developer
+---
+Full job description
+- Must be able to work onsite in Oak Ridge, TN
+Job Responsibilities:
+You will be collaborating with a highly diverse and multidisciplinary team; from photogrammetrists, geographers, mathematicians, physicists, computer scientists, and engineers in research, development, integration, testing, and deployment in areas including spatial computing, workflow automation, and machine intelligence systems. You will be doing application and data development to create geospatial software for workflow automation. You will support research staff in disseminating results in peer reviewed journals, technical reports, relevant conferences, and open-source software project repos. You will work with researchers and project sponsors to capture, understand, integrate, and implement project and security requirements in established programs.
+Basic Qualifications:
+- This position requires a Bachelor's Degree in Computer Science or related technical subjects.
+- A minimum of 1 year of experience with application design and development, database development and design, or workflow automation development.
+- Python, git (or some version control), and PostgreSQL.
+- Experience facilitating, gathering and documenting user requirements through application design sessions with business customers.
+- Excellent communication, organizational skills, time management and problem-solving abilities.
+Preferred Qualifications:
+- 3-5 years of experience with application design and development, database development and design, or workflow automation development.
+- Experience with Docker, C++, CI/CD.
+- Experience with integration of external models and tools for scalability and scheduling such as SLURM or Kubernetes.
+- Experience outlining technical requirements, producing a design document, and coordinating with leadership on that design, and managing the development work associated with these tasks.

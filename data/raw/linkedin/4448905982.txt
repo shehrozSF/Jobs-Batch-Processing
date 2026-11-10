@@ -1,0 +1,77 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4448905982
+title: Senior Backend & AI Platform Developer
+company: Navigator HR Consulting Solutions
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:35+00:00
+query: python developer
+---
+Senior Backend Developer – AI, APIs & LLM Integration
+Location: Remote
+Timings: 4 pm - 12 am (Monday to Friday)
+Employment :Type Full-Time / Contract
+About The Role
+We are seeking an outstanding Backend Developer who can architect, build, test, deploy, and optimize scalable backend systems while leveraging the latest AI technologies.
+This is not a traditional backend role. We are looking for someone who can rapidly evaluate emerging technologies, integrate Large Language Models (LLMs), design intelligent APIs, and build AI-powered services that can scale globally.
+Key Responsibilities
+- Design scalable backend architectures from the ground up.
+- Build secure RESTful APIs, GraphQL APIs, and microservices.
+- Develop cloud-native backend platforms.
+- Design scalable databases and caching strategies.
+- Integrate multiple AI providers and LLM APIs.
+- Build Retrieval-Augmented Generation (RAG) systems.
+- Develop AI agents capable of reasoning, orchestration, and workflow automation.
+- Design prompt engineering frameworks and AI pipelines.
+- Implement vector databases and semantic search.
+- Develop event-driven architectures and asynchronous processing.
+- Build automated testing frameworks.
+- Implement CI/CD pipelines.
+- Monitor, optimize, and secure production environments.
+- Evaluate emerging technologies and recommend improvements.
+- Mentor junior developers and contribute to engineering best practices.
+Required Qualifications
+- Bachelor's degree in Computer Science or equivalent experience.
+- 5+ years of backend software development.
+- Strong proficiency in Python, Node.js, Java, or Go.
+- Experience with FastAPI, Express.js, Spring Boot, or similar frameworks.
+- Strong understanding of SQL and NoSQL databases.
+- Experience with PostgreSQL, MongoDB, Redis, Elasticsearch, or similar technologies.
+- Experience designing scalable APIs.
+- Strong understanding of distributed systems.
+- Experience with Docker and Kubernetes.
+- Experience deploying on AWS, Azure, or Google Cloud.
+- Experience with Git and CI/CD pipelines.
+AI & Modern Technology Requirements
+Candidates should demonstrate hands-on experience with several of the following:
+- OpenAI API
+- Anthropic Claude API
+- Google Gemini API
+- Meta Llama models
+- Model Context Protocol (MCP)
+- Retrieval-Augmented Generation (RAG)
+- Vector databases (Pinecone, Weaviate, Milvus, ChromaDB, pgvector)
+- AI Agents and multi-agent frameworks
+- LangChain, LangGraph, LlamaIndex, or equivalent AI orchestration frameworks
+- Function calling and tool integration
+- Prompt engineering and evaluation
+- Embeddings and semantic search
+- Streaming AI responses
+- AI observability and monitoring
+- API integrations with third-party platforms (Stripe, Twilio, Firebase, Auth0, SendGrid, etc.)
+Preferred Qualifications
+- Experience building AI-native products.
+- Experience with event-driven architectures.
+- Experience with serverless platforms.
+- Knowledge of cybersecurity best practices.
+- Experience with blockchain or Web3 technologies.
+- Experience with data engineering or MLOps.
+- Familiarity with DevSecOps practices.
+What We Look For
+- Exceptional software architecture skills.
+- Ability to quickly learn and adopt new technologies.
+- Strong analytical and problem-solving abilities.
+- Startup mindset with a bias toward execution.
+- Passion for AI innovation and continuous improvement.
+- Excellent communication and collaboration skills.
+- Ability to independently design, build, test, deploy, and support production-grade systems.
+Work Location: Remote

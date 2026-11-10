@@ -1,0 +1,33 @@
+source: rozee
+url: https://www.rozee.pk/qa-engineer-islamabad-jobs-1872758
+title: QA Engineer
+company: siParadigm
+location: Islamabad, Pakistan
+scraped_at: 2026-09-04T05:02:26+00:00
+query: software engineer
+---
+A leading AI healthcare technology company based in Islamabad is seeking a full-time, on-site QA Engineer to join their dynamic team. This role is crucial in ensuring the quality and reliability of innovative healthcare solutions by owning the QA strategy and managing the overall release quality. The ideal candidate will have hands-on experience with automated testing frameworks, continuous integration and deployment pipelines, and performance testing methodologies. This position offers an opportunity to work closely with cutting-edge AI/ML technologies and data-intensive products within the healthcare IT domain.
+Key Responsibilities
+- Develop and implement comprehensive QA strategies to ensure high-quality software releases.
+- Design, build, and maintain automated test scripts primarily using Python to support continuous testing efforts.
+- Integrate automated tests into CI/CD pipelines to enable seamless and efficient release cycles.
+- Conduct thorough API and database testing to validate backend functionality and data integrity.
+- Perform performance and load testing using tools such as JMeter to assess system scalability and responsiveness.
+- Utilize security testing tools like OWASP ZAP to identify and address vulnerabilities.
+- Collaborate with cross-functional teams including developers, product managers, and data scientists to understand requirements and deliver robust testing solutions.
+- Evaluate large language models (LLM) and other AI/ML components using specialized tooling to ensure accuracy and reliability.
+- Manage containerized testing environments using Docker and deploy tests on cloud platforms such as AWS or Azure.
+- Maintain detailed documentation of test cases, defects, and QA processes to support continuous improvement.
+Required Qualifications
+- Minimum of 3 years of professional experience in software quality assurance, preferably within AI/ML or data-intensive product environments.
+- Proficiency in Python for test automation and scripting.
+- Hands-on experience with AI/ML model evaluation tools, particularly related to large language models (LLMs).
+- Familiarity with healthcare IT systems and regulatory requirements.
+- Practical knowledge of performance testing tools like JMeter.
+- Experience with security testing tools, especially OWASP ZAP.
+- Working knowledge of cloud platforms such as AWS or Azure.
+- Competence in containerization technologies, specifically Docker.
+- ISTQB certification or equivalent formal QA qualification.
+Preferred Qualifications and Benefits
+Candidates with prior exposure to healthcare technology and AI-driven products will find this role particularly rewarding. The company offers a collaborative work environment focused on innovation and professional growth. The position follows a morning shift schedule and provides a competitive salary range of PKR 150,000 to 200,000 per month. This is an excellent opportunity for QA professionals eager to contribute to impactful healthcare solutions through advanced technology.
+This role requires on-site presence in Islamabad and is ideal for candidates looking to deepen their expertise in AI healthcare applications while working in a fast-paced, technology-driven setting..

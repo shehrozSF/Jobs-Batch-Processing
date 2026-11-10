@@ -1,0 +1,22 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=32de799b27f2c209
+title: AI DEVELOPER & ENGINEER
+company: MGC Developments
+location: Islamabad
+scraped_at: 2026-09-04T05:32:40+00:00
+query: python developer
+---
+AI Developer & Engineer
+Experience: 1+ Year
+Location: MGC Developments Head Office, Near Al-Jannat Mall, GT Road, Islamabad
+Job Responsibilities:
+- Develop and integrate AI/ML solutions and applications.
+- Work with AI models, APIs, and automation.
+- Build, test, and optimize AI-based systems.
+- Collaborate with the development team on AI projects. Requirements:
+- 1+ year of relevant AI/ML development experience.
+- Strong programming skills, preferably Python.
+- Knowledge of AI/ML frameworks, APIs, and automation.
+- Strong problem-solving and analytical skills. Apply/Contact: 0308-77 77 275
+Pay: Up to Rs90,000.00 per month
+Work Location: In person

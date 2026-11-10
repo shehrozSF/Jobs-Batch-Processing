@@ -1,0 +1,41 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=6a9c83694444498a
+title: Ai Apps and Software Developer
+company: Ship Next
+location: Lahore
+scraped_at: 2026-09-04T05:34:01+00:00
+query: python developer
+---
+AI Developer / AI Application Developer
+Run Courier is looking for a talented and innovative AI Developer who can build AI-powered solutions, Shopify apps, and custom applications for our growing technology ecosystem.
+Key Responsibilities:
+- Develop and integrate AI-powered applications and solutions
+- Build and maintain Shopify apps and custom Shopify integrations
+- Develop custom web applications, tools, and internal systems
+- Work with AI APIs, LLMs, automation, and third-party integrations
+- Integrate AI into existing products and business workflows
+- Design, develop, test, and deploy scalable applications
+- Research and implement new AI technologies and tools
+- Work closely with the management and development team to turn business ideas into functional products Requirements:
+- Bachelor's degree in Computer Science, Software Engineering, AI, or a related field
+- Strong programming and software development skills
+- Hands-on experience working with AI/LLMs and AI APIs
+- Experience developing Shopify Apps
+- Strong knowledge of APIs, databases, web development, and third-party integrations
+- Experience with technologies such as Python, JavaScript/TypeScript, Node.js, React , or similar
+- Understanding of Shopify APIs, Shopify Admin, and app development
+- Ability to develop both AI-based and conventional custom applications
+- Strong problem-solving and analytical skills
+- Ability to independently research, learn, and implement new technologies Good to Have:
+- Experience with OpenAI or other LLM APIs
+- Experience with AI agents, RAG, automation, or workflow systems
+- Experience with Shopify Plus or advanced Shopify integrations
+- Experience deploying applications on cloud platforms
+- Experience building SaaS products or internal business tools Location: Lahore
+Position: Full-Time
+Salary: Competitive — based on experience and technical expertise
+Who We're Looking For:
+We are looking for someone who doesn't just know how to code, but can take an idea, figure out the technology required, and actually build it. If you actively experiment with AI and enjoy building new products and solutions, we'd like to hear from you.
+To Apply: Send your CV along with links to your GitHub, portfolio, Shopify apps, or any AI projects you have built.
+Pay: Rs100,000.00 - Rs200,000.00 per month
+Work Location: In person

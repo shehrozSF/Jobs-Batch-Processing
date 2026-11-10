@@ -1,0 +1,29 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=fb29854b14b92d92
+title: Full Stack Developer
+company: InvoZone
+location: Lahore
+scraped_at: 2026-09-04T05:32:51+00:00
+query: python developer
+---
+Job Description
+We are looking for a skilled and experienced Full Stack Developer with strong expertise in Node.js, JavaScript, and Python , along with a good understanding of AI and Generative AI technologies . This is an onsite, client-facing role , and the candidate should have strong communication and collaboration skills to work directly with international clients.
+Working Hours: 6:00 PM – 3:00 AM PKT - Onsite
+Key Responsibilities
+- Develop and maintain scalable frontend and backend applications using JavaScript, Node.js, and Python.
+- Build and maintain APIs and integrate third-party services.
+- Work with modern frontend frameworks such as React.js.
+- Design and manage databases such as PostgreSQL, MySQL, or MongoDB.
+- Integrate AI/LLM-based solutions and AI-powered features into applications.
+- Communicate directly with clients to understand requirements, provide technical updates, and participate in meetings.
+- Collaborate with cross-functional teams to deliver high-quality software solutions.
+- Write clean, maintainable, and scalable code. Required Skills
+- 5+ years experience is preferred
+- Strong experience in JavaScript/TypeScript and Node.js.
+- Experience with React.js or similar frontend frameworks.
+- Good knowledge of Python.
+- Experience with REST APIs, databases, and third-party integrations.
+- Basic to intermediate knowledge of AI, Generative AI, and Large Language Models (LLMs).
+- Familiarity with AI APIs, prompt engineering, RAG, or vector databases is a plus.
+- Strong communication skills and experience working in a client-facing environment.
+- Willingness to work onsite and collaborate directly with clients and internal teams. Job Type: Full-time

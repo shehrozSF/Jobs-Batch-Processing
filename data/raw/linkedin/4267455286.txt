@@ -1,0 +1,40 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4267455286
+title: Principal Software Engineer - Backend
+company: dubizzle
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:29+00:00
+query: python developer
+---
+At Dubizzle Labs, we are looking to further expand our Pakistan office of already 400+. We are most interested in bringing on board colleagues who love to learn, perform, and teach. We are building a high-quality engineering environment with a super focus on delivering value to customers. Your primary responsibility would be to build world-class suite products to support the hyper-growth of our businesses in 10 countries.
+Are you a people person and genuinely enjoy helping others grow? Are you a thought leader? Can you solve any task thrown at you, irrespective of complexity or scale? Do you mentor and lead those in your team and push the boundaries of perfection? Do you know which corners can and can't be cut? Can you balance technical ambitions with business objectives?
+- Gather an up-to-date and in-depth understanding of the dubizzle code base technologies and industry trends;
+- Provide and share a broad knowledge of technologies and architectures and function as a mentor within the scope of your product stream and with the rest of the Packs;
+- Collaborate with other Leads and Seniors, and together ensure that we always deliver software of the highest standards;
+- Promote companywide coding standards, guidelines and best practices;
+- Demonstrate technical leadership and mentorship by setting challenging but realistic goals and guiding the team efforts towards successful project delivery;
+- Impact on the direction and scope of dubizzle's technical vision within your stream;
+- Collaborating closely with Product, Infrastructure, Design, UX, CLM and Strategy to deliver the highest quality products;
+- Hiring A-players to build High Performing Teams, constantly raising the bar of engineering talent;
+- Owning our business KPIs as a conduit to our Product team and business functions;
+- Be accountable for the technical direction whilst ensuring that decisions made daily are in line with our vision and direction;
+- Coach individuals in the team to become the next wave of technical leaders;
+Requirements
+- 6+ years of software engineering experience;
+- In-depth understanding of open source technologies like Python, PHP or Java etc;
+- In-depth understanding of free and open-source web application frameworks, e.g. Django, Laravel, Spring Boot etc;
+- Source code control, build process management, CI/CD, automated testing and other development process;
+- Knowledge of creating and architecting systems that are highly scalable and available;
+- Good understanding of leadership, coaching and mentoring principles;
+- Experience working on high-traffic and large-scale web products is a plus;
+- Experience with Agile Methodologies such as Kanban, Scrum and XP;
+- Understanding of good product, design and UX principles;
+- Experience in analysis, design, coding and implementation of next-generation web applications;
+Benefits
+- A fast paced, high performing team
+- Multicultural environment with over 50 different nationalities
+- Comprehensive Health Insurance
+- Rewards & Recognitions
+- Learning & Development
+Dubizzle Labs is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+#dubizzleLabs

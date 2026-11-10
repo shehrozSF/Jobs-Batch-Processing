@@ -1,0 +1,31 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=fc0f67f4e99369c3
+title: Python Developer
+company: StradIT
+location: Dallas, TX
+scraped_at: 2026-09-04T05:31:09+00:00
+query: python developer
+---
+o Design, develop, test, and maintain scalable Python applications and services.
+o Build and support RESTful APIs and integrations with internal and external systems.
+o Collaborate with product owners, business analysts, architects, and developers to understand requirements and deliver high-quality solutions.
+o Participate in the design and implementation of data pipelines, automation frameworks, and integration solutions.
+o Support AI/ML initiatives by developing data processing components and integrating machine learning services into business applications.
+o Troubleshoot production and non-production issues, perform root cause analysis, and implement sustainable fixes.
+o Participate in code reviews and ensure adherence to coding standards, security standards, and best practices.
+o Contribute to CI/CD pipelines, automated testing, and DevOps practices to improve software quality and deployment efficiency.
+o Create and maintain technical documentation, design artifacts, and operational procedures.
+o Support application monitoring, performance tuning, and reliability improvements.
+o Actively participate in Agile ceremonies, including sprint planning, daily stand-ups, retrospectives, and backlog refinement sessions.
+Requirements
+o Bachelor's degree in Computer Science, Information Technology, Engineering, or related discipline.
+o 4–6 years of hands-on software development experience with Python.
+o Strong knowledge of Python libraries, frameworks, and development best practices.
+o Experience designing and consuming REST APIs and integrating with third-party platforms.
+o Experience working with relational and/or NoSQL databases.
+o Knowledge of software design patterns, object-oriented programming, and scalable application architecture.
+o Experience with source control systems such as Git and collaborative development workflows.
+o Strong debugging, troubleshooting, and problem-solving skills.
+o Experience working in Agile/Scrum environments.
+o Excellent verbal and written communication skills.
+o Demonstrated ability to work effectively in a team-oriented, collaborative environment.

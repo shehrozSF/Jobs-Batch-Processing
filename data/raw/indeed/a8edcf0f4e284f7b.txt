@@ -1,0 +1,45 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=a8edcf0f4e284f7b
+title: Python Developer
+company: AIApply
+location: Prague, OK
+scraped_at: 2026-09-04T05:30:54+00:00
+query: python developer
+---
+We are looking for a Backend Developer with strong experience in Python to help us build and scale the core systems behind aiapply.co. You will work on the backend of a high impact web application used by thousands of job seekers, building reliable APIs, improving performance, and shaping the architecture as the product grows.
+Responsibilities
+ATS integrations and browser automation - Building and maintaining automated application flows for 15+ ATS platforms. Using Playwright to handle form submissions, file uploads, reCAPTCHA challenges, and human like interactions with a focus on reliability.
+Job matching and queue management - Developing LLM based job matching using embeddings and prompt engineering, leveraging Meilisearch for fast job search and filtering, and building queue logic to manage job states, retries, and application attempts.
+FastAPI services and database work - Creating REST APIs for users, job queues, notifications, and credits. Designing MySQL schemas, writing optimized queries, and integrating Stripe for payments and subscriptions.
+LLM prompt engineering - Designing and optimizing prompts for job matching, cover letter generation, and other AI-powered features; fine-tuning LLM interactions to improve accuracy and performance
+Core platform systems and reliability - Designing and maintaining the backend systems that keep the platform running at scale. This includes performance optimization, debugging, background job processing, search and job discovery, LLM driven workflows, and cloud based resume storage. You will own reliability, data flow, and long term system quality across critical components.
+Skills
+-
+Python
+-
+Playwright
+-
+FastAPI
+-
+MySQL
+-
+Browser automation & bot detection
+-
+LLM prompt engineering & embeddings
+Benefits
+-
+Work at a fast growing technology company based in the UK with a global user base
+-
+Office in Bratislava and Prague
+-
+Stable environment as a profitable company with a real product and sustainable growth
+-
+Strong professional growth driven by technical challenges, autonomy, and real ownership
+-
+Small, high performing team with no corporate bureaucracy or unnecessary processes
+-
+Direct communication with the team and founders with fast decision making
+-
+Regular team meetups several times a year in England, Slovakia, or other European cities
+-
+Opportunity to influence the technical direction of the product and bring your own ideas to life

@@ -1,0 +1,40 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=a80654465f93f95d
+title: Senior Python Developer
+company: Nitka Technologies
+location: Remote
+scraped_at: 2026-09-04T04:07:22+00:00
+query: python developer
+---
+Nitka Technologies develops software for customers in the US and Europe and brings together about 300 professionals from Eastern Europe, North and South America, Armenia, Georgia and Kazakhstan.
+We are looking for an experienced Python Developer to work at a long-term online education project, offering great flexibility in technology and approaches, and a friendly and positive team atmosphere.
+We offer 100% remote, full-time work with a flexible schedule
+Requirements:
+-
+5+ years of Python development experience
+-
+Familiarity with Python web frameworks: Django, Flask, or FastAPI
+-
+Extensive experience with relational databases, especially PostgreSQL
+-
+Proven experience designing, building, and operating high‑load systems and processing large volumes of data
+-
+Hands‑on experience with AWS or other cloud platforms
+-
+Confident working in Linux environments and writing shell scripts for automation and ops tasks
+-
+Strong spoken English (Intermediate or higher)
+-
+Nice-to-have еxperience with ClickHouse, Elasticsearch, GraphQL APIs
+Working conditions:
+-
+Remote work
+-
+Full-time (8 hours/day)
+-
+Flexible schedule
+-
+Attractive USD compensation
+-
+Paid vacation, holidays
+WLrXWx53bl

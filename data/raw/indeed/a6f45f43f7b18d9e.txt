@@ -1,0 +1,36 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=a6f45f43f7b18d9e
+title: Python with ADB Developer
+company: Capgemini Sogeti
+location: Hyderabad
+scraped_at: 2026-09-04T05:34:05+00:00
+query: python developer
+---
+At Capgemini Invent, we believe difference drives change. As inventive transformation consultants, we blend our strategic, creative and scientific capabilities, collaborating closely with clients to deliver cutting-edge solutions. Join us to drive transformation tailored to our client's challenges of today and tomorrow. Informed and validated by science and data. Superpowered by creativity and design. All underpinned by technology created with purpose.
+Your Profile
+As a Python Developer with Databricks, you will be responsible for developing and maintaining scalable data pipelines, managing cloud environments on Azure, and ensuring smooth integration with APIs. The ideal candidate will be proficient in Python, Databricks (PySpark), and Azure DevOps, with a strong understanding of cloud services, DevOps practices, and API testing.
+-
+- The candidate should be able to design, develop, and maintain scalable data pipelines using Python and Databricks (PySpark), applying advanced Python concepts to process and manipulate large datasets.
+-
+- They must have experience in API ingestion and automation, particularly working with JSON data and using Postman for API testing to support integrated and efficient data workflows.
+-
+- The role requires hands‑on expertise with Azure Portal for managing cloud environments, as well as building distributed data processing applications using Databricks and PySpark.
+-
+- The candidate should be proficient in DevOps and Agile/Scrum methodologies, contributing to CI/CD practices while collaborating closely with cross‑functional teams to deliver solutions aligned with business and technical goals.
+Your Role
+-
+- The candidate should have strong proficiency in Python along with experience using data processing libraries such as Pandas and NumPy.
+-
+- They must have hands‑on experience with Databricks (PySpark) for large‑scale data processing and analysis.
+-
+- The role requires experience using the Azure Portal to manage cloud environments and expertise in handling APIs, particularly for JSON‑based data ingestion and integration.
+-
+- The candidate should be familiar with DevOps practices, experienced in Agile/Scrum environments, and proficient in using Postman for API testing and automation.
+What you'll love about working here
+-
+- We recognize the significance of flexible work arrangements to provide support. Be it remote work, or flexible work hours, you will get an environment to maintain healthy work life balance.
+-
+- At the heart of our mission is your career growth. Our array of career growth programs and diverse professions are crafted to support you in exploring a world of opportunities.
+-
+- Equip yourself with valuable certifications in the latest technologies such as Generative AI.
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.

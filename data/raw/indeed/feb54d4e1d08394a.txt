@@ -1,0 +1,41 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=feb54d4e1d08394a
+title: Senior Fullstack Python Developer
+company: Bit and Bytes LLC
+location: Lahore
+scraped_at: 2026-09-04T05:34:04+00:00
+query: python developer
+---
+Role: Senior Full Stack Python Developer
+Experience: 3–5 Years
+Employment Type: Full-Time
+Location: DHA Rahber
+Job Description:
+Bit and Bytes LLC is looking for a Senior Full Stack Python Developer (3–5 years) with strong experience in backend, frontend, API development, and AI/ML integration. The ideal candidate should be comfortable building scalable web applications and integrating AI powered features, APIs and automation into modern products.
+Responsibilities:
+- Develop and integrate AI-powered features and solutions into web applications.
+- Work with AI/ML APIs, LLMs, and third-party AI services to build intelligent product features.
+- Develop backend services and APIs using Python and frameworks such as Django, DRF, or FastAPI.
+- Build responsive frontend applications using modern frontend technologies.
+- Collaborate with product and engineering teams to identify opportunities for AI-driven automation and optimization.
+- Optimize AI integrations for performance, scalability, reliability, and cost efficiency. Requirements:
+- Strong proficiency in Python with 3–5 years of professional development experience.
+- Hands-on experience with AI/ML integrations, LLMs, or AI-powered applications.
+- Experience working with AI APIs and third-party AI services.
+- Strong frontend and backend development skills.
+- Experience with REST APIs, databases, Git, and scalable application development.
+- Good understanding of software architecture and modern development practices. What we Offer:
+Competitive Salary
+Fuel Allowance
+Gym Allowance
+Annual Leaves
+Leaves Encashment (Annual Leaves)
+Regular Leaves (Sick/Casual)
+Annual & Team Dinners
+Application Question(s):
+- What front-end technologies you have worked on?
+- What AI features you have implemented and worked on?
+- What is you current salary?
+- What is your expected salary?
+- Can you commute to DHA Rahber? Experience:
+- Python: 4 years (Preferred) Work Location: In person

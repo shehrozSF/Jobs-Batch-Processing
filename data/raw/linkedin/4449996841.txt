@@ -1,0 +1,49 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4449996841
+title: Agentic AI Engineer
+company: Lumovy Technology Solutions
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:58:51+00:00
+query: python developer
+---
+About Lumovy Technology Solutions, LLC
+At Lumovy Technology Solutions, we are experiencing rapid growth across the U.S.A, Canada, India, Pakistan, and UAE and are proud to be a Microsoft Solutions Partner. We are committed to providing technological solutions that help organizations thrive in a fast-changing digital landscape. Our vision is to become a leader in digital transformation for our clients, leveraging the power of the Microsoft digital ecosystem to drive innovation and growth. Visit us at www.lumovytechnology.com
+About The Role
+We build enterprise AI agentic solutions that integrate with the business systems teams already use. An agent holds a real conversation with a business user, gathers live context from those systems, reasons over it, recommends a course of action, and — only on explicit human approval — writes changes back to the system of record. For example, an agent can take a user from a plain-language request to a validated, policy-checked action — a draft transaction or record ready for a person to approve — without leaving the flow of a chat.
+We build these on a shared platform: a code-first agent runtime, a reusable intelligence layer, and a governed integration surface into the connected systems. Every solution is model-driven, grounded in real system-of-record data, and gated by a human on anything that changes those systems. We are opinionated about three things: the human stays in control, every recommendation is explainable, and the system of record remains the single source of truth.
+You’ll be a core builder on the agent-and-platform side — the heart of what we ship. You’ll implement agent logic, the decision loop that drives it, and the governed tool layer that lets an agent read from and (carefully) write to connected systems. This is a backend/agent-heavy role: Python, LLM orchestration, tool/function calling, and enterprise integration — not a frontend role, though you’ll touch the chat conversation surface where the agent lives.
+You’ll work within patterns we’ve already established — a mid-level hire builds confidently inside a proven architecture and helps harden it — with a senior architect and PM setting direction. You’ll own features end-to-end: from a technical design handed to you, through implementation, tests and evals, to a reviewed, demoable agent.
+Essential Functions
+- Build agent behavior on a code-first agent runtime (Python) — implement the multi-stage decision loop (observe → detect → explain → predict → recommend → approve → execute → measure → learn) that turns a user’s ask into a grounded recommendation.
+- Design and write prompts that force grounding — the agent cites evidence from live data or declines; no fabricated numbers, entities, or policy.
+- Implement the human-approval gate on every write path, so nothing changes a connected system without an explicit, auditable confirmation from the user.
+- Build and extend the tool layer (built on the Model Context Protocol) that connects the agent to business systems and data sources — scoped read tools and gated write actions, all under delegated (on-behalf-of) identity, never a broad service principal, never direct database access.
+- Map real integration failure modes (throttling, locked or closed records, stalled workflows, auth expiry, validation rejects) to concrete retry/backoff and graceful-degrade behavior — not hand-waved error handling.
+- Write the test and eval suite: unit tests tied to acceptance criteria, plus agent evals for task success, grounding/faithfulness (hallucination), approval integrity, and cost/latency against defined SLOs.
+- Keep an eye on cost-per-conversation and latency — model-driven orchestration is powerful but not free; you’ll help tune tool consolidation, prompt caching, and model choice to stay inside budget without losing quality.
+- Contribute to the shared platform packages (intelligence layer, tool/integration client, observability) so new solutions reuse them instead of reinventing.
+- Participate in design and code review, and help keep the codebase clean as the portfolio grows from one solution to many.
+Required Qualifications
+- 3–5 years building production software in Python, with a track record of shipping and maintaining real systems — not just prototypes.
+- Hands-on experience building LLM-powered features or agents — you’ve worked with an LLM API, done tool/function calling or an agent loop, and written prompts that had to behave reliably in production. You understand why an agent hallucinates and how grounding and tool design reduce it.
+- Comfort with API and service integration — calling external systems, handling auth (OAuth/OIDC-style delegated flows), mapping messy upstream responses, and dealing with partial failure.
+- Solid testing instincts — you write tests as you build, and you can reason about how to test something non-deterministic like an agent.
+- You can read a technical design and turn it into working, reviewed code, asking sharp questions when something is ambiguous rather than guessing.
+- Clear written communication — our work runs on design docs, handoff notes, and code review; you can explain a decision and its trade-offs in writing.
+Nice to Have
+- Experience with the Model Context Protocol (MCP) or similar structured tool/connector standards.
+- Exposure to enterprise business systems — ERP or CRM platforms such as Dynamics 365, SAP, NetSuite, or Salesforce — and an appreciation for why writes to a system of record must be careful and auditable.
+- Cloud experience (Azure, AWS, or GCP) — hosted models, identity, secrets management, and monitoring.
+- Agent evaluation experience — building eval sets, golden conversations, measuring faithfulness/task-success, or LLM-as-judge pipelines.
+- Familiarity with chatbot or messaging-platform app development (e.g. Microsoft Teams, Slack).
+- Experience extending an enterprise platform (e.g. custom actions or APIs on an ERP/CRM).
+How We Work
+- Human in control. If an action changes a connected system, a person approves it. We design the gate first, not last.
+- Grounded or silent. The agent answers from real data with citations, or it says it can’t — it never invents.
+- The system of record is the source of truth. We don’t build a shadow copy of business data; we read and write through governed tools.
+- Explainable by default. Every recommendation carries its reasoning and evidence.
+- Concise, direct collaboration. We keep design docs and reviews tight, and we prefer a clear decision with rationale over a long meeting.
+What Success Look Like
+- First 90 days: you’re shipping agent features and integration tools into the codebase behind our review gate, with tests and evals attached, and you understand the decision loop end-to-end.
+- 6–12 months: you own a meaningful slice of a solution (or a shared platform capability), you’ve helped bring a second solution online reusing the platform, and your work has measurably improved grounding, cost, or reliability against our SLOs.
+We are an equal opportunity employer. All applicants will be considered for employment without attention to age, race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.

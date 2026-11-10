@@ -1,0 +1,34 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4462169232
+title: Forward Deployed Engineer - GenAI
+company: Systems Limited
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:13+00:00
+query: python developer
+---
+ABOUT:
+Builds generative AI applications — LLM-powered features, RAG pipelines, and enterprise search that ship to production, not just a demo.
+KEY RESPONSIBILITIES
+- Build GenAI applications — LLM-powered features, copilot/chat experiences, enterprise search
+- Design and implement RAG pipelines: chunking strategy, embedding selection, hybrid retrieval, re-ranking, GraphRAG where structured retrieval is needed
+- Fine-tune and adapt models (LoRA/QLoRA) when prompt engineering and RAG aren't sufficient
+- Engineer and version production prompts; build prompt/context management into the application layer
+- Integrate LLM APIs (OpenAI, Anthropic, Azure OpenAI) and open-source model endpoints with auth, rate-limiting, and cost controls
+- Instrument applications for evaluation — output logging, quality scoring, human-feedback loops
+- Optimize latency and token cost through caching, batching, and model routing strategies
+- Translate client business requirements into concrete GenAI feature specifications
+- Communicate technical tradeoffs (cost, latency, accuracy) to non-technical product stakeholders
+- Collaborate with the Agentic AI Architect and Data Scientists on shared components
+- Document architecture and prompt design decisions for handoff and maintainability
+REQUIREMENTS & SKILLS
+- 4–8 yrs software engineering, with 1–3 yrs hands-on GenAI/LLM application building
+- Strong Python; experience with LangChain, LlamaIndex, or equivalent orchestration frameworks
+- Vector databases and embedding strategies (Pinecone, Weaviate, pgvector), plus knowledge-graph/graph-database tooling (Neo4j) where relevant
+- Understands LLM failure modes (hallucination, context-window limits, cost blowup) and designs mitigations
+- Experience with model fine-tuning techniques (LoRA/QLoRA) and evaluation harnesses
+- Hands-on with enterprise GenAI/agentic platforms — Microsoft Azure AI Foundry, AWS Bedrock (incl. Strands Agents SDK), and Google Vertex AI; open-source frameworks (LangChain, LlamaIndex) a good-to-have where no platform is mandated
+- API design and integration experience, including auth, rate limiting, and streaming responses
+- Familiarity with prompt-versioning and LLMOps tooling (LangSmith, Weights & Biases, or similar)
+- Clear technical writing — documents a RAG architecture for a non-technical stakeholder
+- Comfortable working directly with client engineers during embedded delivery
+- Collaborative — works with architects, data scientists, and QA without needing everything pre-specified

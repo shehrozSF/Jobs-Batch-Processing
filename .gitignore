@@ -1,0 +1,25 @@
+# secrets
+.env
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# private notes (design docs, CV material)
+docs/
+
+# local databases (stale leftovers; the app uses Postgres)
+*.db
+*.sqlite
+*.sqlite3
+
+# logs, editors, OS
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

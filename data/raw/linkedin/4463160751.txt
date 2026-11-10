@@ -1,0 +1,33 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4463160751
+title: AI Engineer - Generative AI (Remote)
+company: Hire Feed
+location: Pakistan
+scraped_at: 2026-09-04T03:59:49+00:00
+query: python developer
+---
+- Role : AI Engineer - Generative AI (Remote)
+- Location : Remote (Work from Anywhere)
+- Job Type : Full-Time
+- Payout : Competitive, based on experience
+Role Overview:
+We are hiring for one of our clients, seeking a Senior LLM Engineer to work on a full-time basis. This hands-on engineering role focuses on designing, building, and deploying generative AI and LLM-based solutions. The position requires deep technical proficiency in Python and modern LLM frameworks, with contributions to roadmap development and cross-functional collaboration.
+Key Responsibilities:
+• Design and develop generative AI and LLM-based systems using tools such as LangChain and retrieval-augmented generation (RAG) pipelines
+• Implement prompt engineering techniques and agent-based frameworks to deliver intelligent, context-aware solutions
+• Collaborate with the engineering team to shape and drive the technical roadmap for LLM initiatives
+• Translate business needs into scalable, production-ready AI solutions
+• Contribute to architecture discussions, code reviews, and performance optimization
+Required Skills & Qualifications:
+• Proficient in Python and SQL for AI system development
+• Experience with LangChain and modern LLM frameworks
+• Deep understanding of LLM internals, including prompt tuning, embeddings, vector databases, and agent workflows
+• Background in machine learning or software engineering with system-level thinking
+• Experience working with cloud platforms such as AWS, Azure, or GCP
+• Ability to work independently while collaborating effectively across teams
+• Excellent communication and stakeholder management skills
+More About the Opportunity:
+This role offers a unique opportunity to work with a global leader in the technology industry, contributing to the development of advanced AI solutions. The position involves close collaboration with business SMEs and data teams to ensure alignment of AI models with real-world use cases.
+Equal Opportunity Employer:
+We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.
+Apply Now!

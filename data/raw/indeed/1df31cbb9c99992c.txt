@@ -1,0 +1,92 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=1df31cbb9c99992c
+title: Software Developer, Python and Data Applications
+company: Southeast Culvert Georgia
+location: Winder, GA 30680
+scraped_at: 2026-09-04T05:31:09+00:00
+query: python developer
+---
+Software Developer, Python and Data Applications
+SEC - Winder, GA 30680
+Overview
+Level: Early to Mid-Career
+Position Type: Full-time
+Education Level: 4 Year Degree or Equivalent Experience (bootcamp, on-the-job training, etc.)
+About Southeast Culvert
+Southeast Culvert Inc. operates on the biblical principle of being intentional about doing good. Our success is grounded in doing good for our customers, employees, suppliers, and the company itself by living out our core values.
+Southeast Culvert was founded in 1981 on the promise to provide a quality drainage product at a reasonable price, when and where it is needed. This remains the core principle of how we run the business. Today, Southeast Culvert is the largest single site capacity culvert plant in the United States. We offer stormwater solutions for every need, and we are active members of PPI, NCSPA, and ASCE. In 2025, Southeast Culvert was named a mid-sized Engineering Employer of the Month. We support our community through contributions to schools, fire departments, churches, and the Shriners Children's Hospitals. Our mission is to build lasting relationships that better serve our customers and our community.
+Role Title: Software Developer, Python and Data Applications
+Mission: Maintain, extend, and build the internal software, data, and reporting tools that solve problems, increase productivity, and deliver value to the people who use them. Work under senior technical direction to follow defined standards while growing toward full ownership of the systems you build.
+Roles and Objectives
+-
+Use approved AI coding tools, such as Claude Code, within company standards to move faster without sacrificing quality.
+-
+Maintain and enhance existing Python applications currently in production.
+-
+Build new tools and reports based on the project pipeline and requirements gathered directly from departments across the company.
+-
+Own the Power BI reporting estate, including scheduled refreshes, data models, and new report builds.
+-
+Work with the SQL Server reporting database, including scheduled agent jobs, to support reporting needs.
+-
+Support and maintain the desktop suite of estimating and pricing tools distributed as an installer.
+-
+Manage scheduled automations that connect systems across multiple environments.
+-
+Follow the shared way of working, including version control, separate environments, code review, and documentation.
+-
+Work closely with departments across the business, including estimating and the plant floor, to gather first-hand requirements rather than working from a ticket queue alone.
+-
+Maintain current documentation and a named backup of every system you own.
+-
+Participate in regular code evaluation sessions and plan reviews, building toward independent ownership of the coding standards over time.
+-
+Deliver a first fully supervised project through the complete pipeline within the first 90 days, then take ownership of the reporting estate.
+Competencies
+-
+Experience using an AI coding assistant on real work, including a specific example of catching it when it was confidently wrong.
+-
+Strong, hands-on Python skills applied to real business problems.
+-
+Ability to read and understand code you did not write and predict what it will do before running it.
+-
+Working knowledge of SQL, or a strong willingness to learn it quickly.
+-
+Ability to spot what will break, such as empty inputs or date boundary issues, before it causes problems in production.
+-
+Comfortable working inside defined standards, and willing to speak up directly when a standard does not fit the problem rather than quietly working around it.
+-
+Clear communicator who can explain technical work to non-technical coworkers.
+-
+Dependable follow-through. Does what they say, consistently, and documents the work so someone else can pick it up.
+-
+Sees a need, acknowledges it, then solves it. Does not sit on a broken report waiting to be asked.
+-
+Builds what the business needs, not what is interesting to build.
+-
+Asks questions until the requirement is understood, rather than guessing and reworking.
+-
+Performs consistently under pressure. When something breaks, moves toward the team rather than protecting themselves.
+-
+Willing to work on-site in Winder, GA. The role may move to a hybrid schedule once you can work independently against the standards.
+-
+Willing to sign a confidentiality agreement and a time-capped, limited non-compete (i.e., limited to not going to a direct competitor for one year) as a condition of employment.
+Advanced Software Developer Experience
+-
+Experience with Angular and TypeScript, or a willingness to learn them as the role grows into front-end ownership.
+-
+Exposure to cloud engineering on Azure, CI/CD pipelines, containerization, or advanced data modeling.
+-
+Prior experience owning a reporting estate or production software tools with minimal supervision.
+-
+4-year college degree in a relevant field, or equivalent hands-on experience.
+Work Structure and Development Cadence
+This role is supported and advised by senior technical guidance and includes the following structure:
+-
+Regular code evaluation sessions. Working through real code, covering boundary conditions, error paths, silent failures, resource lifecycle, concurrency assumptions, and the difference between a test that proves something and one that restates the code.
+-
+Code reviews. Systematic reviews, tapering deliberately as capability develops.
+-
+Plan reviews. Review approach before implementation and code is written.
+-
+Explanation gates. Ensures the developer can explain the code before merging new code.

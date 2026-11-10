@@ -1,0 +1,30 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4453889900
+title: AI Systems Engineer
+company: Plutus21
+location: Sindh, Pakistan
+scraped_at: 2026-09-04T03:59:44+00:00
+query: python developer
+---
+Job Summary
+Plutus21 is hiring a Senior AI Systems Engineer to architect the data and AI platform that powers our internal operations, client integrations, and quantitative-research tooling. You will own the design of scalable, well-governed data systems that ingest and process high volumes of financial and operational documents, and build the retrieval, agentic, and automation layers on top of them. This is an architecture-owning role that partners with engineering, operations, and the partner group.
+Key Responsibilties:
+- Architect and own the firm's data platform: warehousing, schema and data modeling, ETL/ELT pipelines, and data governance across internal and client workloads.
+- Design and build production RAG and agentic AI systems — vector storage, embeddings, retrieval pipelines, and multi-agent workflows — for document processing, extraction, classification, and validation against source records at scale.
+- Build scalable, high-concurrency backend services and orchestration for high-volume data processing.
+- Design and operate infrastructure across cloud (AWS and/or GCP) with Terraform/IaC, CI/CD, containerization, monitoring, and cost optimization.
+- Identify and replace manual, high-volume, error-prone workflows with reliable, well-documented automated systems, with appropriate controls, error handling, and human-in-the-loop review.
+- Implement authentication, authorization, data access controls, and security best practices for sensitive financial data.
+- Set technical direction, conduct code and design reviews, and mentor engineers.
+- Partner directly with stakeholders and the leadership group to scope problems and execute independently. Required Qualifications
+- 4+ years of software/data engineering, with demonstrated ownership of data architecture — data warehousing, schema/data modeling, ETL/ELT pipelines, and data governance. (BigQuery, dbt, Airflow, or equivalent.)
+- Proven experience designing production RAG / retrieval / agentic AI systems : vector databases, embeddings, LangChain/LangGraph or equivalent, and LLM APIs (OpenAI/Anthropic/others).
+- Strong backend engineering in Python (FastAPI/Django or equivalent) and high-volume, high-concurrency system design.
+- Multi-cloud experience (AWS and/or GCP) with Terraform/IaC , CI/CD, and containerization (Docker/Kubernetes).
+- Fluency across relational and non-relational databases and data-pipeline design.
+- Sound judgment on where automation is appropriate and where human review must remain; strong attention to detail; high integrity with sensitive/confidential data.
+- Ability to interpret a business problem, engage stakeholders, and lead delivery with minimal direction. Nice to have
+- MS in Machine Learning, Computer Science, or a related field; strong CS fundamentals (system design, data structures).
+- Experience in financial services, investment management, or multi-entity/data-governance-heavy environments.
+- Open-source contributions, published work, or a portfolio of production AI/data systems.
+- Experience across distributed/international teams.

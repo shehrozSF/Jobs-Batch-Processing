@@ -1,0 +1,40 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=527f0d34bb7ecbf6
+title: Python Developer
+company: CEDENT
+location: Dallas, TX
+scraped_at: 2026-09-04T05:31:09+00:00
+query: python developer
+---
+MUST HAVE: Python developer, C# ,Informatica, SQL, Snowflake, python They will be evaluating a given product, a SAS product or it can be an AWS product, and they are evaluating to see if the product is good enough to have the organization use it. They support the architect team in evaluating products on the application side.
+Role Description
+The team is hiring a Lead Developer and you will be responsible for working with Architecture, Data Governance and Business Intelligence teams to support Fidelity’s or vendor Data Management tools and evaluate new technologies. You will possess a passion for continuous learning and upskilling in new technologies and a flair for exploring.
+Required Qualifications
+- ETL developer with Informatica.
+- Web API Microservices and console applications using .Net Framework.
+- CI/CD pipeline on AWS utilizing AWS Code Commit, AWS Code Build, AWS Code
+Deploy and AWS Code Pipeline.
+- Jira Rest API integration and used Next JS
+- Strong SQL, PostgreSQL – Snowflake and SQL Server will be a huge plus
+- Strong Analysis skills
+- Working knowledge of Unix OS /Shell scripting
+- Basic Python knowledge is required
+- Good working knowledge of Control-M/Automation tools.
+- Some experience in DevOps
+- Production Support will be required – one week every 3 months
+- Excellent interpersonal and communication skills
+- Excellent collaboration skills to work with multiple teams in the organization.
+- Worked on NetSuite ERP system for setting up data transfer and invoice generation using SOAP Web Services.
+Additional Experience
+- Experience with Metadata management solutions / Data lineage is a plus
+- Learn New technologies and evaluate new products, participating in Proof of Concepts (POCs) is a plus
+- Vendor management is a plus
+- Some QA/Testing experience is a plus
+- Some Kubernetes / Docker experience is a plus
+- Strong communication and presentation skills
+Compensation
+Hourly Rate Range - $40-$60/ hr
+Benefits Offered:
+[Health, Dental, Vision Insurance]
+Deadline: Applications accepted until 10/30/2025 at 11:59 PM CST
+We are an Equal Pay Employer. All employment decisions, including compensation, benefits, hiring, training, and promotions, are made based on merit, qualifications, and business needs. We do not discriminate on the basis of gender, race, ethnicity, age, disability, sexual orientation, or any other protected characteristic. We are committed to ensuring equal pay for equal work and regularly review our compensation practices to promote fairness, equity, and transparency across our organization.

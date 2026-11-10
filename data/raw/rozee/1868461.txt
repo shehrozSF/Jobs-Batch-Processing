@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/tobistudio-senior-staff-software-engineer-backend-cloud-architecture-jobs-1868461
+title: Senior / Staff Software Engineer – Backend & Cloud Architecture
+company: Tobistudio
+location: Pakistan
+scraped_at: 2026-09-04T05:02:00+00:00
+query: software engineer
+---
+
+Tobistudio is seeking a highly skilled Senior / Staff Software Engineer specializing in Backend and Cloud Architecture to join a dynamic team remotely. This position demands over 8 years of advanced software engineering experience, focusing on the design and development of scalable backend systems and cloud infrastructure architectures. The successful candidate plays a pivotal role in shaping production systems by making sound architectural decisions, ensuring system reliability, and optimizing performance across distributed environments. This role emphasizes technical ownership and leadership, requiring collaboration with multiple engineering teams and mentorship of peers.
+
+Leading a team of 15 engineers, the candidate will steer backend development processes, provide technical guidance, and uphold best practices in system design and infrastructure management. Competency in multiple programming languages such as Go, Python, C#/.NET, and TypeScript/Node.js, combined with proficiency in cloud services like AWS and container orchestration tools like Kubernetes, enables the engineer to build resilient microservices-based architectures. Experience with tools including Kafka, PostgreSQL, Docker, Terraform, REST/gRPC APIs, and CI/CD pipelines ensures the delivery of high-quality software solutions. The candidate's ability to troubleshoot complex issues, review designs and code comprehensively, and communicate effectively in English strengthens team success in a remote working setting.
+
+

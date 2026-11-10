@@ -1,0 +1,95 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=e00f6e97d09d32b7
+title: QA Automation Engineer
+company: Vaco LLC
+location: Birmingham, AL 35209
+scraped_at: 2026-09-04T05:31:06+00:00
+query: python developer
+---
+QA Automation Engineer (Tosca)
+Contract-to-Hire | Hybrid | Birmingham AL
+We are seeking a skilled QA Automation Engineer with strong Tosca automation experience to join a growing enterprise technology team. This is a contract-to-hire opportunity with an expected conversion timeline of approximately six months.
+In this role, you will support enterprise-wide quality assurance initiatives, automation testing efforts, and test strategy development while helping drive the organization's automation maturity.
+Responsibilities
+-
+Design, develop, and execute automated test solutions using Tosca
+-
+Create and maintain automated test scripts for enterprise applications
+-
+Develop comprehensive test plans, test cases, and testing strategies
+-
+Collaborate with development, QA, and business teams to ensure software quality
+-
+Support functional, regression, integration, and end-to-end testing efforts
+-
+Identify, document, and track software defects
+-
+Participate in automation framework enhancements and continuous improvement initiatives
+-
+Contribute to overall QA best practices and testing standards
+Required Qualifications
+-
+Strong hands-on experience with Tosca Automation
+-
+Experience with Selenium
+-
+Java development experience
+-
+Background in both manual QA testing and automation testing
+-
+Ability to clearly articulate automation design, testing methodologies, and QA best practices
+-
+Strong communication and collaboration skills
+Preferred Qualifications
+-
+Tosca Certifications (AS1, AS2, and/or DI)
+-
+Experience working in large enterprise environments
+-
+Bachelor's degree (required for permanent conversion)
+Location & Schedule
+-
+Hybrid work schedule
+-
+Onsite: Tuesday, Wednesday, Thursday
+-
+Remote: Monday and Friday
+-
+Local candidates preferred
+-
+Relocation candidates will be considered if able to relocate within 4–6 weeks
+-
+Initial onsite presence is important to support knowledge transfer and training
+What We're Looking For
+-
+Well-spoken and professional
+-
+Direct and concise communicators
+-
+Strong technically with the ability to explain their experience clearly
+-
+Hands-on automation engineers who can demonstrate deep Tosca expertise
+If you have a passion for test automation and are looking for an opportunity to make an impact within a highly visible enterprise environment, we'd love to connect.
+Determining compensation for this role (and others) at Vaco/Highspring depends upon a wide array of factors including but not limited to the individual’s skill sets, experience and training, licensure and certifications, office location and other geographic considerations, as well as other business and organizational needs. With that said, as required by local law in geographies that require salary range disclosure, Vaco/Highspring notes the salary range for the role is noted in this job posting. The individual may also be eligible for discretionary bonuses, and can participate in medical, dental, and vision benefits as well as the company’s 401(k) retirement plan. Additional disclaimer: Unless otherwise noted in the job description, the position Vaco/Highspring is filing for is occupied. Please note, however, that Vaco/Highspring is regularly asked to provide talent to other organizations. By submitting to this position, you are agreeing to be included in our talent pool for future hiring for similarly qualified positions. Submissions to this position are subject to the use of AI to perform preliminary candidate screenings, focused on ensuring minimum job requirements noted in the position are satisfied. Further assessment of candidates beyond this initial phase within Vaco/Highspring will be otherwise assessed by recruiters and hiring managers. Vaco/Highspring does not have knowledge of the tools used by its clients in making final hiring decisions and cannot opine on their use of AI products.
+EEO Notice
+Vaco by Highspring is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race (including but not limited to traits historically associated with race such as hair texture and hair style), color, sex (includes pregnancy or related conditions), religion or creed, national origin, citizenship, age, disability, status as a veteran, union membership, ethnicity, gender, gender identity, gender expression, sexual orientation, marital status, political affiliation, or any other protected characteristics as required by federal, state or local law.
+Vaco by Highspring and its parents, affiliates, and subsidiaries are committed to the full inclusion of all qualified individuals. As part of this commitment, Vaco by Highspring and its parents, affiliates, and subsidiaries will ensure that persons with disabilities are provided reasonable accommodations. If reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact HR@vaco.com.
+Vaco by Highspring also wants all applicants to know their rights that workplace discrimination is illegal.
+Representation Notice
+By submitting to this position, you agree that you will be giving Vaco by Highspring the exclusive right to present your as a candidate for the foregoing employment opportunity. You further agree that you have represented information about yourself accurately and have not affirmatively misrepresented your qualifications. You also agree to maintain as confidential, to the fullest extent permitted by law, any information you learn from Vaco by Highspring about the position and you will limit disclosure of information about the position only to the extent necessary to perform any obligations in furtherance of your application. In exchange, Vaco by Highspring agrees to exercise reasonable efforts to represent you through all solicitation, job screening and resume dispersal.
+For residents of Ontario, Canada: Based on Highspring’s discussions with its Client, Highspring’s understanding is that this position for employment is a current vacancy (either through Highspring as a contractor or with the client directly).
+Privacy Notice
+Vaco by Highspring and its parents, affiliates, and subsidiaries (“we,” “our,” or “Vaco by Highspring”) respects your privacy and are committed to providing transparent notice of our policies.
+- California residents may access Vaco by Highspring HR Notice at Collection for California Applicants and Employees here.
+- Virginia residents may access our state specific policies here.
+- Residents of all other states may access our policies here.
+- Canadian residents may access our policies in English here and in French here.
+- Residents of countries governed by GDPR may access our policies here.
+Additionally, submissions to this position are subject to the use of AI to perform preliminary candidate screenings, focused on ensuring minimum job requirements noted in the position are satisfied. More details about Vaco by Highspring’s use of AI can be found here (https://www.highspring.com/ai-use-notices/). Further assessment of candidates beyond this initial phase will be conducted by recruiters and hiring managers. Vaco by Highspring does not know and cannot opine on if its client’s use of AI products in hiring.
+Pay Transparency Notice
+Determining compensation for this role (and others) at Vaco by Highspring depends upon a wide array of factors including but not limited to:
+- the individual’s skill sets, experience and training;
+- licensure and certification requirements;
+- office location and other geographic considerations;
+- other business and organizational needs.
+With that said, as required by local law, Vaco by Highspring believes that the following salary range referenced above reasonably estimates the base compensation for an individual hired into this position in geographies that require salary range disclosure. The individual may also be eligible for discretionary bonuses.

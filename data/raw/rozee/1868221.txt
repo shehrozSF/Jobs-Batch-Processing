@@ -1,0 +1,12 @@
+source: rozee
+url: https://www.rozee.pk/codesolution-full-stack-developer-jobs-1868221
+title: Full Stack Developer
+company: Codesolution
+location: Pakistan
+scraped_at: 2026-09-04T04:55:54+00:00
+query: python developer
+---
+
+Codesolution seeks a skilled Full Stack Developer with a minimum of one year of experience to join a dynamic team. This role requires proficiency in both frontend and backend development technologies and the ability to design and integrate APIs for seamless user experience. The ideal candidate will have hands-on expertise with React.js/Next.js for frontend frameworks, Node.js and Express.js for backend services, and a solid understanding of database management using PostgreSQL, MySQL, or MongoDB. Experience in responsive web development and version control with Git and GitHub is essential. This position involves collaborating closely with a team of five developers, requiring strong communication and teamwork skills to contribute effectively to production-level web application projects.
+
+

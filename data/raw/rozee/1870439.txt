@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/spark-solar-pvt-limited-quality-control-supervisor-electrical-engineer-jobs-1870439
+title: Quality Control Supervisor (Electrical Engineer)
+company: Spark Solar Pvt Limited
+location: Islamabad, Pakistan
+scraped_at: 2026-09-04T05:02:17+00:00
+query: software engineer
+---
+
+Spark Solar Pvt Limited is seeking a dedicated Quality Control Supervisor with a background in Electrical Engineering to oversee the testing and quality assurance processes involved in solar inverter technology. This role requires leading and supervising a skilled team of 20 professionals responsible for the testing, commissioning, configuration, troubleshooting, and updating of solar inverters to ensure optimal performance and reliability. The ideal candidate possesses a Bachelor’s degree in Electrical Engineering or a related field, and has a strong understanding of electrical systems, solar photovoltaic technology, and quality assurance methodologies specific to the solar energy sector.
+
+This position demands hands-on expertise in inverter testing, firmware and software updates, system configuration, fault detection, and resolution procedures. It also requires excellent team leadership and coordination skills to manage daily testing operations effectively while promoting a safe and accurate working environment. The candidate will act as a key liaison between technical and project teams, ensuring communication is clear and testing milestones are met promptly. Strong problem-solving abilities and reporting skills are essential to maintain high standards of quality control and drive continuous improvement within the team and processes.
+
+

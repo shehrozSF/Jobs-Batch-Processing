@@ -1,0 +1,12 @@
+source: rozee
+url: https://www.rozee.pk/tcl-electronics-pakistan-pvt-ltd-retail-data-analyst-jobs-1867812
+title: Retail / Data Analyst
+company: TCL Electronics Pakistan (Pvt.) Ltd.
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T05:14:33+00:00
+query: data analyst
+---
+
+In this role, the Retail / Data Analyst will manage comprehensive reporting disciplines, including compiling and analyzing sellout data, maintaining year-to-date sales data, and preparing key performance indicator reports for sales teams and corporate sectors. The analyst supports marketing activities by generating retail performance reports and inventory updates, assisting with invoicing and vendor payments, and maintaining detailed records and documentation. They will also handle data uploading and system maintenance tasks within the retail system environment. A critical responsibility involves coordinating the retrieval and management of monthly GFK reports and assisting management with various data-related assignments. The position demands meticulous attention to detail, strong data handling capabilities, and the ability to maintain organized and up-to-date data systems.
+
+

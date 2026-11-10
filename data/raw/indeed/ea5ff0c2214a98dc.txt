@@ -1,0 +1,13 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=ea5ff0c2214a98dc
+title: Python/Pyspark developer
+company: Anblicks
+location: Hyderabad
+scraped_at: 2026-09-04T05:34:04+00:00
+query: python developer
+---
+Exp :
+Lead Data Engineers : Python+Cloud+SQL with exposure to Snowflake (8 Year+ Exp)
+Sr. Data Engineer : Python+Cloud+SQL with exposure to Snowflake (6 Years + Exp)
+Data Engineers : Python+Cloud+SQL with exposure to Snowflake Mid Level ( 3-6 Years Exp)
+Liquid error: undefined method `public_fields' for nil:NilClass

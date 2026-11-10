@@ -1,0 +1,44 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=af5ea81ff357fb8c
+title: Full Stack Developer
+company: Neteffects
+location: St. Louis, MO
+scraped_at: 2026-09-04T05:31:02+00:00
+query: python developer
+---
+Duration: 12 months with the potential to go beyond
+W2 only, no C2C
+GC Holders welcome
+Location Status: Chesterfield; Remote to start but then onsite when campus reopens(hybrid)
+They must be local candidates to be onsite 2 days per week.
+Senior Full Stack Developer (node.js)
+You'll work across the full stack using a range of web technologies including node.js, typescript, AWS producing clean, scalable code, integrating backend data and designing functional, user-friendly UIs and web layouts using HTML and CSS and React js.
+In this Role You'll be working on the R&D department of Bayer helping automate business workflows.
+Requirements:
+- BS/MS degree in Computer Science, similar technical field of study or equivalent practical experience.
+- 10+ years of experience as a node.js full stack developer
+- Experience designing and implementing large, scalable web applications and api's
+- Strong Experience in AWS.
+- Experience in Lambdas, S3, SQS, SNS, Kafka, Step Functions in AWS.
+- Experience with front-end web technologies (e.g., HTML5, CSS3, JavaScript, ReactJs)
+- Unit & Integration testing
+- Experience building highly scalable Rest APIs hosted on could environment
+- Strong Experience designing databases in PostgreSQL, Oracle
+- Strong use of source control like GIT and understanding of GIT workflow
+- Cloud-first development experience with automated, continuous delivery deployments Duration: 12 months with the potential to go beyond
+Location Status: Chesterfield; Remote to start but then onsite when campus reopens(hybrid)
+Top must have skills:
+- A minimum of 10 years of experience
+- node.js Development
+- AWS
+- React or Angular All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+Job Type: Contract
+Pay: $70.00 - $80.00 per hour
+Benefits:
+- 401(k)
+- 401(k) matching
+- Dental insurance
+- Health insurance
+- Paid time off Compensation Package:
+- Hourly pay Schedule:
+- 8 hour shift Work Location: In person

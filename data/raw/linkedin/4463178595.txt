@@ -1,0 +1,31 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4463178595
+title: Python Engineer (Remote)
+company: Hired
+location: Pakistan
+scraped_at: 2026-09-04T03:58:34+00:00
+query: python developer
+---
+- Role: Python Engineer (Remote)
+- Location: Remote (Work from Anywhere)
+- Job Type: Full-Time
+- Payout: Competitive, based on experience
+Role Overview:
+We are hiring for one of our clients, seeking a Senior Python Developer to assist a foundational LLM company in enhancing their large language models. The goal is to provide high-quality proprietary data for fine-tuning and benchmarking model performance.
+Key Responsibilities:
+• Design, develop, and maintain efficient, high-quality Python code to train and optimize AI models.
+• Conduct evaluations to benchmark model performance and analyze results for continuous improvement.
+• Evaluate and rank AI model responses to user queries across diverse domains, ensuring alignment with predefined criteria.
+• Lead efforts in supervised fine-tuning, including creating and maintaining high-quality, task-specific datasets.
+• Collaborate with researchers and annotators to execute reinforcement learning with human feedback and refine reward models.
+Required Skills & Qualifications:
+• Proficiency in Python and related frameworks/libraries for AI/ML tasks.
+• Experience with supervised fine-tuning (SFT) and reinforcement learning with human feedback (RLHF).
+• Strong understanding of evaluation strategies and benchmarking processes for AI models.
+• Ability to design and implement Python code for data generation and model optimization.
+• Familiarity with AI model response evaluation and ranking methodologies.
+More About the Opportunity:
+This role offers a unique opportunity to work with a global leader in artificial intelligence, contributing to the advancement of large language models. Candidates will collaborate with top researchers and engineers in the field.
+Equal Opportunity Employer:
+We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.
+Apply Now!

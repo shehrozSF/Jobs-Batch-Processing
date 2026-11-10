@@ -1,0 +1,34 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4245302811
+title: Full Stack Python Developer
+company: Tiksom Limited
+location: Johar Town, Punjab, Pakistan
+scraped_at: 2026-09-04T03:58:17+00:00
+query: python developer
+---
+What We Are Looking For
+- Strong experience with Python programming language
+- Familiarity with popular Python frameworks and libraries such as Django, Flask, and FastAPI
+- Experience with software development best practices such as version control, testing, and code reviews
+- Strong understanding of object-oriented programming and software design principles
+- Excellent problem-solving and analytical skills
+- Strong communication and teamwork skills
+- Experience with PostgreSQL, MySQL, or MongoDB
+- Solid understanding of web development concepts, including RESTful APIs and database management
+- Experience with version control systems, such as Git
+In a Typical Work Day You Would
+- Develop high-quality software applications using Python
+- Collaborate with cross-functional teams to design, develop, and implement software solutions
+- Solve complex problems using advanced algorithms and data structures
+- Participate in code reviews and ensure code quality
+- Maintain and improve existing software applications
+- Stay up-to-date with the latest trends and technologies in software development
+About The Position
+We are currently seeking an experienced Python Developer to join our team. As a Python Developer, you will be responsible for developing high-quality software applications, implementing complex algorithms, and solving complex problems. The ideal candidate will have a strong background in software development, a passion for coding, and excellent communication skills.
+Perks At Tiksom
+- Provident Fund
+- Annual Paid Leaves
+- Marriage Bonus
+- Interest-Free Loan
+- Paid Certifications & Training
+Apply Now

@@ -1,0 +1,56 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=1e02ed65867429c4
+title: Python Developer- Dallas, TX
+company: Photon
+location: Dallas, TX
+scraped_at: 2026-09-04T05:31:09+00:00
+query: python developer
+---
+We are looking for a versatile Python Developer to join our engineering team. You will be responsible for designing, developing, and maintaining high-quality backend applications and scalable server-side logic. The ideal candidate is a problem-solver who can integrate user-facing elements with server-side logic, optimize applications for maximum speed and scalability, and implement robust security and data protection solutions.
+Key Responsibilities
+-
+- Application Development: Build and maintain scalable, efficient, and reliable Python code for web applications and backend services.
+-
+- API Integration: Design and implement low-latency, high-availability RESTful APIs and integrate with third-party services and internal databases.
+-
+- Performance Optimization: Identify and fix performance bottlenecks and bugs to ensure the stability and responsiveness of the application.
+-
+- Database Management: Design and optimize database schemas (SQL/NoSQL) and manage data storage solutions.
+-
+- Automation: Create scripts to automate repetitive tasks and improve internal development workflows and CI/CD processes.
+-
+- Security: Implement security and data protection features, including authentication, authorization, and data encryption.
+-
+- Collaboration: Work closely with front-end developers, product managers, and QA teams to align technical solutions with business requirements.
+Required Technical Skills
+-
+- Core Language: Expert-level proficiency in Python and its core principles.
+-
+- Web Frameworks: Strong hands-on experience with at least one popular Python framework such as Django, Flask, or FastAPI .
+-
+- ORM Knowledge: Familiarity with Object-Relational Mapping (ORM) libraries like SQLAlchemy or Django ORM.
+-
+- Databases: Proficiency in working with relational databases (PostgreSQL, MySQL) and NoSQL databases (MongoDB, Redis).
+-
+- Testing: Experience writing unit tests and integration tests using frameworks like PyTest or Unittest.
+-
+- Frontend Basics: Fundamental understanding of front-end technologies (HTML5, CSS3, JavaScript) to better coordinate with UI/UX teams.
+-
+- Version Control: Proficiency with Git and collaborative workflows (GitHub/Bitbucket).
+Preferred Qualifications
+-
+- Cloud Services: Experience deploying applications on cloud platforms like AWS , Azure, or GCP.
+-
+- Containers: Knowledge of Docker and Kubernetes for containerization and orchestration.
+-
+- Asynchronous Programming: Understanding of multi-process architecture and threading, or experience with Celery/RabbitMQ.
+-
+- Data Science Tools: Familiarity with data analysis libraries such as Pandas, NumPy, or Scikit-learn is a plus.
+-
+- Documentation: Strong ability to document technical processes and architectural decisions.
+Minimum Compensation: USD 36,000
+Maximum Compensation: USD 126,000
+Compensation is based on actual experience and qualifications of the candidate. The above is a reasonable and a good faith estimate for the role.
+Medical, vision, and dental benefits, 401k retirement plan, variable pay/incentives, paid time off, and paid holidays are available for full time employees.
+This position is not available for independent contractors
+No applications will be considered if received more than 120 days after the date of this post

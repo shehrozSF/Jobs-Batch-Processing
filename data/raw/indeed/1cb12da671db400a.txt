@@ -1,0 +1,42 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=1cb12da671db400a
+title: Senior Backend Developer (Python)
+company: Snskies Private Limited
+location: Islamabad
+scraped_at: 2026-09-04T05:34:01+00:00
+query: python developer
+---
+SNSKIES Pvt. Limited is looking for a highly skilled and experienced Senior Backend Developer (Python) to join our technical team. The ideal candidate will have strong experience in developing scalable backend applications, REST APIs, and secure authentication systems.
+Key Responsibilities
+- Design, develop, test, and maintain scalable backend applications using Python.
+- Develop high-performance REST APIs using FastAPI and asyncio .
+- Design and optimize PostgreSQL databases and queries.
+- Develop secure authentication and authorization mechanisms using OAuth, JWT , and other API security practices.
+- Containerize applications using Docker and deploy/manage services using Kubernetes .
+- Integrate backend services with internal and external APIs.
+- Troubleshoot performance, scalability, and reliability issues.
+- Collaborate with software engineers, DevOps, cybersecurity, and other technical teams.
+- Participate in code reviews and follow best practices for clean, maintainable, and secure code. Required Qualifications & Skills
+- 5+ years of professional experience in backend development.
+- Strong proficiency in Python .
+- Hands-on experience with FastAPI and asyncio .
+- Strong understanding of REST API development .
+- Experience with PostgreSQL .
+- Practical experience with Docker and Kubernetes .
+- Strong knowledge of authentication, authorization, OAuth, JWT, and API security .
+- Good understanding of software development lifecycle and coding best practices.
+- Strong problem-solving and analytical skills. Preferred / Good to Have
+- Experience working with API Gateways or Proxies .
+- Experience with AWS or Microsoft Azure .
+- Knowledge or experience with Go (Golang) .
+- Experience working on security-focused or enterprise-grade applications. What We Offer
+- Professional and collaborative work environment.
+- Opportunity to work on enterprise-level technology and cybersecurity solutions.
+- Career growth and learning opportunities.
+- Competitive compensation package based on experience and skills. Job Type: Full-time
+Location: Islamabad, Pakistan
+Work Arrangement: onsite
+How to Apply:
+Interested candidates are encouraged to apply with their updated CV.
+Application Question(s):
+- Have you built or worked on an API gateway, proxy, or authentication system? Work Location: In person

@@ -1,0 +1,37 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=096b39493f8fadd1
+title: Python Developer
+company: Xcorebit
+location: Lahore
+scraped_at: 2026-09-04T05:32:37+00:00
+query: python developer
+---
+Apply here:
+https://forms.gle/9i7jX84dv9TZNzsT7
+Job Description:
+We are looking for a motivated and skilled Python Developer to join our growing team. The ideal candidate should have hands-on experience in developing backend applications using FastAPI and/or Django , building web scrapers, and collaborating on modern web applications. Exposure to frontend technologies such as React.js and Next.js will be a strong advantage.
+Job Responsibilities:
+- Design, develop, and maintain scalable backend applications using Python , FastAPI , and Django .
+- Build and integrate RESTful APIs for web and mobile applications.
+- Develop and maintain web scrapers to extract, process, and manage data from various online sources.
+- Handle data collection, transformation, and storage processes efficiently.
+- Collaborate with frontend developers to integrate backend services with React.js and Next.js applications.
+- Optimize application performance, reliability, and scalability.
+- Debug, troubleshoot, and resolve application issues in a timely manner.
+- Write clean, maintainable, and well-documented code following industry best practices.
+- Participate in code reviews and contribute to improving development standards.
+- Stay updated with emerging technologies and best practices in Python development and web scraping. Job Requirements:
+- BS in CS, SE, IT or Data Science.
+- 1–2 years of professional experience in Python Development .
+- Hands-on experience with Fast API and/or Django .
+- Experience developing and consuming RESTful APIs.
+- Strong understanding of Python programming concepts and backend architecture.
+- Experience building and maintaining web scrapers and data extraction solutions.
+- Familiarity with scraping tools/frameworks such as BeautifulSoup, Scrapy, Selenium, or Playwright.
+- Basic understanding of databases such as PostgreSQL, MySQL, or MongoDB .
+- Familiarity with version control systems such as Git .
+- Understanding of frontend-backend integration.
+- Experience with cloud platforms or deployment processes.
+- Knowledge of Docker and containerized applications. Job Type: Full-time
+Pay: Rs100,000.00 - Rs140,000.00 per month
+Work Location: In person

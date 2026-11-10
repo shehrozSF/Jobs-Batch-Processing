@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/smartdry-technologies-full-stack-developer-islamabad-sargodha-bhalwal-jobs-1869729
+title: Full Stack Developer
+company: Smartdry Technologies
+location: Pakistan
+scraped_at: 2026-09-04T04:56:46+00:00
+query: python developer
+---
+
+Smartdry Technologies is seeking a skilled Full Stack Developer with a minimum of five years of experience to join their team. This role is office-based, located in Islamabad or Bhalwal, Sargodha, and requires the candidate to work from one of these locations. The ideal developer possesses strong problem-solving abilities, proficient written and spoken English, and hands-on experience in building reliable and scalable applications. This position offers an exciting opportunity to work with a dynamic technology company focused on delivering innovative software solutions.
+
+The Full Stack Developer will handle both front-end and back-end development tasks, ensuring efficient and effective application performance. The developer leverages expertise in various technologies, including React, Node.js, and SQL, as well as cloud services like AWS. Collaboration with design teams and adherence to UI/UX fundamentals are essential to deliver engaging and user-friendly applications. This role demands a detail-oriented and proactive approach to testing and debugging to maintain high-quality software standards. Candidates should provide a CV along with links to GitHub, portfolios, or previous work examples. Remote work options are not available for this role.
+
+

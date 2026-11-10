@@ -1,0 +1,43 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4461652114
+title: Senior Python Developer
+company: HR Ways - Hiring Tech Talent
+location: Faisalabad, Punjab, Pakistan
+scraped_at: 2026-09-04T03:58:23+00:00
+query: python developer
+---
+About the Company:
+Our Client is full-service technology company, delivering scalable, user-centric digital solutions through automation and emerging technologies to help businesses achieve sustainable growth globally.
+Role Overview:
+We are looking for a Senior Python Developer to lead the design, development, and delivery of production-grade platforms. This role requires a strong mix of hands-on engineering, technical leadership, architecture, and DevOps. The ideal candidate should be able to manage developers, make sound technical decisions, and help deliver scalable, reliable systems used in production.
+Key Responsibilities
+- Design and deliver scalable, secure, and maintainable software platforms
+- Lead developers and drive technical execution across projects
+- Work hands-on in at least 2 tech stacks such as Python, JavaScript/TypeScript, or C#
+- Build backend systems, APIs, integrations, and automation workflows
+- Manage CI/CD pipelines, deployment processes, and engineering automation
+- Support cloud infrastructure, system reliability, monitoring, and troubleshooting
+- Collaborate with stakeholders to turn business needs into practical technical solutions
+Required Experience
+- - Proven experience delivering production-used platforms
+- - Experience managing developers or leading engineering teams
+- - Strong hands-on experience in at least 2 of these: Python, JavaScript/TypeScript, C#
+- - Solid DevOps experience with CI/CD, deployment automation, and workflows
+- - Experience with cloud platforms such as AWS, Azure, or GCP
+- - Good understanding of system design, scalability, and software engineering best practices
+Preferred
+- Experience with Docker, PostgreSQL, FastAPI, Node.js, or .NET
+- Experience with APIs, async processing, integrations, and automation systems
+- Strong ownership, communication, and problem-solving skills
+Other Details:
+Experience: 4 + years
+Location: People's Colony No 1, Faisalabad (Onsite)
+Working days & timings: Monday to Friday (11 am to 8 pm)
+Benefits:
+- Gym
+- PF
+- Lunch Facility
+- Medical Insurance for employee
+- Children's Education Support
+- OPD allowance for employee and family.
+- Co. Sponsored Annual trips

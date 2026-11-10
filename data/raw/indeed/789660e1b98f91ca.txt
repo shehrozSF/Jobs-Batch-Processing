@@ -1,0 +1,112 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=789660e1b98f91ca
+title: Web Developer
+company: DKKD Staffing
+location: Santa Clarita, CA 91355
+scraped_at: 2026-09-04T05:31:02+00:00
+query: python developer
+---
+Overview
+REQUIRES:
+- US Citizen or Permanent Resident Green Card.
+- MUST currently live within 45 minutes from work location 91355.
+- This job requires 100% onsite daily – no exceptions
+FOCUS IS ON:
+- 5+ years web design/development creation/modification experience
+- Formal code design/development lifecycle experience
+- Thorough experience with design using ASP.NET, .NET Core, Visual Studio, Git, HTML, CSS, JavaScript, C# programming and other software environments
+- Sound knowledge of Windows IIS, React, Angular, .NET Framework, AJAX, or other web technologies
+- Experience with commerce applications, nopCommerce and BigCommerce
+- Database development experience with Microsoft SQL Server
+- Familiarity with CI/CD with GitHub Actions
+- Experience with Docker & Linux
+- Proficiency in Microsoft 365 (Excel, Outlook, PowerPoint, Word, SharePoint, Teams)
+- Code design and associated documentation
+- Creating effective web design to maximize search engine prioritization
+PLEASE PROVIDE ANSWERS TO Part 1&2 QUESTIONS BELOW
+NOTE: You can follow up with Di@DKKDstaffing.com and DawnWilson@DKKDstaffing.com
+- NO REMOTE – 100% ONSITE – NO exceptions
+- CLIENT WON’T ACCEPT RELOCATION
+TITLE: Web Developer
+Location: Valencia (Santa Clarita), CA, 91355
+- NOTE: Must already live locally or have family or friends who live within 30 minutes of Valencia, Ca
+REPORTS TO: IT Development Manager
+SALARY RANGE: $120K-$145K
+Client Locations: California, Colorado, Illinois, Ohio, Texas and Washington.
+WHAT WE ARE LOOKING FOR:
+DKKD Staffing is looking for looking for a Web Developer in our Valencia, CA corporate office. The Web Developer is responsible for the design, development, and maintenance of the organization’s websites, Intranet web pages, and other web-based systems, including web pages currently hosted by web service providers and web pages internally hosted by the organization.
+JOB RESPONSIBILITIES:
+- Consults with management and members of the IT development team to gather information about desired web UI, intent, functions, features, data requirements, input/output requirements, internal and external checks and controls, operating system, web browser environments and interfaces to other systems
+- Determine web-based solutions for external and internal sites
+- Creates test transactions and runs tests to find errors
+- Confirm web pages meet specifications
+- Analyzes code to find causes of errors
+- Assist staff with web-based product compatibility issues
+- Writes and maintains documentation specifications of changes to web pages and programs
+- Responsible for assuring high level of Internet search optimization
+- Accountable to always provide quality results in their work
+- Completes special projects as assigned, supporting team and organizational objectives and continuous improvement initiatives
+QUALIFICATIONS:
+- 5+ years web design/development creation/modification experience
+- Formal code design/development lifecycle experience
+- Thorough experience with design using ASP.NET, .NET Core, Visual Studio, Git, HTML, CSS, JavaScript, C# programming and other software environments
+- Sound knowledge of Windows IIS, React, Angular, .NET Framework, AJAX, or other web technologies
+- Experience with commerce applications, nopCommerce and BigCommerce
+- Database development experience with Microsoft SQL Server
+- Familiarity with CI/CD with GitHub Actions
+- Preferred experience with Docker & Linux
+- Proficiency in Microsoft 365 (Excel, Outlook, PowerPoint, Word, SharePoint, Teams)
+- Creative thinker with strong design and production skills in digital mediums
+- Must be extremely organized and thorough with code design and associated documentation
+- Experience creating effective web design to maximize search engine prioritization
+- Excellent written and verbal communication skills
+- Strong organizational skills with the ability to manage multiple priorities and respond to changing business needs
+PART 1 APPLICATION QUESTIONS (Please answer all questions for fastest process)
+- Legal Name & Preferred Name or Nickname:
+- Best Contact Info (Cell & email):
+- Your Linked In:
+- Why looking for a new job:
+- Availability for interviews and a new job:
+- Where do you live (City, State, Zip):
+- Desired geographical work location:
+- Are you open to 100% onsite, hybrid and/or remote:
+- Are you open to relocation if required:
+- Are you open to travel if needed and have an active passport if needed:
+- Are you authorized to work in US (Please indicate US, Permanent/ Legal Resident Green Card or Other):
+- Hourly/Salary Expectations: (We need a range) $
+- Sizes of staff managed and their titles (include # of direct reports):
+- Budgetary Responsibility: $
+- Education/Certs/Degrees (also indicate which certs are active):
+- Who Referred You/ How Did You Hear About Job/ DKKD Staffing:
+PART 2 Job Specific Q&A
+Please supply answers next to each question in the comments section.
+Provide examples if helpful.
+Please provide total years of experience, last used and any specific elaboration that might help you get an interview
+- 5+ years web design/development creation/modification experience and last year used:
+- What was your exact role on the team:
+- Formal code design/development lifecycle experience (how many years or experience and how recent):
+- How many years of experience do you have with design using ASP.NET, .NET Core, Visual Studio, Git, HTML, CSS, JavaScript, C# programming and other software environments and most recent year:
+- How many years of experience do you have with Windows IIS, React, Angular, .NET Framework, AJAX, and other web technologies, and how recent:
+- How many years of experience with commerce applications, nopCommerce and BigCommerce and most recent year:
+- How many years of experience Database development experience with Microsoft SQL Server and most recent year:
+- How many years of experience with CI/CD with GitHub Actions and most recent year:
+- How many years of experience with Docker & Linux and most recent year:
+- Proficiency in Microsoft 365 (Excel, Outlook, PowerPoint, Word, SharePoint, Teams) and most recent year:
+- How many years of experience code design and associated documentation and most recent year:
+- How many years of experience creating effective web design to maximize search engine prioritization and most recent year:
+SALARY & BENEFITS:
+-
+- $120-145k annually plus bonus opportunity
+- Medical, Dental, and Vision
+- 401(k) with Company Match
+- Sick and Vacation Days
+- Flexible Spending Account
+- Life & Disability Insurance
+- Education Assistance
+- Employee Referral Program
+Join us on Linked In: www.LinkedIn.com/in/DianeKrehbiel
+IND123
+#IND123
+Tagged as: Information Systems/ Technology, Programmers & Developers, Web Developer
+About DKKD Staffing
+Building teams from CIO, CTO, CISO to Helpdesk, including HR across US for over 25 years.

@@ -1,0 +1,19 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=2623de4fb84ad28b
+title: Full stack developer
+company: Remote job
+location: Islamabad
+scraped_at: 2026-09-04T05:32:40+00:00
+query: python developer
+---
+We’re also looking for hands-on experience with AI and business automation , including:
+- Building and deploying LLM-powered applications and AI agents
+- AI-driven workflow automation using n8n, Make, Zapier, or custom Python
+- Integrating OpenAI, Anthropic, Google Gemini, or other LLM APIs
+- Building RAG systems, intelligent data extraction, classification, summarization, and enrichment pipelines
+- Working with APIs, webhooks, CRMs, databases, and third-party integrations
+- Experience with prompt engineering, structured outputs, tool/function calling, and AI evaluation
+- Automating end-to-end business processes and eliminating repetitive manual work
+- Experience with voice AI / conversational AI and platforms such as Twilio is a plus
+- Ability to monitor, debug, optimize, and maintain AI-powered automations in production Pay: Rs150,000.00 - Rs200,000.00 per month
+Work Location: Remote

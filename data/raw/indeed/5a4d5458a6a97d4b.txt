@@ -1,0 +1,43 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=5a4d5458a6a97d4b
+title: Senior Backend Developer node or python
+company: DevShine
+location: Faisalabad Peoples Colony No.2
+scraped_at: 2026-09-04T05:32:40+00:00
+query: python developer
+---
+Location: Kohinoor City, Faisalabad
+Job Type: Full-Time
+Experience Required: Minimum 2 years
+Company: DevShine – Product Design & Development partner
+About DevShine
+At DevShine, we’re a passionate team of developers, designers, and engineers building high-quality, scalable software solutions for global clients. Based in Kohinoor City, Faisalabad, we combine creativity with technical excellence to deliver impactful web and mobile products. We specialize in custom web platforms, SaaS, DevOps, and UI/UX design.
+Role Overview
+We’re looking for a skilled and experienced Backend Developer to join our growing team. The ideal candidate should have solid hands-on experience with Node.js OR Python frameworks , and be comfortable working with SQL and NoSQL databases . Experience with web scraping is a big plus.
+Responsibilities
+- Design, develop, and maintain scalable backend systems and APIs
+- Work with modern frameworks including Express , NestJS , Django , and FastAPI
+- Design and optimize database schemas using PostgreSQL , MySQL , MongoDB , etc.
+- Implement and maintain data scraping pipelines
+- Collaborate with front-end developers, DevOps, and QA teams
+- Write clean, maintainable, and well-documented code
+- Participate in code reviews, testing, and deployment processes Requirements
+- 2+ years of experience in backend development
+- Proficiency in Node.js and at least one Python framework (Django or FastAPI preferred)
+- Strong understanding of both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases
+- Experience with web scraping tools/libraries (e.g., BeautifulSoup, Scrapy, Puppeteer)
+- Familiarity with RESTful APIs, authentication methods, and middleware
+- Good understanding of system design, performance tuning, and security best practices
+- Ability to work independently and manage tasks in a fast-paced environment
+- Generative ai integration experience Nice to Have
+- Familiarity with containerization (Docker)
+- Basic DevOps or AWS experience
+- Understanding of message queues (RabbitMQ, Redis, etc.) Job Type: Full-time
+Pay: Rs50,000.00 - Rs100,000.00 per month
+Ability to commute/relocate:
+- Faisalabad Peoples Colony No.2: Reliably commute or planning to relocate before starting work (Required) Application Question(s):
+- Expected Salary?
+- Current Salary?
+- Do u have experience with micro services ?
+- Do you have experience with creating data scrapers ? Experience:
+- production: 2 years (Required) Work Location: In person

@@ -1,0 +1,129 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=d60d1f21a4e182da
+title: Python Developer
+company: Leisnoi Professional Services, LLC
+location: Remote
+scraped_at: 2026-09-04T04:07:22+00:00
+query: python developer
+---
+Education
+N/A
+Location
+Remote (Virtual) - US - US (Primary)
+Career Level
+Experienced (Non-Manager)
+Category
+Information Technology
+Salary Grade
+Date Needed By
+Job Type
+Full-time
+Travel
+Job Description
+JOB DESCRIPTION
+Position Title: Python Developer
+Reports to: IT Project Manager of Enterprise Solutions Line of Business
+Subsidiary: Leisnoi Professional Services, LLC
+Location: Remote
+Job Status: Regular Full -Time
+SUMMARY:
+The U.S. Census Bureau’s Demographic Systems Division (DSD) is seeking experienced Python Developers to support modernization, data engineering, and application development efforts across multiple project areas. In this role, you will help transition mission‑critical demographic processing systems toward open‑source technologies, cloud‑ready architectures, and scalable, high‑performance data workflows.
+You will work with a modern technical stack that may include Python (Pandas, NumPy), GitLab CI/CD, Docker, Linux, PostgreSQL, and AWS services such as EC2, S3, and Lambda. These projects involve refactoring legacy SAS codebases, developing efficient data pipelines, improving computational performance, and building well‑structured, maintainable software used in high‑visibility federal data programs.
+Ideal candidates enjoy solving complex technical problems, optimizing large‑scale data workflows, collaborating in GitLab‑based development environments, and contributing to an engineering culture focused on code quality, scalability, and continuous improvement.
+Essential Functions, Responsibilities & Duties may include, but are not limited to:
+ESSENTIAL DUTIES & RESPONSIBILITIES:
+-
+- Develop, enhance, and maintain Python-based applications and data processing pipelines.
+-
+- Translate functional and technical requirements into high‑quality, maintainable code.
+-
+- Modernize legacy logic and systems through Python implementations designed for scalability and long‑term sustainability.
+-
+- Build and optimize ETL and transformation workflows using diverse formats such as Parquet, JSON, and SQL‑based datasets.
+-
+- Profile, debug, and tune performance for large‑scale workloads.
+-
+- Apply best practices for version control, documentation, testing, and CI/CD automation.
+-
+- Collaborate with engineers, analysts, and business stakeholders to support current and emerging project needs.
+-
+- Participate in design reviews, peer code reviews, and knowledge‑sharing activities.
+ESSENTIAL TECHNOLOGIES AND DELIVERABLES:
+The Python Developer will complete tasks using, but not limited to, technologies such as:
+-
+- Develop and optimize Python-based data workflows and applications.
+-
+- Translate business and technical requirements into efficient, well-determined code.
+-
+- Modernize and refactor legacy logic into scalable Python solutions.
+-
+- Work with structured and unstructured data using Parquet, JSON, and SQL databases.
+-
+- Implement scalable processing strategies, including parallelization and cloud native execution patterns.
+-
+- Conduct code reviews, testing, troubleshooting, and performance optimization.
+-
+- Collaborate across teams to promote best practices and high engineering standards.
+Required Deliverables:
+-
+- Finalized Python modules and supporting code packages.
+-
+- Routine status reports and progress updates.
+-
+- Technical documentation, presentations, or training materials as needed.
+-
+- All developed code maintained in version control (GitLab).
+Work Experience, Knowledge, Skills & Abilities:
+-
+- Must successfully pass the Census Bureau’s security/background investigation.
+-
+- Strong proficiency in Python for backend development, automation, or data processing.
+-
+- Demonstrated ability to profile, refactor, and optimize code for performance at scale.
+-
+- Experience with relational databases, especially PostgreSQL, and writing advanced SQL queries.
+-
+- Hands‑on experience with ETL pipelines or large‑scale dataset processing.
+-
+- Familiarity with Linux environments and modern development workflows (Git, CI/CD, automated testing).
+-
+- Ability to write clean, maintainable, and well‑documented code.
+-
+- Ability to perform standard Linux end‑user tasks.
+-
+- Experience with data validation in statistical or analytical processing environments.
+-
+- Cloud computing experience (AWS preferred).
+MINIMUN QUALIFICATIONS & SKILLS:
+-
+- Successful completion of the Census Bureau background investigation.
+-
+- Strong Python development expertise, including data manipulation, automation, or backend system development.
+-
+- Experience improving performance in production Python environments.
+-
+- Knowledge of ETL development and large‑scale data processing.
+-
+- Familiarity with Linux, Git, CI/CD pipelines, and unit testing.
+-
+- Clear, maintainable, and well‑documented coding style.
+-
+- Knowledge of cloud computing environments (AWS) is a plus.
+DESIRED QUALIFICATIONS & SKILLS:
+-
+- Statistical Analysis System (SAS) programming experience is a plus.
+-
+- 5+ years of experience in backend development, application development, or database‑driven systems.
+-
+- Bachelor's degree in computer science or related field is preferred.
+PHYSICAL DEMANDS:
+Position consists of sitting for long periods of time, using hands/ fingers, handling, reaching with hands and arms, speaking or translating. Periods of walking, standing, bending, kneeling, stooping, crouching, and lifting equipment weighing up to 30 pounds. Moderate to extended periods of office work with heavy periods of computer usage. May be assigned occasional to moderate periods of analytical tasks requiring extensive reasoning abilities. It is Leisnoi’s business philosophy and practice to provide reasonable accommodations, according to applicable state and federal laws, to all qualified individuals with physical or mental disabilities.
+WORK ENVIRONMENT:
+Work is 100% remote; however, the company reserves the right to require onsite work.
+Candidates can email their resumes to HR@Leisnoi.com and must also apply online at Leisnoi.com.
+Leisnoi is an Equal Opportunity Employer
+Leisnoi considers all applicants for employment without regard to race, color, sex, national origin, religion, age, physical or mental disability, family responsibility, marital status, sexual orientation, political affiliation, veteran's status or any other legal protected status. Pursuant to The Alaska Native Claims Settlement Act 43 U.S.C. Sec. 1601 et seq., and federal contractual requirements, Leisnoi Corporation, may legally grant certain preference in employment opportunities to Leisnoi Shareholders and their Descendants. EOE/AA/M/F/D/V
+# of Hires Needed
+1
+Exemption Type
+Exempt

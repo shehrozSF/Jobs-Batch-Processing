@@ -1,0 +1,43 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4427949088
+title: Senior Software Engineer
+company: PakWheels.com
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:10+00:00
+query: python developer
+---
+As an AI Developer at PakWheels.com, you will play a key role in designing, building, and integrating AI-powered solutions that improve engineering productivity, product intelligence, automation, and user experience across the platform.
+You will work closely with product, engineering, data, and business teams to identify high-impact AI opportunities and convert them into scalable, secure, and production-ready systems. Your expertise in backend engineering, AI tools, large language models, automation, cloud platforms, and scalable system design will help shape the future of PakWheels.com.
+Responsibilities
+- Design, develop, and integrate AI-powered features across PakWheels products and internal platforms.
+- Build intelligent automation workflows using LLMs, AI agents, prompt engineering, RAG, and AI APIs.
+- Collaborate with cross-functional teams to identify business problems where AI can improve speed, quality, automation, or user experience.
+- Develop scalable backend services and APIs to support AI-driven applications and internal tools.
+- Integrate AI solutions with existing systems, databases, workflows, and cloud infrastructure.
+- Build reliable data pipelines and retrieval mechanisms for AI use cases.
+- Ensure AI-generated outputs are secure, accurate, explainable, and aligned with business requirements.
+- Implement monitoring, logging, evaluation, and feedback mechanisms for AI systems.
+- Actively work with AWS cloud infrastructure and AI-related cloud services.
+- Write clean, secure, maintainable, and extensible code.
+- Research, evaluate, and adopt new AI tools, frameworks, and best practices.
+- Mentor developers on AI-assisted development, coding agents, automation, and practical AI usage in engineering workflows.
+Qualifications
+- B.S. or M.S. in Computer Science, Software Engineering, Artificial Intelligence, Data Science, or a related field.
+- 4+ years of software development experience.
+- Strong backend development experience in Ruby on Rails, Python, Go, Java, or similar languages.
+- Practical experience with AI/LLM tools, AI APIs, prompt engineering, RAG, embeddings, vector databases, or AI agents.
+- Strong understanding of APIs, distributed systems, databases, data models, and scalable backend architecture.
+- Experience with relational databases such as MySQL or PostgreSQL.
+- Experience with cloud infrastructure such as AWS, GCP, Azure, or private cloud environments.
+- Ability to convert business requirements into reliable technical solutions.
+- Strong problem-solving skills and a passion for building practical, production system.
+- An affinity for creating software that is extensible, performant, secure, and easy to maintain.
+Preferred Skills
+- Experience with OpenAI, Anthropic, Gemini, LangChain, LlamaIndex, or similar AI/LLM platforms.
+- Experience with vector databases such as Pinecone, Weaviate, FAISS, Milvus, or pgvector.
+- Experience building AI agents, workflow automation, chatbots, recommendation systems, or intelligent search systems.
+- Familiarity with model evaluation, hallucination reduction, guardrails, and AI safety practices.
+- Experience using AI coding tools such as Codex, Cursor, Claude Code, GitHub Copilot, or JetBrains AI.
+- Understanding of MLOps, model monitoring, data privacy, and secure AI implementation.
+- Prior experience in marketplaces, automotive platforms, classifieds, search, recommendations, or large-scale consumer products.
+At PakWheels, we take pride in fostering a dynamic and innovative workplace culture that values collaboration and growth. Since 2003, PakWheels.com has transformed the automobile industry in Pakistan, helping millions of Pakistanis buy, sell, and maintain their vehicles. By joining PakWheels, you'll be part of a mission to revolutionize the automobile landscape. Our environment thrives on creativity, teamwork, and forward-thinking ideas.

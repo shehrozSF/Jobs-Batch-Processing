@@ -1,0 +1,36 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=8fd9ac4a294a5d62
+title: AI Developer (Python)
+company: Softech Business Services Limited
+location: Islamabad
+scraped_at: 2026-09-04T05:32:37+00:00
+query: python developer
+---
+About the Role
+We are looking for a skilled AI Developer with strong expertise in Python to join our growing technology team. The ideal candidate will have hands-on experience in building AI-driven solutions, developing machine learning models, and integrating intelligent features into real-world applications.
+Experience with Laravel PHP will be considered a strong advantage, especially for integrating AI modules with existing web systems.
+Key Responsibilities
+AI & Machine Learning Development
+- Design, develop, and deploy AI/ML models for classification, prediction, automation, and data processing.
+- Work with NLP, computer vision, or generative AI frameworks depending on project requirements.
+- Optimize models for performance, scalability, and accuracy. Data Handling & Processing
+- Prepare datasets, clean data, and perform exploratory data analysis.
+- Implement data pipelines and automate preprocessing workflows. Integration & Backend Work
+- Build APIs and integrate AI features into web or mobile applications.
+- Collaborate with Laravel developers to ensure seamless backend integration.
+- Work with RESTful APIs, microservices, and cloud-based architectures. Testing & Optimization
+- Perform model validation, A/B testing, and performance optimization.
+- Troubleshoot production issues related to AI components. Collaboration & Documentation
+- Work closely with the product, development, and QA teams.
+- Maintain clear code documentation and technical reports. RequirementsTechnical Skills
+- Strong expertise in Python (NumPy, Pandas, TensorFlow, PyTorch, scikit-learn, etc.)
+- Experience in AI/ML development, model training, and evaluation.
+- Solid understanding of data structures, algorithms, and OOP concepts.
+- Experience creating and integrating APIs.
+- Laravel PHP experience (minimum basic to intermediate) is highly preferred. Experience
+- Minimum 3 years of professional experience as an AI Developer, Python Developer, or related field.
+- Previous work with AI-driven applications or production-grade ML models. Soft Skills
+- Strong problem-solving and analytical thinking.
+- Ability to work independently and in teams.
+- Excellent communication and documentation skills. Pay: From Rs100,000.00 per month
+Work Location: In person

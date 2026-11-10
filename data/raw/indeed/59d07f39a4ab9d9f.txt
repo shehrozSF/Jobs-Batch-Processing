@@ -1,0 +1,10 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=59d07f39a4ab9d9f
+title: Python Developer
+company: Robotics Technologies
+location: Jersey City, NJ
+scraped_at: 2026-09-04T05:30:54+00:00
+query: python developer
+---
+Equal Opportunity Employer
+ROBOTICS TECHNOLOGIES LLC is an equal opportunity employer inclusive of female, minority, disability and veterans, (M/F/D/V). Hiring, promotion, transfer, compensation, benefits, discipline, termination and all other employment decisions are made without regard to race, color, religion, sex, sexual orientation, gender identity, age, disability, national origin, citizenship/immigration status, veteran status or any other protected status. ROBOTICS TECHNOLOGIES LLC will not make any posting or employment decision that does not comply with applicable laws relating to labor and employment, equal opportunity, employment eligibility requirements or related matters. Nor will ROBOTICS TECHNOLOGIES LLC require in a posting or otherwise U.S. citizenship or lawful permanent residency in the U.S. as a condition of employment except as necessary to comply with law, regulation, executive order, or federal, state, or local government contract

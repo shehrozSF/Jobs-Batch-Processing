@@ -1,0 +1,26 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=dd14d994ee01f0dd
+title: Web Developer (Internee)
+company: Amiz(Private) Limited
+location: Karachi
+scraped_at: 2026-09-04T05:34:04+00:00
+query: python developer
+---
+Collaborate with our development team to design, develop, and maintain web applications.
+- Write clean, efficient, and well-documented code.
+- Assist in troubleshooting and debugging web application issues.
+- Participate in code reviews and contribute to improving development processes.
+- Stay up-to-date with emerging web development trends and technologies. Develop, test, and deploy responsive web applications using HTML, CSS, and JavaScript.Work closely with UI/UX designers to implement user-friendly interfaces. Requirements:
+- Pursuing a degree in Computer Science, Web Development, or a related field.
+- Proficiency in HTML, CSS, and JavaScript.
+- Familiarity with front-end frameworks such as React, Angular, Basic knowledge of back-end technologies like Node.js, Python,Strong problem-solving and debugging skills.
+- Ability to work independently and in a team environment.
+- Excellent communication and interpersonal skills. What You'll Gain:
+- Hands-on experience in developing web applications in a real-world setting.
+- Exposure to cutting-edge technologies and industry best practices.
+- Mentorship and guidance from experienced developers.
+- Opportunity to contribute to meaningful projects that impact industries. Check our Linkedin Page: https://www.linkedin.com/company/amizltd/
+Job Types: Full-time, Internship
+Contract length: 3 months
+Pay: Rs15,000.00 per month
+Work Location: In person

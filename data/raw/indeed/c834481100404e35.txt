@@ -1,0 +1,42 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=c834481100404e35
+title: Software Engineer (Entry-level)
+company: Educative
+location: Lahore
+scraped_at: 2026-09-04T05:34:04+00:00
+query: python developer
+---
+Educative is connecting millions of developers around the world. We are a hyper growth platform for interactive text-based courses on many aspects of computer science, cloud computing, and advanced technologies.
+Our learners rely on us to create engaging courses so they can get better at their job, find a better job or just experience the joy of learning.
+You are an innovative and passionate developer focused on delivering a cutting-edge learning platform. You like to own deliverables end-to-end and have a meaningful influence on the final product. You are a builder. You like to work with fellow engineers and cross functional teams to share knowledge, imagine, design, develop, test, and launch features that wow our learners, authors and customers.
+In this role, you will:
+Write high quality, maintainable, reusable code following solid principles.
+Independently clarify technical requirements, develop coding estimates and apply a broad range of design approaches to bring innovative solutions.
+Review code of other team members and provide constructive direction.
+Constantly strive to raise the bar on engineering excellence.
+Drive continuous improvement of software quality, customer experience and maintainability of products/features.
+Mentor and lead developers by cultivating curiosity and deep technical understanding.
+Nice to have:
+We use the following technologies. Although these are not required for you to apply, you will need to be a fast learner and have a growth mindset.
+Experience with Google App Engine and Google Cloud.
+Experience in shipping production quality products using Python and Node.js.
+Experience in React/Redux/React Native.
+TypeScript, Next.js, and Tailwind CSS.
+Experience with Docker and Kubernetes.
+Working experience with low-level systems and knowledge of Linux networking stack.
+Experience with AWS.
+About you:
+- BS, MS or Ph.D. in computer science.
+- Solid understanding of data structures and algorithms.
+- Good knowledge of multithreading.
+- Proficiency in at least one programming language, e.g., Python, JavaScript, Typescript, etc.
+- Working knowledge of Git.
+- Ability to work independently.
+- Self-driven with a can-do attitude.
+- Collaborative team player with excellent communication skills.
+- Laser-focused on delivering high-quality features.
+About Educative:
+Educative is a hands-on learning platform for software developers of all levels. We were founded by industry veterans who understand first-hand the problems developers face staying on the cutting edge of modern technology. Educative's interactive, text-based courses are built to teach you the skills employers are looking for. We provide tools like in-browser coding environments and interview-focused assessments to help you practice as you learn.
+Educative is connecting millions of developers worldwide to become a developer, grow their skills, or prepare for an interview.
+Our learners rely on us to create engaging courses to get better at their job, find a better job, or experience the joy of learning. With the courses that you create, learners can maximize their success.
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.

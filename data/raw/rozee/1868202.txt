@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/lonestar-technologies-software-engineer-java-fresh-lahore-jobs-1868202
+title: Software Engineer - Java (Fresh)
+company: Lonestar Technologies
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T05:00:26+00:00
+query: software engineer
+---
+
+Join Lonestar Technologies as a Software Engineer specializing in Java development. In this role, you will write clean, scalable, and efficient code using the Java programming language while applying up-to-date knowledge of Java terminology, concepts, and best practices. You will be responsible for developing technical interfaces, specifications, and architectures to create robust software solutions. Your work will include adapting existing web applications to new environments, creating and testing software prototypes, and developing client displays and user interfaces.
+
+As a Software Engineer at Lonestar Technologies, you collaborate closely with other software professionals and developers to coordinate project activities and meet technical requirements. You will assist the software team by handling project-related tasks and ensuring that software components are delivered on time and with high quality. This role is ideal for a detail-oriented developer who does not manage a team but values contributing effectively in a technical capacity within a supportive development environment.
+
+

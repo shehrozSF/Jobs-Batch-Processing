@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/axix-technologies-full-stack-developer-lahore-jobs-1868587
+title: Full Stack Developer
+company: Axix Technologies
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T04:55:35+00:00
+query: python developer
+---
+
+Axix Technologies is seeking a skilled Full Stack Developer with 1 to 3 years of professional experience to join our dynamic team at our Gulberg III, Lahore office. The ideal candidate possesses strong knowledge of modern web development technologies, including both frontend and backend frameworks, and has practical experience working with databases and REST APIs. This role requires a hands-on developer who is proficient in JavaScript or TypeScript and comfortable managing the full software development lifecycle, from concept to deployment. While the role does not involve managing a team, the candidate should demonstrate strong problem-solving abilities and be ready to contribute effectively as an individual contributor in a collaborative on-site environment.
+
+The Full Stack Developer at Axix Technologies will be involved in building scalable SaaS products and enterprise applications, primarily using React or Next.js for frontend development and Node.js for backend services. Experience with containerization using Docker, deploying applications on cloud platforms, and knowledge of AI-powered applications will be advantageous and strengthen the candidate’s capability to innovate and deliver high-quality software solutions. Working knowledge of Git and GitHub for version control is essential, ensuring code quality and collaboration within the team. This role offers an opportunity to develop and expand technical skills in a fast-paced, technology-driven company focused on cutting-edge web applications.
+
+

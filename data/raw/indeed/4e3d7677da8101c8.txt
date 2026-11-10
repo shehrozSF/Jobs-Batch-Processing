@@ -1,0 +1,30 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=4e3d7677da8101c8
+title: Node Js. Dev
+company: Markematics Pvt Ltd.
+location: Karachi
+scraped_at: 2026-09-04T05:34:01+00:00
+query: python developer
+---
+We're Hiring: Node.js & Python
+We're looking for a Backend Developer with 2–3 years of experience in Node.js, Python, MongoDB, and MySQL to build scalable APIs and backend services.
+Location : Karachi
+What we're looking for:
+- Node.js (Express) & Python
+- MongoDB & MySQL
+- REST APIs
+- JWT/OAuth authentication
+- Strong problem-solving skills
+- ORMs/Query Builders (Sequelize, Mongoose ) Bonus Skills:
+- Redis (Caching)
+- Microservices Architecture
+- GraphQL
+- CI/CD Pipelines If you're passionate about building reliable, high-performance backend systems, we'd love to hear from you!
+Apply now or tag someone who'd be a great fit!
+Application Question(s):
+- What do you know about mongoose ?
+- How many projects you have closed?
+- What is your current salary ?
+- What is your expected salary ?
+- How immediate you can join? Experience:
+- Node Js.: 2 years (Required) Work Location: In person

@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/pak-turk-maarif-international-schools-colleges-senior-software-developer-jobs-1869850
+title: Senior Software Developer
+company: Pak Turk Maarif International Schools & Colleges
+location: Islamabad, Pakistan
+scraped_at: 2026-09-04T04:17:44+00:00
+query: python developer
+---
+
+Pak Turk Maarif International Schools & Colleges is seeking a highly skilled Senior Software Developer with at least 2 years of experience to design, develop, and maintain enterprise-level software applications. This role requires a strong command of multiple programming languages, frameworks, and database systems including .NET, Java, PHP, Python, C#, ASP.NET Core, MVC, Web API, ADO.NET, Entity Framework, Dapper, JavaScript, jQuery, AngularJS, and Microsoft SQL Server. The successful candidate will work on optimizing application performance, security, and scalability while solving complex technical challenges. Although this role does not involve managing a team, it demands leadership in technical projects and mentoring junior developers, fostering a collaborative environment and sharing knowledge effectively.
+
+In this dynamic position, the Senior Software Developer applies problem-solving and analytical thinking to design system architecture and database structures that support robust and scalable software solutions. The developer will lead technical projects from concept to deployment, ensuring best practices in coding, security, and performance are adhered to. Strong communication and teamwork skills are essential to coordinate with cross-functional teams and contribute to continuous improvement in software development processes.
+
+

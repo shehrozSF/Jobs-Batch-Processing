@@ -1,0 +1,80 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=8a92bee432c9f626
+title: Full Stack AI Engineer
+company: Python Technologies
+location: Islamabad
+scraped_at: 2026-09-04T05:34:04+00:00
+query: python developer
+---
+Location: DHA Phase II, Islamabad (On-Site)
+Working Hours: Monday–Friday | 6:00 PM – 2:00 AM PKT
+Hiring for: Client facing role ( Staff augmentation )
+About Us
+Python Technologies is an AI and software development company building AI Agents, LLM applications, Web Apps, Mobile Apps, SaaS platforms, and enterprise software for clients across the US, Canada, UK, and Australia.
+About the Role:
+We are looking for a Full Stack AI Engineer who combines exceptional communication skills with a strong technical background.
+Your primary responsibility will be to join meetings/Interviews arranged by our Business Development team, understand client requirements, conduct technical discussions, recommend the right solutions, and help convert opportunities into signed projects/jobs (Under staff Augmentation).
+Once a project/Job is awarded, you will serve as the primary technical point of contact between the client and our engineering team, ensuring smooth communication and successful project delivery.
+This is not a cold-calling or lead-generation role. Your focus will be on technical consultations, solution design, client interviews, and project coordination.
+Key Responsibilities
+- Attend client meetings and technical interviews scheduled by the Business Development team.
+- Lead technical discovery sessions with international clients.
+- Understand business/Job requirements and translate them into technical solutions.
+- Recommend AI, LLM, web, mobile, and automation solutions based on client needs.
+- Prepare solution architecture, project scope, timelines, and effort estimates.
+- Help the sales team convert opportunities into signed projects.
+- Build trust and confidence with clients/Interviewers through clear technical communication.
+- Act as the Project Manager after a project is awarded.
+- Coordinate between clients and internal development teams throughout the project lifecycle.
+- Track project/Job milestones and ensure clear communication between all stakeholders.
+- Work closely with developers to ensure client expectations are met.
+- Identify upselling opportunities and long-term partnerships with existing clients. Required Qualifications
+Excellent English Communication (Mandatory):
+This role requires interacting with Hiring Managers, Recruiters, founders, CTOs, and decision-makers from North American and European companies on a daily basis.
+You must possess:
+- Exceptional spoken English
+- Excellent written English
+- Strong presentation and negotiation skills
+- Confidence leading Zoom and Google Meet sessions
+- Ability to explain complex technical concepts in simple business language Technical Skills (Mandatory)
+Candidates should have strong practical knowledge of:
+- Large Language Models (OpenAI, Anthropic, Gemini)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- LangChain & LangGraph
+- MCP (Model Context Protocol)
+- Vector Databases (Pinecone, Weaviate, Qdrant, ChromaDB)
+- AI Automation (n8n, Zapier, Make)
+- REST APIs & Third-Party Integrations
+- Frontend Development: React.js, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+- Backend Development: Node.js, Express.js, NestJS, Python, FastAPI, Django
+- Database Technologies: PostgreSQL, MongoDB, MySQL, Supabase, Prisma
+- Full-Stack Application Development: Designing, developing, integrating, testing, and deploying complete web applications from frontend to backend
+- Mobile App Development: React Native or similar frameworks
+- Cloud & Deployment: AWS, Azure, or Google Cloud
+- DevOps & Infrastructure: Docker, Git, CI/CD, server deployment, and cloud infrastructure
+- System Architecture: Designing scalable, secure, and production-ready AI and full-stack applications
+- Authentication & Security: JWT, OAuth, role-based access control, API security, and secure data handling. Preferred Experience
+- Minimum 3 years in AI, Software Engineering, Solution Architecture, or Technical Consulting.
+- Experience working with international clients.
+- Experience preparing technical proposals and project estimations.
+- Previous experience managing software projects is highly preferred.
+- Experience with Upwork, LinkedIn, or international B2B client engagements is a plus. Ideal Candidate
+We're looking for someone who can:
+- Speak confidently with international clients.
+- Think like a Solution Architect.
+- Sell like a Technical Consultant.
+- Manage projects like a Project Manager.
+- Build long-term client relationships. Why Join Python Technologies?
+- Work with international clients.
+- Build cutting-edge AI solutions.
+- Fast career growth in AI consulting and solution architecture.
+- Performance-based incentives for successfully closing projects.
+- Opportunity to lead high-impact AI and software projects from discovery to delivery. Compensation & Benefits
+- Base Salary: Starting from PKR 200,000/month (final compensation will depend on experience, technical proficiency, communication skills, and overall performance during the interview process).
+- Performance Commission: 7% commission on every project successfully locked and awarded to the company.
+- Work directly with clients from the US, Canada, UK, and Australia.
+- Opportunity for rapid career growth in AI consulting, technical sales, and project management.
+- Exposure to cutting-edge AI technologies, enterprise software, and international projects. Pay: Rs200,000.00 - Rs300,000.00 per month
+Work Location: In person

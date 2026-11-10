@@ -1,0 +1,52 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=df75fed208ba07af
+title: Software Engineer (Python)
+company: Axiom World Pvt Ltd
+location: Lahore
+scraped_at: 2026-09-04T05:32:40+00:00
+query: python developer
+---
+Job Overview:
+We are seeking a Backend Developer who will be responsible for building and customizing enterprise business management software across core business workflows. Your primary role will involve translating requirements into working features using a Python-based framework, while taking real ownership of deliverables from day one. You will collaborate with team members to understand project needs and contribute meaningfully to technical decisions. Additionally, you will participate in code reviews to uphold code quality and work alongside senior developers to ensure solutions are robust, scalable, and aligned with business goals.
+Job Responsibility:
+- Develop and customize business application features and workflow
+- Write clean, maintainable server-side code in Python
+- Build and modify UI components using JavaScript, XML, and HTML
+- Work with relational databases (PostgreSQL) queries and schema changes
+- Develop and consume REST APIs for third-party integrations
+- Debug client-reported issues, trace root causes, and ship tested fixes
+- Document your customizations clearly
+- Participate in Agile sprints, code reviews, and daily stand-ups Qualification:
+Bachelor's degree in Computer Science, Software Engineering, or a related field.
+Experience:
+1–2 years of experience (or equivalent practical experience)
+Core Skills:
+- Python (Solid OOP fundamentals (classes, inheritance, decorators)
+- SQL/PostgreSQL (Comfortable writing queries and joins)
+- Git (Branching, pull requests, collaborative workflows)
+- Familiarity with a Python-based web or ERP framework (Django, Flask, or similar MVC/MVT pattern) Exposure to Any of These Is a Plus:
+- JavaScript (Async patterns, event handling, frontend logic)
+- XML/HTML and templating engines (QWeb or similar)
+- REST API design and integration
+- Linux/CLI basics
+- AI-assisted coding tools (Antigravity, Copilot, Cursor, etc.)
+- Any enterprise/ERP-style application experience
+- Basic DevOps/CI-CD (Docker, GitHub Actions)
+- Multi-company or multi-currency application awareness Soft Skills:
+- Translates non-technical business requirements into working code
+- Communicates blockers early and clearly
+- Detail Oriented because errors in business software have real financial consequences
+- Collaborative and open to code-review feedback How You’ll Grow:
+- Direct mentorship from senior engineers through pairing and code reviews
+- Progressive ownership from tickets to full features over your first year
+- Exposure to architecture and client-facing work as you advance
+- Support for learning the framework deeply, not just surface-level What do We offer?
+- Health Insurance
+- Axiom Sports Complex
+- Paid Certifications
+- Paid Leaves
+- Recognition and Reward System Location: Lahore (Onsite)
+Industry: Information Technology & Consultancy Services
+Employment Type: Full-time
+Pay: Rs80,000.00 - Rs120,000.00 per month
+Work Location: In person

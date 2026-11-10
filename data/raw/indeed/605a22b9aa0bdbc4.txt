@@ -1,0 +1,48 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=605a22b9aa0bdbc4
+title: Principal Python Engineer
+company: HIre Em
+location: Pakistan
+scraped_at: 2026-09-04T05:32:51+00:00
+query: python developer
+---
+Python solution architect / principal Python engineer
+- USA client-based fully remote position.
+- Job Type: Contract
+- Experience: 8–12 Years
+- Level: Architect / Principal We’re looking for a highly experienced Python solution architect / principal Python engineer with strong architecture, cloud, AI, DevOps, and client-facing experience.
+Requirements:
+- 8–12 years of professional software engineering experience
+- Expert-level Python experience; .NET experience is a plus
+- 2–3+ years of recent hands-on AI development
+- Previous experience as a Solution Architect, Software Architect, Principal Engineer, or Technical Lead
+- Strong expertise in system architecture, distributed systems, microservices, scalable backend applications, REST APIs, and integrations
+- Experience with FastAPI, Django, or Flask
+- Strong knowledge of SQL/NoSQL databases, caching, messaging, and asynchronous processing
+- Hands-on experience with AWS, Azure, and/or GCPStrong cloud-native architecture, scalability, security, availability, and cost-optimization knowledge
+- Hands-on Docker and CI/CD experience
+- Kubernetes and Terraform/IaC experience preferred
+- Strong experience with GitHub Actions, GitLab CI/CD, Jenkins, AWS CodePipeline, Google Cloud Build, or similar
+- Ability to design solutions from requirements through development, deployment, and production support
+- Strong code/design review, technical leadership, and mentoring skills
+- Client Communication
+- C1/C2 English proficiency is mandatory. You must be confident working directly with international clients, leading technical discussions, gathering requirements, presenting solutions, and explaining technical decisions, trade-offs, risks, and timelines.
+- Responsibilites:
+- Own and design Python-based system architectures
+- Develop and review production-quality code
+- Design APIs, databases, integrations, security, and deployment strategies
+- Lead architecture reviews, technical planning, and estimations
+- Build scalable and cloud-native solutions
+- Establish CI/CD and deployment strategies
+- Identify technical risks, bottlenecks, and technical debt
+- Mentor engineers and provide technical direction
+- Work directly with international clients throughout the development lifecycle Position Details:
+- Primary Technology: Python / .NET
+- Cloud: AWS, Azure and/or GCP
+- DevOps: Docker, CI/CD
+- Preferred: Kubernetes, Terraform/IaC
+- Location: Anywhere in Pakistan
+- Job Type: Contract
+- Work Mode: Fully Remote
+- English: C1/C2 — Mandatory Pay: Rs25.00 - Rs30.00 per hour
+Work Location: Remote

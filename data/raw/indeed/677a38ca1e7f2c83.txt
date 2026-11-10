@@ -1,0 +1,45 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=677a38ca1e7f2c83
+title: Python Developer
+company: JPLoft
+location: Denver, CO
+scraped_at: 2026-09-04T05:30:54+00:00
+query: python developer
+---
+We are seeking an experienced Python Developer with 3+ years of expertise in designing, developing, and maintaining scalable applications. The ideal candidate should have a strong understanding of Python frameworks, database management, API development, and cloud technologies.
+Key Responsibilities:
+-
+- Develop, test, and maintain high-performance Python applications.
+-
+- Write clean, reusable, and efficient code following best practices.
+-
+- Design and implement RESTful APIs and integrate third-party services.
+-
+- Work with databases such as MySQL, PostgreSQL, MongoDB, etc.
+-
+- Collaborate with front-end developers, designers, and other team members to deliver seamless applications.
+-
+- Debug and troubleshoot issues, optimizing application performance.
+-
+- Implement security and data protection solutions.
+-
+- Stay updated with the latest industry trends and technologies.
+Required Skills & Qualifications:
+-
+- 3+ years of experience in Python development.
+-
+- Proficiency in Django, Flask, or other Python frameworks.
+-
+- Strong knowledge of SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB).
+-
+- Experience in RESTful API development and third-party API integrations.
+-
+- Understanding of cloud platforms like AWS, Google Cloud, or Azure.
+-
+- Familiarity with version control systems (Git, GitHub, GitLab).
+-
+- Knowledge of Docker, Kubernetes, or other containerization tools is a plus.
+-
+- Strong analytical and problem-solving skills.
+-
+- Ability to work independently and within a team environment

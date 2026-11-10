@@ -1,0 +1,40 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4458644196
+title: Software Engineer
+company: NCR Atleos
+location: Karāchi, Sindh, Pakistan
+scraped_at: 2026-09-04T03:58:53+00:00
+query: python developer
+---
+About NCR Atleos
+NCR Atleos, headquartered in Atlanta, is a leader in expanding financial access. Our dedicated 20,000 employees optimize the branch, improve operational efficiency and maximize self-service availability for financial institutions and retailers across the globe.
+Title: Software Engineer
+Location: Karachi, Pakistan
+Job Summary
+We are seeking a motivated and detail-oriented Software Engineer with 2 to 3 years of professional experience in software development. The ideal candidate will have hands-on experience in Microsoft .NET technologies (C#, ASP.NET, .NET Core/.NET) and Python for automation, integrations, data processing, and backend development.
+Key Areas Of Responsibility
+- Design, develop, test, and maintain enterprise applications using Microsoft .NET technologies and Python.
+- Build and enhance web applications, APIs, and backend services using C#, ASP.NET, and .NET Core/.NET.
+- Develop Python-based solutions to support automation, system integrations, data processing, and backend functionality.
+- Collaborate with business stakeholders and cross-functional teams to deliver high-quality, scalable, and reliable software solutions that support business objectives.
+- Participate in all phases of the software development lifecycle, including design, development, testing, deployment, and support.
+- Write clean, maintainable, and efficient code in accordance with established coding standards and best practices.
+- Troubleshoot, debug, and resolve application issues to ensure optimal system performance and reliability.
+- Perform unit testing and support integration and user acceptance testing activities.
+- Maintain technical documentation and contribute to continuous improvement initiatives within the development team.
+- Work with databases, APIs, and integrated systems to support business and operational needs.
+Basic Qualifications
+- Bachelor's degree in computer science, Software Engineering, Information Technology, or a related field.
+- Minimum of 2 years of hands-on experience with Microsoft .NET technologies, including C#, ASP.NET, and .NET Core/.NET.
+- Minimum of 2 years of hands-on experience using Python for automation, integrations, data processing, backend development, or related software engineering activities.
+- Experience developing, testing, and maintaining enterprise applications.
+- Strong understanding of object-oriented programming principles and software development best practices.
+- Experience working with APIs, databases, and system integrations.
+- Strong analytical, problem-solving, and troubleshooting skills.
+- Ability to work effectively in a collaborative and cross-functional team environment.
+- Strong verbal and written communication skills.
+Offers of employment are conditional upon passage of screening criteria applicable to the job.
+EEO Statement
+NCR Atleos is an equal-opportunity employer. It is NCR Atleos policy to hire, train, promote, and pay associates based on their job-related qualifications, ability, and performance, without regard to race, color, creed, religion, national origin, citizenship status, sex, sexual orientation, gender identity/expression, pregnancy, marital status, age, mental or physical disability, genetic information, medical condition, military or veteran status, or any other factor protected by law.
+Statement to Third Party Agencies
+To ALL recruitment agencies: NCR Atleos only accepts resumes from agencies on the NCR Atleos preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR Atleos employees, or any NCR Atleos facility. NCR Atleos is not responsible for any fees or charges associated with unsolicited resumes.

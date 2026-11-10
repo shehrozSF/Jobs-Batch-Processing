@@ -1,0 +1,41 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4462175660
+title: Senior Software Engineer - Python
+company: Convo
+location: Islamabad, Islāmābād, Pakistan
+scraped_at: 2026-09-04T03:57:58+00:00
+query: python developer
+---
+Job Summary
+CONVO is seeking a Senior Software Engineer - Python to build the shared runtime, orchestration, tool registry, and SDK powering its agentic platform. You’ll develop asynchronous, distributed backend services using Python, FastAPI, and graph-based orchestration, while working with vector/graph databases, MCP-compatible tools, and robust workflow management. You’ll focus on scalable agent execution, reliable tool integration, observability, failure handling, and developer-friendly SDKs that enable teams to build and operate domain agents efficiently.
+Technical mission
+- Design and implement the shared runtime, planner, tool registry and SDK that other teams use to build and operate domain agents.
+Key Responsibilities
+- Implement asynchronous orchestration and planning services that translate intents into executable agent workflows.
+- Build and maintain the tool registry, tool-call contracts, agent SDK and runtime APIs.
+- Integrate graph and vector persistence for workflow state, memory and retrieval.
+- Implement MCP-compatible interfaces and adapters for internal and external tools.
+- Design failure handling, retries, idempotency, timeouts, tracing and deterministic replay where applicable.
+- Create developer documentation, reference implementations and automated tests for consuming teams.
+Required Technical Capabilities
+- Minimum experience: 6+ years in backend or distributed-systems engineering, including 2+ years with workflow orchestration, LLM applications or agent runtimes.
+- Advanced Python, including asyncio/concurrency and production FastAPI services.
+- Experience with workflow or agent orchestration, preferably LangGraph or an equivalent graph-based runtime.
+- Practical use of graph databases and/or vector databases in production systems.
+- Strong API and SDK design, schema versioning and backward-compatibility discipline.
+- Understanding of MCP, structured tool calls and secure tool execution.
+- Automated testing of distributed, asynchronous and failure-prone workflows.
+Preferred Experience
+- Agent memory, multi-agent coordination or planner/executor patterns.
+- OpenTelemetry tracing and evaluation telemetry for agent workflows.
+- Sandboxing, policy enforcement and tenant-aware runtime design.
+Expected deliverables / acceptance evidence
+- Versioned agent runtime and orchestrator services.
+- Tool registry and MCP-compatible contract layer.
+- Documented agent SDK with reference agents and integration tests.
+- Operational telemetry and failure-management mechanisms.
+Primary Interfaces
+- Works with all pod engineering teams, the Architecture Office, Agentic Governance and QA/evaluation roles.
+What We Have For You
+- Great compensation package, medical benefit for you and your family, free lunch, annual performance-tied increments & performance recognition awards and a great lean and agile work culture!
+- Convo endorses a culture of diversity in all aspects and aims to build a diverse team of amazing individuals!

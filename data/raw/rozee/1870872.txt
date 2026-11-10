@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/adnan-corporation-orient-lighting-electrical-engineer-smt-pcb-design-lahore-jobs-1870872
+title: Electrical Engineer (SMT & PCB Design)
+company: Adnan Corporation Orient Lighting
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T05:02:44+00:00
+query: software engineer
+---
+
+Adnan Corporation Orient Lighting is seeking a skilled Electrical Engineer specializing in Surface Mount Technology (SMT) and Printed Circuit Board (PCB) Design. This role requires managing SMT production lines while overseeing the complete PCB design process. The engineer will lead a team of four professionals focused on producing high-quality electronic components. A strong foundation in PCB layout design, schematic capture, and thermal management is essential to successfully deliver functional and reliable electronic assemblies. The candidate will collaborate closely with production and testing teams to ensure proper component handling, assembly, and troubleshooting.
+
+The ideal candidate possesses at least two years of experience in PCB design and SMT manufacturing processes. Deep expertise with PCB layout software such as Altium Designer and proficiency in generating manufacturing files like Gerber are mandatory. This role demands a problem-solving mindset oriented towards continuous process improvement and quality control. Knowledge of heat sink design, solder paste stenciling, and electro-thermal modeling will contribute to optimizing the production quality and efficiency of electronic systems developed by Adnan Corporation Orient Lighting.
+
+

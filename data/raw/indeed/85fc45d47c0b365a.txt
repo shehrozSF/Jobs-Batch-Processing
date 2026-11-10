@@ -1,0 +1,61 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=85fc45d47c0b365a
+title: Python Backend Engineer (FastAPI / Django / AWS)
+company: SteadyTides Ltd
+location: Islamabad
+scraped_at: 2026-09-04T05:32:40+00:00
+query: python developer
+---
+Location: Pakistan (Office-based with expectation to live in the accommodation) - Peshawar/Islamabad - Idea is to bring Sillicon into Peshawar/Islamabad
+Employment Type: Full-time
+About the Role
+We're building products at startup speed. That means we move quickly, solve challenging problems, and expect everyone on the team to take ownership rather than simply complete assigned tasks.
+This is not a typical 9-to-5 corporate engineering role. The pace can be intense, priorities can change, and you'll often be working on problems you've never solved before. In return, you'll gain experience that normally takes years to accumulate and have the opportunity to grow your technical and professional skills rapidly.
+If you're looking for a comfortable maintenance job, this probably isn't the right fit.
+If you're excited by learning fast, shipping real products, and working with modern backend infrastructure, we'd love to hear from you.
+What You'll Be Working On
+- Designing and building backend services using Python
+- Developing APIs using FastAPI and Django
+- Working with PostgreSQL and database schema design
+- Managing database migrations and production deployments
+- Building and maintaining CI/CD pipelines
+- Working with GitHub Actions and automated testing
+- Deploying and maintaining services on AWS
+- Working with ECS, Fargate, load balancing, auto scaling, and cloud infrastructure
+- Debugging production issues and improving system reliability
+- Collaborating closely with product and engineering teams to ship features quickly What We're Looking For
+Required Skills
+- Strong Python programming skills
+- Experience with FastAPI and/or Django
+- Good understanding of relational databases (PostgreSQL preferred)
+- Experience writing and managing database migrations
+- Comfortable using the Linux command line
+- Strong Git workflow experience
+- Experience with CI/CD pipelines
+- Experience with GitHub Actions
+- Experience deploying applications to AWS
+- Familiarity with Docker and containerized applications
+- Understanding of REST APIs and backend architecture Bonus Points
+- Experience with ECS, Fargate, ALB, Auto Scaling, IAM, CloudWatch, or Terraform
+- Experience working in startup environments
+- Knowledge of asynchronous Python
+- Experience with Redis, Celery, or message queues
+- Experience monitoring and optimizing production systems Who Will Thrive Here
+You'll likely enjoy this role if you:
+- Love solving difficult technical problems
+- Learn new technologies quickly
+- Take ownership instead of waiting for instructions
+- Are comfortable working independently
+- Care about writing clean, maintainable code
+- Communicate well with teammates
+- Want to become a significantly stronger engineer over the next few years Our Engineering Culture
+- We value ownership over micromanagement.
+- We automate repetitive work whenever possible.
+- We believe in shipping, learning, and iterating.
+- We encourage continuous learning and experimenting with new technologies.
+- Everyone has an opportunity to make meaningful technical decisions. Growth & Compensation
+We're looking for people who want to build a long-term career, not just find their next job.
+The expectations are high, but so are the opportunities. Team members who consistently deliver, take ownership, and continue to grow can progress quickly, with compensation that reflects their impact rather than simply their tenure.
+If you're ambitious, enjoy learning at a rapid pace, and want to work on modern backend systems, we'd love to hear from you.
+Pay: Rs80,000.00 - Rs100,000.00 per month
+Work Location: In person

@@ -1,0 +1,51 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4408915325
+title: Lead Backend Developer - Securiti.ai
+company: Veeam Software
+location: Islamabad, Islāmābād, Pakistan
+scraped_at: 2026-09-04T04:00:03+00:00
+query: python developer
+---
+Veeam is the Data and AI Trust Company, specializing in helping organizations ensure their data and AI are fully understood, secured, and resilient to enable the acceleration of safe AI at scale. As the market leader in both data resilience and data security posture management, Veeam is built for the convergence of identity, data, security, and AI risk. Headquartered in Seattle with offices in more than 30 countries, Veeam protects over 550,000 customers worldwide, who trust Veeam to keep their businesses running. Join us as we go fearlessly forward together, growing, learning, and making a real impact for some of the world’s biggest brands.
+About The Role
+You will be working as a part of a distributed agile team, building a new SaaS platform that underpins a suite of enterprise applications solving a variety of hard data analytics and enterprise problems. You will be responsible for ensuring that the framework and products we develop meet the established design, implementation, and quality goals.
+What You’ll Do
+- Be a part of a globally distributed team of backend engineers to design/develop/architect Securiti’s core backend platform
+- Help create architecture documents, functional specifications, design documents, and developer test plans
+- Coordinate end-to-end development, deployment, and testing of new features and enhancements in the product
+- Write reliable, secure, performant, and scalable code
+- Perform code reviews and analysis
+- Monitor platform performance and be on-call to address any urgent issues
+- Work with customer support and address customer issues
+- Integrate new technologies into back-end cloud infrastructure
+What You’ll Bring
+- Minimum 7 years of experience developing software, with some experience using container technologies like Docker
+- Experience in building highly available and scalable distributed systems for the cloud
+- Strong conceptual understanding of multi-threaded applications
+- Professional development experience in GoLang, Java, C++, or Python
+- Good knowledge of Linux and bash scripting
+- Good software development practices: should thrive in an environment of rapid development, peer code reviews, and write good functional/unit tests
+- Experience with microservices and REST-based HTTP/2 architectures
+- Experience with SQL (Postgres) and NoSQL (Mongo/Elasticsearch) technologies
+- Knowledge and use of performance tuning, profiling, and software metrics tools
+- Very strong diagnostic and troubleshooting skills
+- Proven ability to utilize creative thinking to solve complex engineering problems
+- Understanding of continuous integration tools, including Jenkins
+- Experience with agile development methodologies is a must
+- Outstanding verbal, written, and interpersonal communication skills
+- High level of energy, teamwork, can-do attitude, and willingness to learn new technologies
+- Working knowledge of networks and web concepts
+Bonus Skills
+- Experience with cloud platforms such as AWS, GCP, and Azure
+- Experience with Containerisation technologies (Kubernetes, Docker)
+- Experience with tools like terraform, helm, docker
+- Understanding of Network Services such as Load-Balancers, Security, QoS
+- Understanding of platform level concerns, such as configuration management, network request routing, blue/green or canary deployments, in-service software upgrade
+- Experience in building API based connectors to cloud-based SaaS services is a big plus
+What You’ll Get
+- Competitive compensation package
+- Comprehensive health and wellness benefits
+- Professional development opportunities
+Veeam Software is an equal opportunity employer and does not tolerate discrimination in any form on the basis of race, color, religion, gender, age, national origin, citizenship, disability, veteran status or any other classification protected by federal, state or local law. All your information will be kept confidential.
+Personal data collected during the recruitment process will be processed in accordance with our Recruiting Privacy Notice, which explains how your information is collected, used, and handled in connection with hiring activities. By applying for this position, you consent to this processing.
+By submitting your application, you confirm that the information provided, including any supporting documents, is complete and accurate to the best of your knowledge. Any misrepresentation, omission, or falsification may result in disqualification from consideration or, if discovered after employment begins, termination of employment.

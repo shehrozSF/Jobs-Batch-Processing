@@ -1,0 +1,28 @@
+source: rozee
+url: https://www.rozee.pk/emr-jr-data-analyst-karachi-jobs-1872554
+title: EMR Jr. Data Analyst
+company: Mac Care
+location: Karachi, Pakistan
+scraped_at: 2026-09-04T05:14:40+00:00
+query: data analyst
+---
+We are looking for a motivated Junior Data Analyst to join our Value-Based Care (VBC) analytics team, focusing on Electronic Medical Record (EMR) systems. This entry-level position is ideal for individuals comfortable working with EMR platforms and eager to build a career in healthcare data analytics. The main responsibility involves extracting datasets from various EMR systems and uploading them to our AWS S3 data lake, which supports critical data pipelines for analytics and reporting. This role offers opportunities for growth, allowing you to take on broader responsibilities within the VBC data and reporting initiatives as you gain experience.
+Key Responsibilities
+- Extract patient and clinical datasets accurately and on schedule from EMR systems such as eClinicalWorks, Athena EMR, and NextGen EMR.
+- Upload and organize extracted datasets into the AWS S3 data lake, following established folder structures and naming conventions.
+- Develop a working knowledge of each EMR platform’s data structure, navigation, and report/export functions.
+- Perform basic quality checks on extracted data before uploading, ensuring completeness, correct formatting, and appropriate date ranges.
+- Maintain detailed logs of extraction tasks, including any data or access issues encountered.
+- Collaborate closely with the VBC analytics team to understand data requirements for upcoming reports.
+- Support additional data-related tasks as your understanding grows, including managing Excel workbooks, assisting with Power BI, and preparing ad hoc reports.
+Required Qualifications
+- Working knowledge of at least one EMR system; familiarity with eClinicalWorks (eCW), Athena EMR, or NextGen EMR is highly desirable.
+- Basic proficiency in Microsoft Excel, including data entry, sorting/filtering, and simple formulas.
+- Basic familiarity with Power BI, especially in viewing and navigating reports and dashboards.
+- Willingness and ability to learn new software systems and follow structured data-handling procedures.
+- Strong attention to detail, organizational skills, and reliability when handling sensitive healthcare data.
+- Good written and verbal communication skills.
+- No prior AWS experience required; training on S3 upload procedures will be provided.
+Preferred Qualifications and Benefits
+This role is designed with growth potential in mind. As you demonstrate proficiency in the EMR extraction-to-S3 workflow, you will be entrusted with additional responsibilities within the VBC analytics function. These may include supporting Excel-based reporting and contributing to Power BI dashboard development. The position offers a competitive monthly salary in the range of Rs1.00 to Rs2.00. The work location is in person, providing an opportunity to collaborate directly with the analytics team.
+This is an excellent opportunity for someone looking to establish a foundational career in healthcare data analytics within a supportive and evolving environment..

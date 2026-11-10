@@ -1,0 +1,36 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4460753447
+title: Senior Python Engineer
+company: Firehorse
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:58:26+00:00
+query: python developer
+---
+Firehorse, a US-based company, is hiring a Senior Python Engineer with strong programming fundamentals and deep AI expertise spanning both traditional machine learning and generative AI / LLMs. We are looking for someone who moves fast, writes clean and well-tested code, and has a genuine understanding of how models work under the hood.
+Responsibilities
+- Design, build, and maintain robust Python services, APIs, and data pipelines.
+- Develop AI-powered features using both traditional ML models and LLM / GenAI systems.
+- Build and evaluate LLM pipelines — prompt engineering, RAG, fine-tuning, and model evaluation.
+- Write end-to-end test cases and maintain high automated test coverage.
+- Prototype and iterate quickly — ship at a high pace without sacrificing quality.
+- Optimize applications for performance, reliability, and scalability.
+- Participate in code reviews and uphold engineering best practices.
+- Collaborate directly with clients and stakeholders to shape technical solutions.
+Technical Requirements
+- 5+ years of professional Python development experience.
+- Strong programming and computer science fundamentals — data structures, algorithms, and clean code.
+- Strong AI and LLM skills across both traditional ML (e.g., scikit-learn, PyTorch) and GenAI (e.g., Anthropic / OpenAI APIs, agent and RAG frameworks).
+- Solid understanding of how models actually work — architectures, training, inference, and evaluation. This is a must.
+- Hands-on experience building RAG systems — retrieval pipelines, vector databases, and evaluation. This is a must.
+- Experience writing end-to-end and integration tests (e.g., pytest).
+- Experience building and consuming REST APIs; fluency with Git workflows.
+- High velocity: able to learn fast, deliver fast, and own outcomes independently.
+Nice to Have
+- Open-source model deployment experience (e.g., Hugging Face, vLLM, Ollama, GPU inference).
+- Cloud experience (AWS) and containerization (Docker / Kubernetes).
+Perks & Benefits
+- Compensation through USD remittance.
+- Fuel allowance and company-sponsored lunch.
+- Double daily salary for approved weekend or public-holiday work.
+- Hybrid schedule — 3 days in office, 2 days remote.
+- No micromanagement; direct interaction with stakeholders.

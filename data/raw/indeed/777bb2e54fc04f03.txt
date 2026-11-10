@@ -1,0 +1,216 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=777bb2e54fc04f03
+title: Senior Software Engineer
+company: Ron Turley Associates LLC
+location: Helena, GA 31037
+scraped_at: 2026-09-04T05:31:02+00:00
+query: python developer
+---
+Description:
+Senior Software Engineer (Full-Stack Mastermind)
+$200k – $220k / year
+Fully remote
+Description
+Most software engineers write code. We're looking for someone who changes the trajectory of a product.
+Do you thrive on owning a problem from the database all the way through the user experience? Can you move comfortably between designing an API, debugging a production issue, optimizing a SQL query, and improving a front-end workflow? Are you the type of engineer who sees a complicated problem, figures out what needs to happen, and ships a solution other people thought would take twice as long?
+And just as importantly: are you already figuring out how AI changes the way great software gets built?
+If so, read on.
+I'm the Head of Engineering at RTA, and I'm looking for a Senior Software Engineer to help build and evolve Fleet360, our fleet management SaaS platform. This is a high-ownership, high-impact role. You won't just be executing tickets. You'll be shaping solutions, making architectural decisions, working across the stack, and raising the engineering bar for the people around you.
+We are also serious about becoming an AI-first engineering organization. That doesn't mean blindly generating code and shipping whatever an LLM spits out. It means using AI as a force multiplier throughout the software development lifecycle: understanding unfamiliar code, exploring solutions, generating and reviewing implementations, writing tests, debugging issues, documenting systems, automating repetitive work, and dramatically increasing the speed at which a great engineer can deliver great software.
+We want engineers who are actively figuring out how to work differently because these tools exist.
+This role is not for everyone. If you prefer clearly scoped tasks, minimal ambiguity, staying exclusively in one layer of the stack, and steady incremental work, we'd still love to have you, just not in this seat.
+This role is for engineers who see an problem and feel a pull toward it, not away from it.
+What we're looking for
+In general, someone who:
+-
+Is a force multiplier. When you're on a project, the whole team moves faster and ships better. You raise the bar just by being in the room.
+-
+Is passionate about serving others.
+-
+Thinks like a product engineer, not just a programmer. You care about the outcome for the user, not simply whether your code works.
+-
+Owns problems end to end. Front end, API, database, integration, production issue: you go where the problem takes you.
+-
+Works AI-first. You actively use modern AI development tools to make yourself faster and more effective, and you're constantly experimenting with better ways to use them.
+-
+Knows that AI output still requires engineering judgment. You validate assumptions, understand generated code, test aggressively, and never confuse speed of generation with correctness.
+-
+Has strong opinions, loosely held. You push back when something is wrong, but you update your views when presented with better information. You're not trying to be the smartest person in the room. You want the team to find the right answer.
+-
+Is comfortable being part of a team that thrives on healthy conflict. People with thin skin need not apply. No, seriously.
+-
+Passionately cares about our clients, who are fleet managers, parts clerks, and automotive technicians maintaining everything from squad cars to school buses, so everyone comes home safely at the end of the day.
+-
+Thinks of themselves less, while not thinking less of themselves. You're other-centric, compassionate, and self-assured.
+-
+Takes ownership and initiative. You identify how to make our products and processes better without waiting for permission. You don't ask for a ticket to fix something obviously broken.
+-
+Loves to read, learn, grow, and stretch themselves. Bonus points for each book they've read by Patrick Lencioni.
+What we actually require
+Five things. If you have these, apply and we'll figure out the rest together.
+-
+5–7+ years of professional software engineering, with real ownership of production software. Not years logged, but systems you were responsible for when they broke.
+-
+Genuinely full stack. You may be stronger in one area, but you move between the browser, API, database, infrastructure, and third-party integrations when the work requires it.
+-
+Node.js and TypeScript at production scale. Well-designed APIs and services that hold up under real load.
+-
+Deep relational database ability. You design schemas, write and optimize SQL, diagnose performance problems, and reason about data integrity and concurrency.
+-
+AI-assisted development as a daily workflow, with judgment. You can break a problem down, give a coding agent useful constraints, evaluate what comes back, iterate, and steer it to a production-quality result. And you can tell when it's confidently wrong.
+What strengthens your application
+None of these are dealbreakers. Any of them make you more interesting to us:
+-
+Vue.js specifically, since it's what our front end is built on. Strong React or Angular experience translates well.
+-
+Browser-side application architecture: component design, state management, async behavior, performance, maintainable UX.
+-
+Systems design beyond features: services, event-driven patterns, distributed systems, data flows, and judgment about when complexity is and isn't justified.
+-
+Messaging and queues such as RabbitMQ, Kafka, or AWS SQS, used to build resilient and decoupled systems.
+-
+Caching and distributed application patterns, including technologies such as Redis.
+-
+Containerized, cloud-native applications, including Docker, AWS ECS/EKS, and Kubernetes.
+-
+Observability as a first-class concern: logs, metrics, traces, profiling, APM.
+-
+DevOps fundamentals: CI/CD, automated testing, and how software gets safely from a laptop into production.
+-
+Building AI-powered product capabilities: LLM APIs, tool and function calling, RAG, embeddings, vector search, structured outputs, evaluation, agents. Deep AI/ML research background is not required.
+-
+Communicating with precision: explaining an architectural tradeoff to a product manager and a hairy debugging session to a junior engineer without losing either of them.
+-
+A Bachelor's degree, especially in computer science or a related field. Not required.
+Working with AI here
+This is the part we care most about, so here's what we mean concretely:
+-
+You work agentically, not with autocomplete. You've driven multi-file refactors, migrations, and test coverage with coding agents, not just accepted single-line suggestions. You maintain the context files, rules, and prompts that make those tools work for a whole team, not only for you.
+-
+You review AI-generated work like code from any other contributor. Understand it, challenge it, test it, improve it, then ship it.
+-
+You have an eval habit. You can explain how you knew an AI feature actually got better, rather than just felt different.
+-
+You know when not to use a model. Our customers track DOT compliance, warranty claims, and parts inventory. Some of that must never be answered by something probabilistic, and you can tell which parts.
+-
+You look for engineering work to automate: test generation, debugging, code analysis, migrations, documentation, repetitive implementation, internal tooling.
+-
+Bring proof. A repo, an eval suite, a rules file, an agent workflow you built for your team. Anything real tells us more than another year of experience on paper.
+Key responsibilities
+-
+Own features end to end: idea to production, across front-end interfaces, APIs, business logic, databases, integrations, and supporting infrastructure.
+-
+Build great user experiences: responsive, reliable, maintainable front-end functionality, with real understanding of the systems and data behind it.
+-
+Design and build back-end systems: scalable services and APIs in Node.js and TypeScript, with sound architectural and data-modeling decisions.
+-
+Work AI-first: use AI-assisted development and coding agents throughout your daily workflow for speed, quality, and leverage.
+-
+Improve how we build software: experiment with new AI-enabled workflows and help the team find the practices that materially move engineering productivity.
+-
+Build AI-powered product capabilities: features using LLMs, retrieval, agents, and intelligent automation where they create real customer value.
+-
+Elevate the team: rigorous code reviews, mentorship, shared techniques and patterns, and modeling the standards you want to see org-wide.
+-
+Improve performance and scalability: find bottlenecks across browser, network, application, database, and infrastructure, and drive them to resolution.
+-
+Solve production problems: when something breaks, dig through the whole system until you understand why. Don't stop at the boundary of the code you normally work on.
+-
+Integrate systems: connect third-party APIs and internal services, designing for reliability, failure handling, observability, and maintainability.
+-
+Ensure security and reliability: champion secure development practices and build systems our customers can depend on.
+-
+Collaborate across the business: work with Product, QA, Support, and other engineers to turn customer and business problems into high-quality software.
+What success looks like
+By day 90, you have:
+-
+Shipped at least two features end to end, browser through database, to production customers
+-
+Taken point on a production incident and driven it through resolution and postmortem
+-
+Made one improvement to the team's AI-assisted workflow that another engineer has adopted
+-
+Formed and shared a documented opinion on one part of the Fleet360 architecture you'd change, and why
+By the end of year one, you have:
+-
+Taken end-to-end ownership of a significant domain of Fleet360, including architecture, reliability, and roadmap input
+-
+Shipped at least one AI-powered customer-facing capability, from design through evaluation
+-
+Measurably improved something we track: p95 latency on a key endpoint, deploy frequency, flaky test count, or defect escape rate
+-
+Changed how at least two other engineers work, and they'd name you as the reason
+How we'll evaluate
+-
+A conversation with the hiring manager about your work and how you use AI tooling
+-
+A team conversation to evaluate mutual fit and discuss your technical experience, decisions, and problem-solving approach
+The engineer we're ultimately looking for
+-
+You don't define yourself as a "front-end engineer" or a "back-end engineer."
+-
+You're a software engineer.
+-
+You understand that the technology is simply a means to solve a problem. If solving that problem requires writing a Vue component, changing an API, redesigning a database query, tracing a message through a queue, debugging an AWS service, or directing an AI coding agent through a large refactor, you're willing and able to go there.
+-
+And as AI fundamentally changes how software is built, you're not waiting for someone else to figure out what that means.
+-
+You're already experimenting.
+The bottom line
+We're looking for a rare combination: the technical depth to design serious systems, the ownership mindset to treat our product like it's their own, and the humility to serve others well. If you're the kind of engineer who leaves every codebase, team, and product measurably better than you found it, this is your seat.
+Compensation and work location
+Total compensation for the role is between $200k and $220k.
+This is a full-time, fully remote role open anywhere in the US, with occasional travel to our Glendale, AZ headquarters for team gatherings.
+This position is classified as exempt and is not eligible for overtime pay.
+Why top talent chooses RTA
+We invest in our people. Period.
+-
+401(k) with 6% Safe Harbor match (100% vested day one)
+-
+Flexible PTO model built on trust and manager-approved time off
+-
+Cigna PPO and HSA medical plan options with company contributions ($780–$1,950 annually)
+-
+Garner Health HRA program: up to $1,000 individual / $2,000 family reimbursement opportunity
+-
+Wellness rewards up to $350 annually
+-
+Virtual care and mental health support resources
+-
+Company-sponsored benefits including dental, vision, EAP, life, STD, LTD, legal plan, and identity theft protection options
+-
+Additional employee perks, wellness initiatives, and discount programs
+The part we're most proud of
+-
+99% of employees say RTA is a Great Place to Work® (Certified 3 years running)
+-
+30% ARR growth for two years straight
+-
+We are an AI-forward company building for the future
+-
+Big growth. Real benefits. Strong culture. A team that delivers.
+About us
+RTA has been established since 1979 and has the reputation of providing the best customer service in the market. Our purpose is to help fleets succeed. We pride ourselves on creating a caring, family-oriented atmosphere for both staff and clients, and love that our work makes a positive impact on all the lives we touch.
+Our clients carry kids in school buses, first responders in emergency vehicles, patients in ambulances, food and medical supplies in trucks, and people just taking the bus or train to work. We do meaningful work, and we want our clients to have the best tools available to them.
+Our office spaces are open, spacious, and colorful, with an abundance of natural light. We come together often as a company to enjoy freshly baked desserts or awesome lunches, and genuinely enjoy each other's company. We offer some pretty unique perks and benefits, as well as all the standard ones. We're happy to talk through all the options.
+Physical and travel requirements
+This role has the following physical and travel requirements:
+-
+Ability to sit or stand for extended periods
+-
+Ability to work at a computer for prolonged periods
+-
+Occasional travel to corporate HQ in Glendale, AZ for team gatherings
+Reasonable accommodation
+RTA is committed to providing reasonable accommodations for qualified individuals with disabilities. If you need a reasonable accommodation to complete the application process or perform the essential functions of this role, please notify us at hr@rtafleet.com.
+Employment notices
+Employment with RTA is at-will. This means either the employee or the company may terminate the employment relationship at any time, with or without cause or notice, subject to applicable law.
+Employment with RTA may be contingent upon successful completion of a background check and other pre-employment screenings, consistent with applicable law.
+We cannot accept student visas or provide sponsorship at this time.
+Equal employment opportunity
+RTA is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected status under applicable law.
+Requirements:
+Notice Regarding the Use of Artificial Intelligence in Application Review:
+Notice of AI Use in Job Application Review
+As part of our commitment in creating a fair, efficient, and consistent hiring process we may use artificial intelligence (AI) to help our recruiting teams organize, summarize, and analyze information provided by candidates, including resumes, application responses, and other materials submitted during the application process.AI may be used to identify patterns, highlight relevant skills, and experience, and assist in comparing a candidate’s qualifications with the requirement of a specific role. These tools are to improve efficiency and consistency while supporting more informed hiring decisions, which will ultimately be made by the hiring team.
+PI286795566

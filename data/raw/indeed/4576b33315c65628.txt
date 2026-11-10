@@ -1,0 +1,56 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=4576b33315c65628
+title: Junior Developer
+company: Iqra Virtual School
+location: Peshawar
+scraped_at: 2026-09-04T05:34:01+00:00
+query: python developer
+---
+Iqra Virtual Solutions is looking for a motivated Junior Developer to join our development team. We are looking for someone who enjoys coding, problem-solving, learning new technologies, and building real-world web and mobile applications.
+The ideal candidate should have a good understanding of programming fundamentals and modern development tools. You should also be comfortable using AI-assisted development and vibe coding tools while still being able to understand, review, debug, and improve the generated code.
+Key Responsibilities
+- Develop and maintain web applications and related software solutions.
+- Work with PHP, Laravel, React, JavaScript, HTML, and CSS .
+- Assist with API development and third-party API integrations.
+- Work with databases and backend systems.
+- Write clean, understandable, and maintainable code.
+- Use Git and GitHub for version control, branches, commits, pull/push, and repository management.
+- Use AI development tools such as ChatGPT, GitHub Copilot, Claude, Cursor , or similar tools to improve productivity.
+- Review and understand AI-generated code instead of relying on it blindly.
+- Identify and fix bugs and technical issues.
+- Work with senior developers and other team members on ongoing projects.
+- Participate in testing, deployment, maintenance, and improvement of applications.
+- Continuously learn new technologies and development practices. Required Skills
+- Good understanding of web development and application development .
+- Knowledge of PHP, Laravel, and React .
+- Good understanding of HTML, CSS, JavaScript, APIs, and databases .
+- Strong programming fundamentals and problem-solving skills.
+- Must know how to use Git and GitHub .
+- Comfortable working with Git commands, branches, commits, pull/push, and repositories.
+- Must understand AI-assisted development / Vibe Coding .
+- Ability to understand, review, debug, and improve AI-generated code.
+- Strong debugging and troubleshooting skills.
+- Good communication skills and ability to work as part of a team.
+- Must have completed at least 1–2 practical development projects .
+- Preference will be given to candidates who have deployed projects live. Good to Have
+- Basic knowledge of Python .
+- Experience working with REST APIs and third-party integrations .
+- Knowledge of mobile app development using Flutter or React Native .
+- Familiarity with Linux servers, deployment, CI/CD, or hosting environments . What We Offer
+- Professional working environment.
+- Opportunity to work on real-world development projects.
+- Learning and career growth opportunities.
+- Exposure to modern development and AI coding tools.
+- Opportunity to improve full-stack development skills.
+- Competitive salary based on skills and experience.
+- ------------------
+- We encourage
+- fresh graduates with strong practical development skills
+- to apply. Candidates with
+- one year or more of professional development experience
+- will be preferred. We are especially interested in candidates who can demonstrate their skills through GitHub repositories, live projects, portfolio projects, or applications they have developed .
+How to Apply
+Send your CV/Resume along with your portfolio, GitHub profile, or live project links to:
+WhatsApp / Contact: +44 7462 055245
+Iqra Virtual Solutions (IVS)
+Work Location: In person

@@ -1,0 +1,24 @@
+source: rozee
+url: https://www.rozee.pk/noc-engineer-lahore-jobs-1872784
+title: NOC Engineer
+company: Physicians Revenue Group
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T05:10:16+00:00
+query: software engineer
+---
+We are looking for a dedicated Network Operations Center (NOC) Engineer to join our team on a full-time, in-person basis. The successful candidate will be responsible for continuously monitoring network systems, servers, and applications to ensure they operate at peak performance and stability. This role requires a proactive approach to identifying and resolving network incidents, outages, and performance issues quickly. The NOC Engineer will work closely with internal teams and external vendors to troubleshoot complex problems, perform routine maintenance, and maintain detailed documentation of network operations and incident management procedures.
+Key Responsibilities
+- Monitor network systems, servers, and applications using NOC tools and dashboards to ensure uninterrupted service.
+- Detect, diagnose, and resolve network incidents, outages, and performance issues in a timely manner.
+- Respond promptly to alerts and support tickets, escalating issues when necessary to reduce downtime.
+- Collaborate effectively with internal teams and external vendors to resolve technical challenges.
+- Conduct routine maintenance and system health checks to uphold infrastructure reliability.
+- Create and maintain comprehensive documentation related to network operations, incident response, and standard operating procedures.
+Required Qualifications
+- Proven experience in network monitoring and incident management within a NOC environment.
+- Strong understanding of network systems, servers, and application monitoring tools.
+- Demonstrated ability to diagnose and resolve network performance issues efficiently.
+- Excellent problem-solving skills and the capacity to perform well under pressure in a fast-paced setting.
+- Effective communication and collaboration skills to work seamlessly with cross-functional teams and external vendors.
+- Detail-oriented with a commitment to maintaining accurate and up-to-date documentation.
+This position offers the opportunity to contribute directly to the stability and performance of critical network infrastructure within a dynamic work environment. Candidates must be prepared to work on-site to enable close collaboration with team members and vendors..

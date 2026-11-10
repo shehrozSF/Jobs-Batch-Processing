@@ -1,0 +1,50 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=5fd0e51b4ce1ec83
+title: Unity Developer
+company: Tknack Digital Marketing Agency
+location: Islamabad
+scraped_at: 2026-09-04T05:32:40+00:00
+query: python developer
+---
+We are looking for a talented unity developer to join our design team. As a unity developer, you will be responsible for planning and implementing game functionality, building the game code, identifying bottlenecks, and ensuring the quality of the finished product. You may also be required to build patches and install game updates.
+To ensure success as a unity developer, you should have extensive experience working with Unity and Unity3D software, excellent coding skills, and a good eye for detail. A top-class Unity developer can visualize, design, and code games that speak directly to the target market.
+Unity Developer Responsibilities:
+-
+- Meeting with the design team to discuss gaming ideas and specifications.
+-
+- Establishing strategy and development pipelines.
+-
+- Planning and implementing game functionality.
+-
+- Transforming design ideas into functional games.
+-
+- Designing and building game codes.
+-
+- Identifying and fixing code errors and game bottlenecks.
+-
+- Testing game functionality and theme dynamics.
+-
+- Ensuring products conform to high industry standards.
+-
+- Designing and building game patches and upgrades.
+Unity Developer Requirements:
+-
+- Bachelor’s degree in computer science, computer engineering, or a similar field.
+-
+- Previous experience working as a unity or Unity3D developer.
+-
+- In-depth knowledge of unity and Unity3D software.
+-
+- Knowledge of 3D development and integrated game physics.
+-
+- Experience with console and mobile game development.
+-
+- Good communication skills.
+-
+- Experience with memory and space optimization.
+-
+- Knowledge of scripting, animation, session management, and textures.
+-
+- Good troubleshooting skills.
+-
+- Excellent attention to detail.

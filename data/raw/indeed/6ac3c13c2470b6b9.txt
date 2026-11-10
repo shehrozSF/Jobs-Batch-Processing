@@ -1,0 +1,9 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=6ac3c13c2470b6b9
+title: Java/Python Developer
+company: Intone Networks
+location: Malvern, PA
+scraped_at: 2026-09-04T05:30:55+00:00
+query: python developer
+---
+• Required Skills & Experience: • Technical Proficiency: Strong skills in Java and Python. • Automation: Experience with control automation and building automated testing suites. • Tools: Familiarity with GitHub, Jira, and X-ray. • Data: Understanding of data sources, databases (NoSQL), and data quality processes. • Soft Skills: Ability to work closely with the team, follow technical direction, and adapt to changing requirements as the POC progresses. Must be a strong team player and willing to learn.

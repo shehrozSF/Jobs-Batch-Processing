@@ -1,0 +1,51 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=e9a8c9242b6c7917
+title: Junior AI Programmer-NO remote-Las Vegas ONLY
+company: Office Equipment Company
+location: Las Vegas, NV 89101
+scraped_at: 2026-09-04T05:31:02+00:00
+query: python developer
+---
+At Office1, we leverage our "winning triangle" to create an unparalleled company culture. We align our commitment to our customers with our employee goals. We understand that our employees enable our customers' success and that is why we focus on creating opportunities rooted in our employees' purpose and passions.
+Join Office1 and Shape the Future of IT Solutions
+At Office1, we align our employees' goals with our commitment to customer success, creating a culture that fosters purpose and passion. Since 1995, we've been delivering innovative technology solutions to SMBs and have become one of the fastest-growing managed service providers in the Western U.S.
+We are seeking a Junior AI Programmer to build and maintain features on Office1's internal CRM (Twenty CRM) — a TypeScript, React, and NestJS application backed by PostgreSQL. This is a hands-on development role supporting the tools our Sales, Marketing, and leadership teams rely on every day.
+This is not a research or greenfield-AI-building role — that's our AI Solutions Engineer. It's applied CRM development where daily use of AI coding tools is part of how the work gets done, not an occasional experiment.
+What You'll Be DoingCRM Development
+- Build and maintain features across our internal CRM's frontend (React) and backend (NestJS) layers
+- Write and troubleshoot PostgreSQL queries for CRM data management and reporting
+- Fix bugs and chip away at technical debt as the CRM evolves
+- Translate day-to-day requests from Sales, Marketing, and leadership into working CRM improvements AI-Assisted Development
+- Use an AI coding tool (Claude, ChatGPT, GitHub Copilot, or similar) daily as a real part of your development workflow; for writing code, debugging, and reviewing changes
+- Bring practical AI fluency to a small team that values working smarter, not just harder
+- Communication and Collaboration
+- Communicate clearly and patiently with non-technical coworkers in Sales, Marketing, and leadership about what the CRM can and can't do
+- Maintain a positive, steady presence on the team, even when requirements shift or priorities change What You Bring
+- At least 18–24 months average tenure per role
+- Recent, hands-on programming experience - actively shipping code within roughly the last year
+- Core proficiency in TypeScript, with hands-on experience in React (frontend) and NestJS (backend)
+- Working knowledge of PostgreSQL for querying and managing relational data
+- Solid JavaScript, HTML, and CSS fundamentals
+- Active, daily use of an AI coding tool (Claude, ChatGPT, GitHub Copilot, or similar) in your real development work — familiarity alone isn't enough
+- A positive, steady attitude and clear communication skills with non-technical stakeholders Experience That Will Help You Succeed
+- Direct experience with Twenty CRM, or a similar TypeScript/React/NestJS CRM or business platform
+- Experience with Angular, Vue, or another modern JavaScript framework combined with Node.js backend work — the jump to React/NestJS from there is fairly shallow
+- Tableau or Power BI experience for dashboards and reporting
+- Testing and code quality practices (unit tests, code review discipline, github, coding as part of a team)
+- CRM features and fixes ship reliably, with AI tools genuinely speeding up your day-to-day work
+- Sales, Marketing, and leadership get clear, patient communication about CRM behavior and timelines
+- You're a steady, dependable presence on the team Diversity
+Office1 believes we work more productively, and our jobs are more enjoyable, when our team includes members with a diversity of backgrounds and life experiences. We take all reasonable steps to seek out candidates with diverse experience and ensure our work environment is welcoming and respectful for everyone on our team.
+What We Offer
+· Paid time off, holidays, and vacation
+· Comprehensive medical, dental, and vision coverage with generous contributions
+· Supplemental benefits, including STD/LTD, life insurance, and EAP
+· 401K matching
+· Onsite parking, gym, showers, and activity rooms
+Pay: $80,000.00 - $85,000.00 per year
+Benefits:
+- 401(k)
+- Dental insurance
+- Health insurance
+- Paid time off
+- Vision insurance Work Location: In person

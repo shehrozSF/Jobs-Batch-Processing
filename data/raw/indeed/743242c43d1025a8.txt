@@ -1,0 +1,26 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=743242c43d1025a8
+title: Python Developer
+company: Deliverydevs (Private) Limited
+location: Karachi
+scraped_at: 2026-09-04T05:32:40+00:00
+query: python developer
+---
+3 months contract
+Experience Required: 4-5 Years
+Key Responsibilities
+- Develop, maintain, and optimize Python-based applications.
+- Design and integrate RESTful APIs and third-party services.
+- Write clean, scalable, and reusable code.
+- Troubleshoot, debug, and enhance existing systems.
+- Collaborate with cross-functional teams to deliver high-quality solutions. Required Skills
+- Strong expertise in Django, Flask, or FastAPI.
+- Experience with REST APIs and microservices architecture.
+- Good knowledge of PostgreSQL/MySQL and ORM frameworks.
+- Experience with Git and version control systems.
+- Familiarity with AWS, Azure, or Google Cloud.
+- Experience with Docker and containerization. Preferred Skills
+- Experience with CI/CD pipelines.
+- Knowledge of RabbitMQ or Kafka.
+- Familiarity with Agile/Scrum methodologies. Pay: From Rs200,000.00 per month
+Work Location: In person

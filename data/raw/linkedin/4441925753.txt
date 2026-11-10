@@ -1,0 +1,83 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4441925753
+title: Python Developer
+company: Nextpak Agile Solutions
+location: Rawalpindi, Punjab, Pakistan
+scraped_at: 2026-09-04T03:57:55+00:00
+query: python developer
+---
+We are looking for a passionate and detail-oriented Python Developer to join our growing development team. The ideal candidate will be responsible for designing, developing, testing, and maintaining scalable backend applications, APIs, automation solutions, and data-driven systems. You should have strong problem-solving skills, write clean and efficient code, and enjoy collaborating with cross-functional teams to build high-quality software products.
+Key Responsibilities
+- Develop, test, and maintain scalable Python applications.
+- Design and build secure RESTful APIs and backend services.
+- Write clean, reusable, and well-documented code following best practices.
+- Optimize application performance, scalability, and reliability.
+- Integrate third-party APIs, databases, and cloud services.
+- Collaborate with frontend developers, UI/UX designers, and product managers.
+- Debug, troubleshoot, and resolve software defects and production issues.
+- Write unit tests and participate in code reviews.
+- Work with version control systems (Git) and CI/CD pipelines.
+- Automate repetitive business processes and workflows using Python.
+- Maintain technical documentation and contribute to system architecture discussions.
+- Stay updated with the latest Python frameworks and development trends.
+Required Skills & Qualifications
+- Bachelor’s degree in Computer Science, Software Engineering, or a related field (or equivalent practical experience).
+- 2+ years of professional Python development experience.
+- Strong knowledge of Python programming and object-oriented programming concepts.
+- Experience with Django, Flask, or FastAPI.
+- Good understanding of REST APIs and API integrations.
+- Experience working with PostgreSQL, MySQL, SQLite, or MongoDB.
+- Familiarity with Git and collaborative development workflows.
+- Understanding of software development lifecycle (SDLC).
+- Knowledge of authentication methods such as JWT and OAuth.
+- Experience with Docker is a plus.
+- Familiarity with Linux environments.
+- Strong analytical and debugging skills.
+- Excellent communication and teamwork abilities.
+Preferred Skills
+- Experience with cloud platforms (AWS, Azure, or Google Cloud).
+- Knowledge of Redis, Celery, or RabbitMQ.
+- Experience with microservices architecture.
+- Familiarity with GraphQL.
+- Experience building automation scripts and web scraping tools.
+- Understanding of DevOps practices and CI/CD pipelines.
+- Knowledge of AI/ML libraries such as Pandas, NumPy, TensorFlow, or PyTorch is a plus.
+Technologies You’ll Work With
+- Python
+- Django / Flask / FastAPI
+- PostgreSQL / MySQL / MongoDB
+- REST APIs
+- Git & GitHub
+- Docker
+- Redis
+- Celery
+- Linux
+- AWS / Azure / GCP
+- HTML, CSS, JavaScript (basic understanding)
+- CI/CD Pipelines
+What We Offer
+- Competitive salary package
+- Professional growth and learning opportunities
+- Collaborative and innovative work environment
+- Opportunity to work on modern technologies and real-world projects
+- Paid leave and company benefits
+- Performance-based incentives
+- Career advancement opportunities
+Ideal Candidate
+We’re Looking For Someone Who
+- Is passionate about writing high-quality Python code.
+- Enjoys solving complex technical challenges.
+- Can work independently and within a team.
+- Pays attention to detail and follows coding standards.
+- Continuously learns new technologies and best practices.
+- Takes ownership of projects from development to deployment.
+Application Requirements
+Please submit:
+- Updated Resume/CV
+- Portfolio or GitHub profile (preferred)
+- LinkedIn profile (optional)
+- Cover Letter (optional)
+Experience: 2–5 Years
+Location: Onsite
+Employment Type: Full-Time
+Department: Software Development / Engineering

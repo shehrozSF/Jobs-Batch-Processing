@@ -1,0 +1,73 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=556c5cccc5da169f
+title: Marketing Web Developer
+company: eCommission Financial Services, Inc.
+location: Austin, TX 78738
+scraped_at: 2026-09-04T05:31:02+00:00
+query: python developer
+---
+About the Role
+eCommission has been the largest commission advance provider in residential real estate for more than 25 years, and we're investing heavily in technology and new products to expand what we deliver to agents and brokers. Our growth means more campaigns, more partner programs, more events, and more content than ever, all moving at once.
+The Marketing Web Developer owns the day-to-day health and performance of the eCommission website. You will make sure every page is tracked properly and every campaign lands on a page built to convert — and as search itself evolves, that means optimizing for how both traditional engines and AI-generated answers surface our brand. This is a technical role at heart, sitting within our technology team but working in lockstep with marketing on everything from campaign pages to brand visibility. You will write the code, build the templates, and ship the pages yourself. We are looking for a strong technical foundation above all. You will work closely with marketing, development, operations, and outside contractors and agencies, and you will be accountable for measurable results: tracked, reported, and improved every month.
+Core Responsibilities
+Web Development and Templates
+- Code and maintain website pages hands-on in our PHP environment, including HTML, CSS, and JavaScript. This is a builder role, not a coordinator role.
+- Create new page templates that the marketing team can reuse for campaigns, landing pages, and content, so new pages ship in days, not weeks.
+- Keep the codebase clean and consistent: shared components, sensible file structure, and version control so changes are traceable.
+- Own staging-to-production workflow for page changes, including QA across devices and browsers before anything goes live. Tracking and Analytics
+- Own the tracking infrastructure end to end: Google Tag Manager, GA4, conversion tracking, call tracking, and pixel management for paid channels.
+- Ensure every form fill, signup, and funnel step is tracked accurately and tied back to source, so we know which channels and campaigns actually produce funded advances, not just clicks.
+- Maintain clean data flow between the website, our CRM, and marketing reporting, including lead routing and attribution.
+- Audit tracking regularly and fix gaps before they become blind spots in reporting. HubSpot Integration
+- Install and maintain the HubSpot tracking code across the site, keeping it aligned with Google Tag Manager and cookie consent requirements.
+- Build and embed HubSpot forms, CTAs, pop-ups, and chat on site pages, styled to our brand, with hidden fields capturing source, campaign, and page context.
+- Connect website forms and the signup funnel to HubSpot through the Forms and CRM APIs so every lead lands in the right pipeline with clean, complete properties.
+- Own the data mapping between the website and HubSpot: contact properties, lifecycle stages, lead routing rules, and deduplication.
+- Build coded templates and modules in HubSpot (HubL) for emails and any landing pages we choose to host there, consistent with the templates on the main site.
+- Set up behavioral events and webhooks so website activity can trigger HubSpot workflows, and QA those triggers before they go live.
+- Support the HubSpot implementation itself: testing, migration of existing forms and tracking, and QA of everything that touches the website. AI Visibility
+- Monitor and improve how eCommission and Symba appear in AI-generated answers across ChatGPT, Claude, Gemini, Perplexity, and Google AI Overviews.
+- Structure site content, schema markup, and FAQs so AI systems cite us accurately when agents ask about commission advances and agent financial tools.
+- Track AI-driven referral traffic and brand mentions, and report on visibility trends against competitors. SEO
+- Own organic search performance: keyword strategy, on-page optimization, technical SEO, internal linking, and site architecture.
+- Manage technical health including crawlability, indexation, sitemaps, redirects, page speed, and Core Web Vitals.
+- Partner with content owners to prioritize pages and topics based on keyword opportunity and business value, with the agent and broker audiences in mind.
+- Run regular SEO audits and own the fix list through to completion. Landing Page Optimization
+- Design, code, test, and maintain landing pages for paid media, partner programs, and email campaigns, building them yourself from the templates you create.
+- Run a continuous A/B testing program on headlines, forms, offers, and page layouts, and document what wins.
+- Improve conversion rates across the signup funnel, working from real user behavior data such as heatmaps and session recordings.
+- Keep landing pages consistent with brand positioning and messaging so what a visitor reads on the page matches what they heard in the ad. Additional Responsibilities
+- CMS ownership: manage the content management system, publish and update pages, and keep the page inventory current.
+- Site reliability: monitor uptime, performance, SSL, and security basics, and coordinate with developers or agencies when issues come up.
+- Compliance and accessibility: work with legal and compliance to keep disclosures, terms, and state-specific language accurate, and keep the site moving toward WCAG accessibility standards. As a financial services company, this is not optional for us.
+- Vendor and agency management: manage relationships with web developers, SEO tools, and testing platforms, and hold them to deliverables.
+- Reporting: deliver a monthly website performance report covering traffic, conversions, SEO rankings, AI visibility, and test results, with recommendations, not just numbers.
+- Campaign support: build web pages and forms for product launches, partner co-marketing, events, and seasonal campaigns on marketing deadlines.
+- Website roadmap: maintain a prioritized backlog of site improvements and manage it against business impact. Qualifications
+Required
+- 3+ years of hands-on web development with strong PHP, HTML, CSS, and JavaScript skills. This is the core requirement. We will ask you to walk through code and pages you have built.
+- Experience building and maintaining reusable page templates in a PHP-based site or CMS (custom PHP, WordPress, or similar).
+- Comfortable with version control, staging environments, and deploying changes to a production website safely.
+- Working knowledge of Google Tag Manager and GA4, and experience implementing tracking on a live site.
+- Working knowledge of technical SEO fundamentals: crawlability, indexation, redirects, page speed, structured data.
+- Experience running A/B tests and conversion rate optimization work on a live site, with results you can speak to.
+- Experience integrating a website with a CRM or marketing automation platform through embedded scripts, forms, and APIs.
+- Experience working with or inside a marketing team, building pages and tools that serve campaigns rather than product features. Preferred
+- A track record of SEO results beyond technical fundamentals, including keyword strategy and content optimization.
+- Familiarity with AI visibility or generative engine optimization tools and tactics.
+- Experience in real estate, fintech, or another regulated industry where compliance shapes what a website can say.
+- Direct HubSpot experience: CMS Hub, HubL templates, Forms and CRM APIs, workflows, or a HubSpot developer certification.
+- Experience with heatmap and session recording tools such as Hotjar or Microsoft Clarity. Company Values:
+At eCommission we believe that our employees are the driving force behind our success. With a strong commitment to excellence, innovation, and employee well-being, we strive to create a workplace where individuals can thrive both personally and professionally.
+Perks & Benefits:
+Incredibly Supportive Culture
+Paid Time Off
+Paid Holidays
+Health Insurance: Medical, Dental, Vision
+Employer paid LTD, STD & Basic Life Insurance
+Retirement Plan with Matching Contribution
+Tenure Based Rewards
+In-office & Offsite Events
+Work Authorization Requirement: Employment eligibility verification will be required. Candidates must be authorized to work in the United States without current or future employer sponsorship.
+Job Type: Full-time
+Work Location: Hybrid remote in Austin, TX 78738

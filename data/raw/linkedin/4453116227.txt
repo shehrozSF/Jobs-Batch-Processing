@@ -1,0 +1,50 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4453116227
+title: Principal Full Stack Engineer
+company: INTECH Automation & Intelligence
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:02+00:00
+query: python developer
+---
+About The Job
+Join our Team - Your career journey starts here – not just a job, but a future.
+Our Potential Opportunity
+INTECH Automation Intelligence is seeking a Principal Software Engineer to join our dynamic Industrial Intelligence team. INTECH IIS applications are built on its proprietary Industry 4.0 platform. They help address operational, optimization, and performance challenges faced by industries, be it in manufacturing, oil & gas, chemical & process, food & beverages, or metals & mining. These applications harness the capabilities of artificial intelligence, machine learning, physical and knowledge modeling, and visualizations for analyses on real-time and historical big data.
+What You’ll Lead and Deliver:
+- Design, develop, and maintain robust, scalable, and high-performance Python-based systems and RESTful APIs, ensuring reliability, security, and maintainability across production environments.
+- Design and evolve distributed and event-driven architectures, defining service boundaries, communication patterns, event contracts, and resilient asynchronous workflows that support scalability and long-term business needs.
+- Lead and mentor junior and senior developers, establishing clear coding standards, architectural guidelines, and engineering best practices to drive code quality and team growth.
+- Collaborate closely with product managers, business stakeholders, and cross-functional teams to translate business requirements into technical solutions, contribute to technical roadmaps, and assess the adoption of new tools, frameworks, and technologies.
+- Oversee and actively participate in code reviews, ensuring adherence to design principles, testing strategies, debugging practices, and performance optimization standards.
+- Take end-to-end ownership of complex features and services, including requirements analysis, system design, implementation, testing, deployment, monitoring, and post-production support.
+- Ensure systems are well-tested, observable, and resilient, leveraging logging, monitoring, and alerting to maintain high availability and performance.
+- Continuously improve development processes, CI/CD pipelines, and system architecture to support scalability and long-term business objectives.
+- Build and maintain secure identity and access management integrations, including OIDC/OAuth-based authentication, SSO, authorization, and SCIM-based user and group provisioning, while ensuring secure and consistent identity lifecycle management across services.
+Requirements:
+To Be Successful in This Role, You Must Have:
+- 8 -10 years of hands-on experience in Python development with deep expertise in core Python concepts, OOP principles, asynchronous programming, and the Python ecosystem, including Django, Flask, and FastAPI.
+- Hands-on experience with React and modern frontend development, including building reusable components, integrating RESTful APIs, managing application state, and working with JavaScript/TypeScript, with the ability to collaborate effectively across the frontend and backend layers.
+- Strong background in backend development, RESTful API design, microservices, and distributed systems, with experience designing scalable service architectures, defining service boundaries, handling inter-service communication, and building reliable production systems.
+- Strong experience with relational databases, particularly PostgreSQL, including schema design, transactions, indexing, query optimization, connection management, and performance tuning for high-scale applications.
+- Demonstrated experience designing and implementing event-driven architectures, including asynchronous communication, event/message processing, retries, idempotency, failure handling, eventual consistency, and integration with messaging or streaming platforms such as Kafka, RabbitMQ, or equivalent technologies
+- Strong understanding of authentication, authorization, and enterprise identity management, with hands-on experience implementing or integrating OIDC/OAuth 2.0, SSO, JWT-based authentication, and SCIM for user and group provisioning and identity lifecycle management.
+- Experience building secure, observable, resilient, and highly available production systems, including structured logging, metrics, monitoring, alerting, distributed tracing, health checks, and effective production troubleshooting.
+- Strong understanding of software engineering best practices, including automated testing, clean architecture, SOLID principles, design patterns, debugging, performance optimization, security, and maintainable code.
+- Solid experience working in Linux environments, containerization using Docker, and implementing or maintaining CI/CD pipelines for automated builds and deployments.
+- Demonstrated ability to mentor and guide development teams, conduct effective code reviews, and make sound architectural and design decisions for complex systems.
+We Offer Competitive Benefits:
+- Global Exposure: Opportunities to work on international projects and collaborate with global teams.
+- Competitive Compensation in USD : A salary package that recognizes your expertise and contributions.
+- Annual Bonus in USD: Performance-driven rewards based on your gross pay to celebrate your achievements and contributions.
+- In-House Lunch: Delicious meals provided during work hours to keep you fueled and focused.
+- Health Insurance: OPD coverage for you and your parents, plus IPD coverage for you and your dependents.
+- Learning Opportunities: Access to training programs, workshops, and certifications to enhance your skills.
+- Work-Life Balance: Paid time off, including annual leave and holidays.
+- Inclusive Environment: A workplace that celebrates diversity and fosters collaboration.
+﻿Why Join INTECH Automation Intelligence?
+At INTECH, you will have the opportunity to work with a globally renowned industrial automation and digitalization technology company. For nearly 30 years, INTECH has partnered with major oil and gas global giants to deliver innovative solutions. As we continue to lead in the Industry 4.0 era, you will be at the forefront of transformative technologies that solve real-world challenges.
+What to Expect After Applying?
+Explore how INTECH’s Talent Acquisition team ensures a seamless hiring journey. From embracing talent with a passion for innovation to fostering a culture of continuous learning and growth, we’re dedicated to finding and supporting the best minds in the industry.
+Click Here to learn more about our hiring process and discover your path to success with us.
+Our hiring process is designed to assess your skills and potential in a fair and inclusive manner. After applying, you will be guided through a structured evaluation process to ensure mutual alignment.
+INTECH Automation Intelligence is proud to be an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

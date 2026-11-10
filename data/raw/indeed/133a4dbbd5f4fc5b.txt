@@ -1,0 +1,42 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=133a4dbbd5f4fc5b
+title: AI Engineer
+company: One Click
+location: Karachi
+scraped_at: 2026-09-04T05:32:51+00:00
+query: python developer
+---
+Key Responsibilities:
+- Design, develop, and implement AI-powered solutions using Python and modern AI frameworks.
+- Build and optimize workflows using no-code and low-code automation platforms.
+- Develop and integrate AI agents, chatbots, and automation tools to enhance business processes.
+- Work with APIs, databases, and third-party services to create scalable AI applications.
+- Collaborate with cross-functional teams to gather requirements and deliver effective AI solutions.
+- Research and evaluate emerging AI technologies, tools, and best practices.
+- Assist in prompt engineering, model evaluation, and workflow optimization.
+- Monitor, troubleshoot, and improve the performance of deployed AI systems. Qualifications & Skills:
+- Bachelor's degree in Computer Science, Software Engineering, Artificial Intelligence, or a related field.
+- 1-2 years of experience in building AI automations and workflows, chatbots, and related AI-powered solutions.
+- Strong proficiency in Python and its ecosystem.
+- Understanding of Large Language Models (LLMs), Generative AI, and AI-powered applications.
+- Experience with AI frameworks and libraries such as LangChain, OpenAI APIs, Hugging Face, or similar tools is a plus.
+- Familiarity with no-code/low-code platforms such as n8n, Make (Integromat), Zapier, Bubble, or similar automation tools.
+- Basic understanding of REST APIs, JSON, databases, and cloud-based applications.
+- Knowledge of Git/version control systems is preferred.
+- Strong analytical, problem-solving, and debugging skills.
+- Excellent communication skills and a willingness to learn new technologies. We're looking for:
+- Strong foundation in Python programming
+- Curiosity and passion for Artificial Intelligence
+- Problem-solving mindset
+- Ability to learn quickly and adapt to new tools
+- Attention to detail and ownership of tasks
+- Collaborative and team-oriented approach Why Join 1Click?
+- Competitive salary with performance-based incentives
+- Career growth and advancement opportunities
+- Professional and collaborative work environment
+- Exposure to high-value corporate clients Shift Timings:
+Morning: 10:00 am - 6:00 pm
+Monday - Saturday
+Job Type: Full-time
+Pay: Rs75,000.00 - Rs100,000.00 per month
+Work Location: In person

@@ -1,0 +1,41 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4453051128
+title: AI Engineer
+company: Hiredroid
+location: Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:07+00:00
+query: python developer
+---
+Phenologix is looking for a AI/ML Engineer to join our team.
+Who We Are
+Phenologix is a diversified global software development and IT consulting company that gives both offshore and onshore technological solutions to business enterprises. Our mission is to enable superior returns on clients’ technology investments through best-in-class industry solutions, domain expertise, and global scale. We feel deeply connected to our customers, and therefore our success isn’t just a matter of our bottom line, but a reflection of how our customers flourish, and how their communities thrive. We strive to understand our customers’ individual needs so that we can develop products and services that enhance their livelihoods. Our customers are our partners, and when we rise, we rise together.
+Responsibilities
+- Work on AI/ML projects involving Machine Learning, Deep Learning, NLP, LLMs, and AI-driven automation.
+- Assist in developing and integrating LLM-based solutions, prompt workflows, and AI automation use cases.
+- Write clean, efficient, and maintainable Python code for AI/ML applications and automation workflows.
+- Work with frameworks and libraries such as TensorFlow, PyTorch, Scikit-learn, and other relevant AI/ML tools.
+- Assist with integrating APIs, AI models, and automation workflows into applications and business processes.
+- Collaborate with software engineers and other team members to develop, test, and improve AI-driven solutions.
+- Assist with testing, debugging, documentation, and deployment of AI/ML solutions.
+- Stay updated with emerging AI/ML, LLM, and automation technologies and contribute to continuous improvements.
+Requirements
+- 1-2 years of relevant hands-on experience in AI/ML, LLMs, or AI automation.
+- Good understanding of Machine Learning, Deep Learning, NLP, and general AI concepts.
+- Strong Python programming skills and familiarity with libraries such as NumPy, Pandas, and Scikit-learn.
+- Familiarity with LLMs, prompt engineering, RAG, or AI/agentic workflows is a plus.
+- Exposure to frameworks such as TensorFlow or PyTorch.
+- Basic understanding of REST APIs, webhooks, and integrating AI services is preferred.
+- Bachelor's degree in Computer Science, Artificial Intelligence, Data Science, or a related field.
+Soft Skill We Like To See
+- Excellent communication skills.
+- Problem-solving and analytical skills.
+- Attention to detail.
+- Adaptability and willingness to learn.
+- Ability to work in a team environment and collaborate effectively with others.
+Be a Part Of Our Team
+With a highly skilled and experienced workforce, we pride ourselves as a premier Company serving clients in diversified business verticals. We understand our customers and nurture passion when it comes to delivering end-to-end solutions. We believe in utilizing technology to make things simple and easy to us.
+We recognize that results are not tied to the number of hours put in to achieve them. There’s no reward for long hours with poor results and there’s no penalty for going home on time when you’re producing excellent work. We understand, to be great, most of us have to put in considerable effort, but hard work and long hours are not how we measure or talk about your contribution.
+We thank all candidates for their interest; however, only those selected will be contacted.
+Perks For Our Team Player
+- Paid Vacation and Holidays.
+- Collaborative and healthy working environment.

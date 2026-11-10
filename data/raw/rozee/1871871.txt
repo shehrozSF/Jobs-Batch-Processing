@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/codealpha-data-analyst-jobs-1871871
+title: Data Analyst
+company: CodeAlpha
+location: Pakistan
+scraped_at: 2026-09-04T05:14:19+00:00
+query: data analyst
+---
+
+CodeAlpha is seeking a detail-oriented Data Analyst to join our team. The ideal candidate will analyze data to help inform business decisions, create compelling data visualizations, and generate insightful reports. This role involves cleaning and preparing data sets, interpreting trends, and communicating findings efficiently to stakeholders. The position requires strong analytical skills and proficiency in multiple data analysis and visualization tools to support CodeAlpha’s strategic goals.
+
+The Data Analyst does not manage a team but collaborates closely with other departments to ensure data-driven decision-making across the organization. This role is essential in transforming raw data into actionable insights by leveraging advanced data manipulation and visualization techniques. The candidate will work with datasets using tools such as Tableau, Power BI, and pandas, focusing on accuracy, clarity, and usability of information presented.
+
+

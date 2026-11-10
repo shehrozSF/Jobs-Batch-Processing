@@ -1,0 +1,58 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=cdd02ac49f924b97
+title: Python Developer
+company: Robotics Technologies
+location: Asheville, NC
+scraped_at: 2026-09-04T04:07:22+00:00
+query: python developer
+---
+Python Developer
+Location: Remote
+Time Zone Preference: U.S. Eastern Time strongly preferred
+What You Will Do
+-
+- Build and maintain Python-based production systems
+-
+- Learn a complex third-party Python library inside and out
+-
+- Design and implement thorough unit tests
+-
+- Identify and explain subtle differences in outputs, edge cases, and numerical behavior
+-
+- Diagnose and resolve issues by reasoning through code and test results
+-
+- Write clear, maintainable, well-tested Python
+-
+- Communicate effectively with engineers and non-technical stakeholders
+-
+- Build and maintain data workflows using Microsoft Fabric
+-
+- Improve system reliability, performance, and clarity over time
+Absolute Requirements
+-
+- Strong proficiency in Python
+-
+- Proven ability to deeply learn and work with unfamiliar libraries
+-
+- Demonstrated high attention to detail in testing and validation
+-
+- Comfort reading source code to understand actual behavior
+-
+- Experience writing meaningful unit tests
+-
+- Excellent written and spoken English
+-
+- Ability to collaborate effectively in a remote environment
+-
+- Working hours that align well with U.S. Eastern Time
+Nice to Have
+-
+- Experience with Microsoft Fabric, including notebooks, Lakehouse, or Warehouses
+-
+- Experience validating numerical or data-driven outputs
+-
+- Strong debugging skills in production systems
+-
+- Background in numerical computing, optimization, or modeling
+-
+- Experience taking ownership of critical systems

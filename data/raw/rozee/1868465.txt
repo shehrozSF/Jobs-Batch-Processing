@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/exact-solutions-llc-ai-developer-jobs-1868465
+title: AI Developer
+company: Exact Solutions LLC
+location: Pakistan
+scraped_at: 2026-09-04T04:17:42+00:00
+query: python developer
+---
+
+Exact Solutions LLC is seeking a skilled and passionate AI Developer with over three years of professional experience in Python development. The ideal candidate must have strong expertise in Python and modern AI technologies, including backend development of scalable APIs using frameworks such as FastAPI, Flask, or Django. This role involves designing, developing, and maintaining AI-powered applications and integrating advanced Large Language Models (LLMs) to deliver intelligent and innovative solutions that meet evolving business needs. The developer will collaborate closely with cross-functional teams while independently managing complex development tasks in a fast-paced environment.
+
+The AI Developer focuses on leveraging AI frameworks and libraries including LangChain and LlamaIndex, as well as handling vector databases, SQL/NoSQL solutions, and cloud infrastructure to build robust and scalable AI systems. Responsibilities include developing Retrieval-Augmented Generation (RAG) pipelines, AI agents, and workflow automation while ensuring code quality, performance optimization, and thorough testing. The candidate is expected to stay current with emerging AI trends and best practices, contributing to the continuous innovation of Exact Solutions LLC’s AI capabilities.
+
+

@@ -1,0 +1,44 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4449221046
+title: Python Automation Engineer
+company: Edge
+location: Islāmābād, Pakistan
+scraped_at: 2026-09-04T03:58:48+00:00
+query: python developer
+---
+Hiring for Aiden Risk
+About the Role
+Aiden is looking for a Python Automation Engineer to help automate complex business processes and build scalable automation solutions. This role is ideal for someone who enjoys solving real-world problems through Python, automation frameworks, and system integrations.
+You will work closely with cross-functional teams to develop reliable automation workflows, integrate third-party services, and improve operational efficiency across the organization.
+Key Responsibilities
+- Design, develop, and maintain scalable Python automation solutions.
+- Build and optimize automation workflows for business and operational processes.
+- Develop and maintain reusable Python libraries and automation utilities.
+- Integrate applications with REST APIs, databases, and third-party platforms.
+- Build and maintain automation and testing frameworks using modern tools.
+- Monitor, troubleshoot, and optimize automation pipelines to ensure reliability and performance.
+- Write clean, maintainable, and well-documented Python code following best practices.
+- Collaborate with engineering and business teams to identify automation opportunities.
+- Participate in code reviews and contribute to continuous improvement initiatives. Required Qualifications
+- 2–6+ years of professional experience in Python development and automation.
+- Strong proficiency in Python and object-oriented programming.
+- Experience working with REST APIs and API integrations.
+- Solid understanding of SQL and relational databases.
+- Experience with Git and modern version control workflows.
+- Hands-on experience with browser automation frameworks such as Selenium, Playwright, or similar tools.
+- Familiarity with Python libraries including Pandas and NumPy.
+- Experience writing automated tests using frameworks such as pytest or unittest.
+- Strong analytical, debugging, and problem-solving skills.
+- Excellent communication and collaboration abilities. Preferred Qualifications
+Experience with any of the following is a plus:
+- Cloud platforms (AWS, Azure, or Google Cloud Platform)
+- Docker and containerized applications
+- CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins, Azure DevOps, etc.)
+- Message brokers such as Kafka or RabbitMQ
+- Linux environments and shell scripting
+- Asynchronous programming and multiprocessing in Python What We Offer
+- Opportunity to work on impactful automation projects.
+- Collaborative and innovative work environment.
+- Exposure to modern technologies and cloud platforms.
+- Career growth and continuous learning opportunities.
+- Competitive salary and benefits package. If you're passionate about automation and enjoy building scalable Python solutions that make a real impact, we'd love to hear from you.

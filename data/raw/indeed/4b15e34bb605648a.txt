@@ -1,0 +1,34 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=4b15e34bb605648a
+title: Python / AI Engineer
+company: Codivarium
+location: Islamabad
+scraped_at: 2026-09-04T05:32:37+00:00
+query: python developer
+---
+About the Role
+We are looking for a Python / AI engineer to design, build, and maintain a suite of autonomous AI agents that automate customer communications and back-office tasks. You will also be responsible for helping design a cost-effective hosting, inference strategy, and selecting the right models, providers, and infrastructure to keep our AI operations both powerful and affordable.
+Key Responsibilities
+- Design and build autonomous AI agents that handle multi-turn customer conversations, task automation, and workflow orchestration across email, WhatsApp, and telephony channels.
+- Develop and maintain agent pipelines: intent classification, entity extraction, context management, action execution, and human hand-off.
+- Integrate AI agents with the existing Laravel backend via APIs, queues, and webhooks.
+- Select, fine-tune, and evaluate LLMs for specific tasks — balancing capability, latency, and cost.
+- Design and implement the cloud hosting and inference infrastructure.
+- Monitor agent performance, track costs, and iterate on prompts and model choices to improve quality and reduce spend.
+- Write clear documentation for agent behaviour, system architecture, and operational runbooks. Required Skills & Experience
+- Experience with Python (3.11+).
+- Experience building production systems with LLMs — prompt engineering, RAG, function calling, and agent frameworks (LangChain, LlamaIndex, or custom implementations).
+- Understanding of cloud infrastructure (Digital Ocean).
+- Experience with at least one LLM API (OpenAI, Anthropic, Google, or open-source models via self-hosting).
+- Understanding of cost optimisation for LLM inference — token budgeting, caching, batching, and model selection.
+- Comfortable working with async Python, REST APIs, and message queues.
+- Strong problem-solving ability and a pragmatic approach to "good enough" AI. Nice To Have
+- Experience with Laravel or PHP (for easier integration with our backend).
+- Experience with telephony systems (RingCentral).
+- Experience deploying open-source LLMs (Llama, Mistral, Qwen, etc.) on cloud GPU instances.
+- Familiarity with vector databases (pgvector, Qdrant, Chroma) for RAG pipelines.
+- Experience with evaluation frameworks for LLM outputs (LangSmith, MLflow, custom eval sets). Pay: Rs200,000.00 - Rs300,000.00 per month
+Education:
+- Bachelor's (Preferred) Experience:
+- Python: 5 years (Preferred)
+- AI: 3 years (Preferred) Work Location: In person

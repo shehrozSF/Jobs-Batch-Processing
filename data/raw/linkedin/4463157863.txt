@@ -1,0 +1,31 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4463157863
+title: Software Engineer - E-Commerce (Remote)
+company: Hire Feed
+location: Pakistan
+scraped_at: 2026-09-04T03:59:32+00:00
+query: python developer
+---
+- Role : Software Engineer - E-Commerce (Remote)
+- Location : Remote (Work from Anywhere)
+- Job Type : Full-Time
+- Payout : $180K - $250K/yr
+Role Overview:
+We are hiring for one of our clients, seeking a Software Engineer, New Grad (Zara) to work on a full-time basis. The role involves developing scalable backend systems, optimizing algorithms, and collaborating with cross-functional teams to deliver high-performance solutions. You will contribute to mission-critical infrastructure supporting real-time user experiences across global platforms.
+Key Responsibilities:
+• Design, develop, and maintain scalable backend services in distributed systems.
+• Write clean, efficient, and maintainable code following best practices and testing standards.
+• Optimize system performance through profiling, debugging, and algorithmic improvements.
+• Participate in code reviews, architectural discussions, and technical design sessions.
+• Work closely with product managers, designers, and other engineers to ship features.
+Required Skills & Qualifications:
+• Proficiency in programming languages such as Go, Python, or Java.
+• Experience with distributed systems, microservices, or cloud-native development.
+• Familiarity with databases (SQL and NoSQL) and performance tuning.
+• Understanding of data structures, algorithms, and system design principles.
+• Experience with version control systems (e.g., Git) and CI/CD pipelines.
+More About the Opportunity:
+This role offers a unique opportunity to work with a global leader in the Technology, Information and Internet industry, contributing to high-traffic platforms serving millions of users. You will solve complex technical challenges while growing your skills in a collaborative, results-driven environment.
+Equal Opportunity Employer:
+We hire based on skills and expertise. All qualified candidates are welcome regardless of background, experience, or prior employment history. Applications are reviewed solely on demonstrated technical ability and qualifications.
+Apply Now!

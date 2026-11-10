@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/zam-software-solutions-software-quality-assurance-engineer-jobs-1868189
+title: Software Quality Assurance Engineer
+company: Zam Software Solutions
+location: Islamabad, Pakistan
+scraped_at: 2026-09-04T05:00:39+00:00
+query: software engineer
+---
+
+Zam Software Solutions is seeking a dedicated Software Quality Assurance Engineer with at least one year of experience to join their team. This role involves working closely on both manual and automated testing to ensure software products meet the highest quality standards. The engineer will develop detailed test plans, design test cases, and employ various testing strategies to identify software defects and ensure bug fixes are effective. While this position does not require managing a team, strong collaboration with development teams and other stakeholders is essential to support continuous improvement in product quality.
+
+The successful candidate actively participates in quality assurance processes, maintains comprehensive testing documentation, and prioritizes testing activities to align with project milestones. Applying expertise in automation frameworks and tools such as Selenium WebDriver, Java, Cucumber, and Postman API testing will be key. This role also fosters quality assurance best practices by adapting to new methodologies and technologies, promoting innovation in testing approaches, and providing clear communication throughout the software development lifecycle.
+
+

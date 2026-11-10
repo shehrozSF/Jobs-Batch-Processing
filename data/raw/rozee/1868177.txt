@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/apex-software-php-developer-jeddah-jobs-1868177
+title: PHP Developer
+company: Apex Software
+location: Jeddah, Saudi Arabia
+scraped_at: 2026-09-04T04:56:34+00:00
+query: python developer
+---
+
+Apex Software is looking for a skilled PHP Developer with strong expertise in backend development and a solid understanding of web application architecture. The ideal candidate has at least 2 years of practical experience working with the PHP language and the Laravel framework to develop and maintain high-quality web applications. This role requires proficiency in core web technologies such as HTML5, CSS3, and JavaScript, as well as experience with RESTful APIs and MVC architecture. Familiarity with database management using MySQL, version control systems like GitHub and GitLab, and object-oriented programming principles is essential. Candidates should also have knowledge of front-end frameworks including Bootstrap, jQuery, or Vue.js, which complements backend responsibilities.
+
+The PHP Developer at Apex Software works within an Agile team environment, focusing on writing clean, maintainable code and implementing secure, optimized solutions. This position requires a thorough understanding of authentication, authorization mechanisms, and web security best practices to safeguard application integrity. While this role does not involve managing a team, strong collaboration skills and problem-solving abilities are vital to successfully delivering robust software projects on schedule. Additional experience with API integrations, third-party services, and deployment on Linux servers is highly advantageous, enhancing the developer’s ability to contribute across the full development lifecycle.
+
+

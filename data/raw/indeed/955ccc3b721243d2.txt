@@ -1,0 +1,30 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=955ccc3b721243d2
+title: Python Developer
+company: O16 Labs
+location: Karachi
+scraped_at: 2026-09-04T05:32:37+00:00
+query: python developer
+---
+We’re Hiring – Python Developer
+O16 Labs is looking for an experienced Python Developer to join our growing development team.
+Position: Python Developer
+Experience: 3–5 Years
+Location: Mega Malls & Residency, Gulistan-e-Johar, Karachi
+Job Type: Full-Time, On-site
+Requirements:
+- Strong expertise in Python
+- Hands-on experience with FastAPI, Flask & SQL
+- Strong understanding of Data Structures & Algorithms
+- Good knowledge of Object-Oriented Programming (OOP)
+- Strong problem-solving skills
+- Bachelor’s degree in Computer Science, Software Engineering, or a related field If you’re an experienced Python Developer looking for an opportunity to work on challenging projects and grow with a collaborative team, we’d love to hear from you.
+Apply: Send your CV to hr@o16-labs.com
+Please note: Only shortlisted candidates will be contacted.
+Job Type: Full-time
+Pay: Rs100,000.00 - Rs180,000.00 per month
+Application Question(s):
+- Do you have any Experience with Django?
+- Do you have any Experience with Flask?
+- Do you have any Experience with FastAPI? Education:
+- Bachelor's (Preferred) Work Location: In person

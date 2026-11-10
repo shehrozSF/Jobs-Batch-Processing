@@ -1,0 +1,9 @@
+source: rozee
+url: https://www.rozee.pk/blizin-technologies-web-developer-lahore-jobs-1872483
+title: Web Developer
+company: Blizin Technologies
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T04:17:50+00:00
+query: python developer
+---
+Blizin Technologies is seeking an experienced Web Developer with at least five years of proven expertise in independently developing and managing websites. The ideal candidate is a skilled full stack developer with strong proficiency in Laravel and other web development technologies. This role requires a professional who can design, build, and maintain websites autonomously while ensuring high performance, responsiveness, and user experience. The Web Developer will play a crucial role in delivering robust web solutions from initial concept through deployment and ongoing maintenance. This position does not require team management but demands excellent self-motivation and problem-solving skills to handle the full lifecycle of website projects. The developer must work efficiently to meet deadlines and company objectives while collaborating with other departments when necessary. Attention to detail and a deep understanding of both front-end and back-end technologies are essential to succeed in this role.

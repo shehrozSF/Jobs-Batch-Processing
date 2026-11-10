@@ -1,0 +1,58 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4458706737
+title: Full Stack Engineer
+company: Harlyy
+location: Pakistan
+scraped_at: 2026-09-04T03:59:27+00:00
+query: python developer
+---
+*ONLY APPLICATIONS SUBMITTED VIA THIS FORM WILL BE REVIEWED: https://forms.gle/vAd54Zb9sARZraPk7
+Applying via linkedin, email, DM, or anywhere else won't be looked at*
+Role Summary:
+🌍 Remote, Pakistan
+💰 PKR 250,000–400,000/month
+🚀 High ownership, real product impact, and the opportunity to help build something at global scale.
+About Harlyy
+Harlyy is a guest experience platform for multi-unit restaurant chains. We started in feedback and complaint management, signed most of the enterprise chains in Pakistan, and are now expanding into the UK and select African markets.
+Over the last year we made a bet that shaped the company into what it is today and now we're making another one, bigger and bolder. We can't say much about it in a public post, but it's a category-defining move in a space that's getting crowded and commoditized, and the engineering we do over the next 12 months is what decides how far ahead we get. You'll hear the full picture in the interview.
+This is the most exciting moment in the company's history to join. We have doubled almost every quarter and now want to build technology that has never been done before.
+Our Goals and Mission
+Over the next 12 to 18 months:
+- Partner with over 20,000+ restaurant locations
+- Ship the next-generation platform across our core product lines and prove reliability at enterprise scale
+- Retain and expand our largest enterprise accounts in Pakistan through the new model
+- Win flagship logos in the US, UK and Africa
+- Close a 1 to 3 million USD raise if we choose to - you'll be part of that story and its outcome The system you help build is the difference between a product operators trust with real actions and one that gets switched off after the first mistake. That bar is the job.
+Long Term
+Build the leading global platform for guest experience - the one operators reach for when they want outcomes, not another dashboard. Beat incumbents on product speed and on what actually changes for the guest. Build a 100 million USD company inside the next decade with a team under 40, obsessed with revenue per employee and real profitability. Every early engineer here compounds - in the product, in the equity, and in the reputation of having built something no one thought possible at this size.
+What You Will Do
+- Build and maintain backend services using Java and Python, developing core product functionality, business logic and internal systems across new projects, feature work and ongoing maintenance.
+- Contribute to our infrastructure and deployment tooling, including Terraform, Ansible and related operational work.
+- Design and build APIs and integrations that connect our products, including our AI agents, with third-party platforms and internal systems.
+- Monitor and improve system reliability and performance using observability and debugging tools, investigating issues and using real-world system behaviour to drive improvements.
+- Work across the frontend as needed, with a focus on frontend features, UI improvements, bug fixes, and integrating new functionality with backend services.
+-
+Minimum Requirements
+- 3+ years of professional software engineering experience, with a strong focus on backend development.
+- Strong experience with backend software development, including building, maintaining and supporting production services in a modern programming language, like Java.
+- Experience designing and building REST APIs and microservices, including considerations around reliability, scalability and maintainability.
+- Experience integrating with third-party APIs and services.
+- A solid understanding of software engineering fundamentals, including testing, debugging, code quality and system design.
+- Strong communication and collaboration skills, with the ability to communicate clearly and confidently in conversational English, both verbally and in writing.
+- The ability to thrive in a remote environment, with a high level of autonomy and responsibility, with a entrepreneurial mindset.
+Preferred Qualifications
+- Experience with Python, particularly for tooling, automation or data processing.
+- Experience with Terraform, Ansible and cloud infrastructure, and a good understanding of deploying and operating production systems.
+- Experience with observability and monitoring tools such as Grafana, OpenTelemetry, Prometheus or similar.
+- Experience with frontend development, ideally with modern JavaScript/TypeScript frameworks, and the ability to comfortably make frontend changes.
+Compensation
+PKR 250,000 to 400,000 monthly. If you believe you bring more to the table, apply and show us why.
+Interview Process
+Stage 1, Application form (this one) DEADLINE: 6TH SEPTEMBER 23:59
+A short application form to help us get to know you and understand your background. You'll provide some basic information, upload your CV, tell us a little about yourself and answer a few short technical questions relevant to the role. The technical questions are designed to give us an initial sense of your experience and approach to problem-solving.
+Stage 2, Technical interview 1, 30 minutes
+A conversation focused on your technical experience and approach to software engineering. We'll discuss your previous work, backend development experience, APIs, systems you've worked with and how you approach solving technical problems. There will also be an opportunity to ask questions about the role and our technology.
+Stage 3, Technical interview 2, 60 minutes
+A deeper technical discussion covering backend architecture, APIs, microservices, databases, integrations and system design. We'll explore how you approach designing and building production systems, as well as troubleshooting and making engineering trade-offs. We'll also discuss areas such as infrastructure, observability and working across the stack.
+Stage 3, Final interview, 30 minutes
+A final conversation focused on how you work and what it's like to work together. We'll discuss communication, collaboration, ownership, problem-solving and working in a fast-moving startup environment. We'll also answer any remaining questions you have about the role, team and company.

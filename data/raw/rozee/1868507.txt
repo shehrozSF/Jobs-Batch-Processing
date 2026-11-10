@@ -1,0 +1,28 @@
+source: rozee
+url: https://www.rozee.pk/insara-senior-technical-developer-jobs-1868507
+title: Senior Technical Developer
+company: Insara
+location: Pakistan
+scraped_at: 2026-09-04T04:17:47+00:00
+query: python developer
+---
+Senior Technical Developer (Contract) Company: MiraModo Inc.
+Position: Senior Technical Developer (Contract)
+Commitment: 25–40 hours/week
+Location: Remote (Global)
+Timezone: Must overlap with U.S. Central/Eastern daytime hours
+Reports To: Founder
+The Role MiraModo Inc. is looking for a Senior Technical Developer to become the founder's primary implementation partner.
+You will work directly in a production codebase serving enterprise clients. The founder handles product direction, AI architecture, and client relationships — you own the building.
+This role combines full-stack development, ML/AI infrastructure, and specialized construction project controls .
+There are no management layers or unnecessary ticket bureaucracy. You'll work directly with the founder to design, build, test, and deploy production systems.
+Growth Path Months 1–2: Guided
+- Founder provides task specifications.
+- You design, implement, and submit pull requests.
+- Founder reviews and provides feedback. Months 3–4: Semi-Autonomous
+- Take broader feature briefs.
+- Propose technical approaches and architecture.
+- Handle production issues with less oversight. Month 5+: Trusted Technical Partner
+- Independently scope and deliver features.
+- Propose technical improvements.
+- Contribute to technical direction and architecture decisions.

@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/hm-enterprises-mechanical-engineer-for-gyeser-jobs-1872659
+title: Mechanical Engineer For Gyeser
+company: H&M Enterprises
+location: Faisalabad, Pakistan
+scraped_at: 2026-09-04T05:01:42+00:00
+query: software engineer
+---
+
+H&M Enterprises is seeking a skilled Mechanical Engineer for Gyeser who holds a Bachelor of Science degree in Mechanical Engineering and has at least two years of professional experience. The ideal candidate possesses a strong foundation in thermodynamics, fluid mechanics, and mechanical system design. This role involves working on product development and quality control of geyser systems, requiring expertise in hydraulic system design as well as proficiency with CAD software and advanced simulation techniques such as finite element analysis and computational fluid dynamics. The Mechanical Engineer will be responsible for ensuring products meet specifications and operate efficiently while applying principles of statistical process control to maintain high standards.
+
+This position offers an excellent opportunity for a motivated engineer to engage in project management activities and collaborate closely with cross-functional teams on the design and enhancement of mechanical components. Although this role does not involve managing a team, the candidate should be capable of independently handling assigned projects, analyzing data through control charts, and driving continuous improvement initiatives to support the company’s innovation and quality objectives.
+
+

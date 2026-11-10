@@ -1,0 +1,34 @@
+source: rozee
+url: https://www.rozee.pk/purelogics-technical-project-manager-jobs-1870082
+title: Technical Project Manager
+company: PureLogics
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T04:59:30+00:00
+query: python developer
+---
+We are seeking a motivated and goal-oriented Sr. Technical Project Manager/Technical Project Manager with a strong background in CS, Development & Data Analytics project execution. The ideal candidate will have a passion for solving complex business challenges and a proven ability to lead technical teams of up to 10 people. In this role, you will work closely with cross-functional teams to deliver projects on time and within scope.
+Requirements:
+- Experience: Minimum of 3 to 5 years of industry experience in project management, specifically within the tech or software development domain (Programming and Coding experience in python specifically in healthcare sector)
+- Agile Certified Practitioner (ACP) or Certified ScrumMaster (CSM) certification is Plus.
+- Proven ability to manage and lead teams of up to 10 people.
+- A strong understanding of the ethical use of GenAI and a commitment to optimizing day-to-day work with GenAI, ensuring ethical practices are followed.
+Required Skills:
+- Exceptional communication skills in English, both verbal and written.
+- Strong Project Management Skills.
+- Strong knowledge of Agile/Scrum Methodologies.
+- Strong interpersonal skills, with the ability to build consensus among diverse teams.
+- A goal-oriented mindset with a keen sense of responsibility for delivering results.
+- Inquisitive and business-focused, eager to understand the challenges faced by clients and how technology can address them.
+- Must obsess about new technology, constantly staying updated on the latest trends and innovations.
+About Us: PureLogics is a full services technology company with having presence in the USA, UAE, and in Lahore. Over the past 18+ years, we have matured from a narrowly-focused five-person team to a well-established technology hub with around employees. We’re CMMI Level 2 and ISO Certified company and highly acclaimed AWS consulting partners.
+The success of our business mainly lies in building a team of A-players, who work together and build together, and who crave perfection in everything they produce for our elite clients. We offer the opportunity to young and enthusiastic individuals that are eager to take on tough challenges under our mentorship toward a bright future.
+What are we offering?
+- Annual Paid Leaves
+- Leave Encashment
+- Paid Certifications
+- Health, Life Insurance
+- Provident Fund
+- Child Education Program
+- Referral Bonus Program
+- Monthly Achievements
+- Public Holiday & Weekend Compensation

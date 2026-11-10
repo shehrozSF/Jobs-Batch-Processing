@@ -1,0 +1,29 @@
+source: rozee
+url: https://www.rozee.pk/wordpress-developer-karachi-jobs-1871941
+title: WordPress Developer
+company: Zetech Solutions
+location: Karachi, Pakistan
+scraped_at: 2026-09-04T04:54:49+00:00
+query: python developer
+---
+Zetech Solutions is looking for a skilled WordPress Developer to join our on-site team in Gulshan-e-Iqbal, Block 3, Karachi. This full-time position involves building, customizing, and maintaining responsive WordPress websites that align with client requirements. The ideal candidate will have practical experience with WordPress and Elementor, strong problem-solving abilities, and the capacity to deliver high-quality websites within set deadlines. The role offers a competitive monthly salary between PKR 40,000 and 60,000, with working hours from Monday to Saturday, 6:00 PM to 3:00 AM.
+Key Responsibilities
+- Develop and customize WordPress websites according to project specifications
+- Use Elementor and other page builders to design engaging and user-friendly layouts
+- Customize themes and plugins to enhance website functionality and user experience
+- Troubleshoot and resolve website errors and layout issues efficiently
+- Create mobile-friendly, responsive web pages to ensure optimal performance across devices
+- Improve website speed, security, and overall performance
+- Manage regular updates and ongoing website maintenance tasks
+Required Qualifications
+- Proven hands-on experience with WordPress and Elementor page builder
+- Basic knowledge of HTML, CSS, and JavaScript
+- Ability to translate design concepts into fully functional websites
+- Strong understanding of responsive web design principles
+- Excellent problem-solving skills and keen attention to detail
+- Ability to manage multiple tasks and meet deadlines effectively
+- A portfolio showcasing previous WordPress projects is mandatory
+Additional Information
+Candidates shortlisted for this role will be required to complete a practical WordPress test as part of the selection process. Applicants should submit their CV along with a link to their website design portfolio. Those who have previously applied for WordPress-related positions at Zetech Solutions are requested not to reapply.
+This position requires on-site work at the Karachi office. The salary range is PKR 40,000 to 60,000 per month, with working hours from Monday to Saturday, 6:00 PM to 3:00 AM. During the application process, candidates will be asked to provide details about their current and expected monthly salary.
+Zetech Solutions is eager to welcome a dedicated WordPress Developer who is passionate about creating high-quality, responsive websites and contributing positively to the team’s success..

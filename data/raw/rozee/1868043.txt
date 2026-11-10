@@ -1,0 +1,47 @@
+source: rozee
+url: https://www.rozee.pk/black-and-white-osprey-shopify-developer-jobs-1868043
+title: Shopify Developer
+company: Black and White Osprey
+location: Karachi, Pakistan
+scraped_at: 2026-09-04T04:54:29+00:00
+query: python developer
+---
+Shopify Developer
+Job Type: Full-Time
+Work Location: Hybrid
+Job Description
+We are looking for a talented and motivated Shopify Developer to join our growing team. The ideal candidate should have experience in developing, customizing, and maintaining professional, responsive, and user-friendly Shopify websites.
+This is a great opportunity for a developer who enjoys working on creative e-commerce projects and wants to grow professionally in a collaborative hybrid work environment .
+Key Responsibilities
+- Develop, customize, and maintain Shopify websites and e-commerce stores.
+- Customize Shopify themes according to project requirements.
+- Work with Shopify apps and third-party integrations.
+- Create responsive and user-friendly online stores for desktop and mobile devices.
+- Optimize Shopify stores for speed, performance, and SEO.
+- Troubleshoot and resolve Shopify website issues and technical errors.
+- Integrate third-party tools, apps, payment gateways, and other required solutions.
+- Ensure websites are functional, secure, visually appealing, and easy to navigate.
+- Manage Shopify store updates, maintenance, and ongoing improvements.
+- Collaborate with design, marketing, and development teams.
+- Ensure a smooth and user-friendly shopping experience for customers. Requirements
+- Proven experience in Shopify development.
+- Strong understanding of Shopify themes, apps, and customization.
+- Experience with Shopify store development and e-commerce websites.
+- Knowledge of HTML, CSS, JavaScript, and Liquid.
+- Understanding of responsive web design and cross-browser compatibility.
+- Knowledge of Shopify store speed optimization and basic SEO practices.
+- Strong problem-solving and troubleshooting skills.
+- Good attention to detail and ability to meet deadlines.
+- Ability to work independently and as part of a team. Preferred Skills
+- Strong experience with Shopify Liquid.
+- Experience with Shopify Plus will be an advantage.
+- Experience with Shopify apps and third-party integrations.
+- Knowledge of Shopify API and custom integrations.
+- Experience with payment gateway integration.
+- Basic knowledge of UI/UX principles.
+- Experience with e-commerce store optimization and conversion-focused design. What We Offer
+- Hybrid work environment.
+- Opportunity to work on real-world Shopify and e-commerce projects.
+- Professional growth and learning opportunities.
+- Supportive and collaborative team environment.
+- Career development opportunities.

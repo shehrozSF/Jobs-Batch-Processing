@@ -1,0 +1,17 @@
+source: rozee
+url: https://www.rozee.pk/exact-solutions-llc-full-stack-javascript-developer-jobs-1868464
+title: Full Stack JavaScript Developer
+company: Exact Solutions LLC
+location: Pakistan
+scraped_at: 2026-09-04T04:55:56+00:00
+query: python developer
+---
+Exact Solutions LLC is seeking a skilled Full Stack JavaScript Developer with over three years of experience to join our dynamic team.
+The ideal candidate possesses strong expertise in modern JavaScript technologies including Node.js, Express.js, and is proficient in building cross-platform desktop applications using Electron.
+This role requires hands-on experience in both backend and frontend development to create scalable and responsive applications.
+The developer works closely with cross-functional teams to deliver robust features and solutions, ensuring code quality and maintainability.
+Though this role does not involve managing a team, it demands strong individual technical contributions and collaboration skills.
+The Full Stack JavaScript Developer is responsible for designing, developing, and maintaining web and desktop applications that meet business requirements.
+They will build scalable backend APIs leveraging Node.js and create responsive frontend interfaces using React.js or Next.js. Additionally, the candidate will develop Electron applications to support desktop environments and ensure seamless integration with third-party APIs.
+The role involves debugging, resolving complex technical issues, and following modern development practices such as Git workflows.
+Candidates must demonstrate a solid understanding of database technologies like MongoDB or SQL and possess strong problem-solving abilities to succeed in this position.

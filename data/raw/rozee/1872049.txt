@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/saz-recruit-engineer-pec-card-required-jobs-1872049
+title: Engineer PEC Card Required
+company: Saz Recruit
+location: Pakistan
+scraped_at: 2026-09-04T05:02:03+00:00
+query: software engineer
+---
+
+Saz Recruit is seeking qualified engineers holding a valid PEC (Pakistan Engineering Council) card for positions in mechanical, civil, and electrical engineering disciplines. Candidates must possess a current company attachment valid until June 2027. This opportunity targets engineers who require a PEC card or a company attachment for professional verification and licensing purposes. The recruitment process includes biometric verification through NADRA E-Sahulat to ensure authenticity and reliability. This role does not involve team management responsibilities and is suitable for individual contributors aiming to meet regulatory and certification standards in their engineering careers.
+
+The company focuses on maintaining a professional and streamlined process for engineers to secure their PEC card and company attachments. Candidates are expected to provide detailed information including their PEC number, engineering discipline, and passing year to proceed with the application. Engineers from any engineering department with the specified qualifications are encouraged to apply. This position supports continuous professional development and compliance with statutory engineering requirements, facilitating career growth within competitive engineering sectors.
+
+

@@ -1,0 +1,25 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=d719085fc8d98212
+title: AI/Python Developer Internship
+company: WPBrigade
+location: Sialkot
+scraped_at: 2026-09-04T05:32:37+00:00
+query: python developer
+---
+About the Role:
+We are looking for a AI/Python Intern to join our innovative AI team. The intern will assist in building, fine-tuning, and deploying Generative AI models for text, image, and other creative applications. This role offers hands-on experience with state-of-the-art AI tools and frameworks, including OpenAI models, LLMs, diffusion models, and prompt engineering techniques .
+Key Responsibilities:
+- Support in research and experimentation with Generative AI models (LLMs, Stable Diffusion, GPT, etc.).
+- Assist in prompt engineering , fine-tuning , and custom model training using available datasets.
+- Develop Python scripts and APIs to integrate AI features into applications.
+- Work with datasets for text, image, or audio generation tasks.
+- Collaborate with developers, designers, and data scientists to create AI-driven solutions.
+- Document project progress, model performance, and test results.
+- Stay updated on new trends and advancements in the field of Generative AI. Requirements:
+- Bachelor’s or Master’s degree ( completed) in Computer Science, AI, Data Science, or related fields .
+- Strong programming skills in Python .
+- Familiarity with Machine Learning and Deep Learning concepts.
+- Basic understanding of chatbots creation
+- Strong analytical and problem-solving mindset. Job Types: Full-time, Internship
+Pay: From Rs25,000.00 per month
+Work Location: In person

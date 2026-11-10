@@ -1,0 +1,66 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=5d1a126bf42af140
+title: Software Engineer
+company: Synapse Studios
+location: Tempe, AZ 85281
+scraped_at: 2026-09-04T05:31:02+00:00
+query: python developer
+---
+Overview of the Position
+We are hiring a Software Engineer (Platform / Product) to help build and evolve a modern internal platform that supports enterprise-grade software and AI-enabled products.
+While AI-enabled workflows are an important part of the platform's future, this role is not an ML or research role. This is a hands-on software engineering role for someone who enjoys designing and shipping real systems, taking ownership of how those systems behave in production, and working in environments where autonomy and judgment matter more than rigid process.
+This is a senior, backend-leaning full-stack role. We're looking for a strong backend engineer who is comfortable across the full stack — someone who can design and own APIs and the systems behind them, model data thoughtfully, and still move confidently on the frontend when the work calls for it. You will work on core platform capabilities, internal tools, and product-facing systems, and you'll be trusted to scope, plan, and execute larger bodies of work — whole features and product areas — not just well-defined tickets. Success in this role comes from strong software fundamentals, sound design judgment, comfort with continuous delivery, and a willingness to own work end-to-end, from design through deployment and iteration in production to support enterprise customers.
+We use AI-assisted development tools (including Claude Code) as a core part of how we build software today. We are looking for engineers who are genuinely excited about working this way. That excitement needs to be grounded in strong engineering fundamentals: AI tooling amplifies good engineers; it does not replace knowing how to code.
+Job Responsibilities
+- Design, build, test, and deploy high-quality software that supports development of customer-facing products
+- Take end-to-end ownership of features and the systems behind them, from initial design through production operation
+- Own backend work end-to-end: API design, data modeling, and integrations with databases, queues, and external systems
+- Build product-facing frontend end-to-end: component structure, state management, and integration with backend APIs
+- Scope, plan, and break down larger bodies of work (epics and whole product areas) into well-sized, prioritized work the team can deliver incrementally
+- Drive system and software design discussions, reasoning about tradeoffs, boundaries, and long-term maintainability, and weighing competing designs
+- Ship changes to production frequently using modern CI/CD pipelines and trunk-based development practices
+- Write automated tests (unit, integration, and where appropriate end-to-end) to support safe, continuous delivery
+- Participate in and improve DevOps practices, including build pipelines, deployment automation, and environment consistency
+- Debug, troubleshoot, and resolve issues in production systems, using logs, metrics, and monitoring tools
+- Actively monitor the behavior of systems you build and respond to failures or regressions
+- Improve system reliability, performance, and maintainability through refactoring, and recognize and pay down technical debt incrementally
+- Mentor and support other engineers, review their code with care, and help them grow into more complex work
+- Collaborate closely with other engineers, product partners, and clients to solve ambiguous problems, and communicate tradeoffs, progress, and risk clearly to both technical and non-technical audiences
+- Use modern development tools effectively, including AI-assisted tooling, where appropriate Qualifications
+- 5+ years of professional software engineering experience, with deep backend experience and genuine comfort across the full stack
+- Strong foundation in software engineering fundamentals, including system design, API and data modeling, testing, debugging, and code quality
+- Experience designing, building, and operating production systems end-to-end
+- Experience scoping and planning larger pieces of work, and breaking them down for incremental delivery
+- Hands-on experience with CI/CD pipelines and continuous delivery practices
+- Working knowledge of DevOps concepts such as deployment automation, environment consistency, and observability
+- Ability to operate effectively in environments with evolving requirements and limited upfront specification
+- Comfort taking ownership of outcomes, including production behavior, reliability, and ongoing improvement
+- Experience mentoring or leveling up other engineers, and communicating technical tradeoffs to both technical and non-technical stakeholders
+- Hands-on experience using AI-assisted development tools (e.g., Claude Code) as a regular part of your workflow; we work this way every day and want engineers who are excited about it, not just tolerant of it
+- Strong enough engineering fundamentals to review, reason about, and own the code you ship, regardless of how it was generated Tech Stack
+This is the tech we use and like. Specific experience with these languages and platforms is not required, but familiarity with any of these is ideal.
+- Node with TypeScript for backend services
+- NestJS
+- React with TypeScript (with Vite and Next)
+- AWS / Docker / ECS
+- Terraform
+- Playwright About Synapse Studios
+Synapse Studios is a product engineering studio that partners with companies to design, build, and scale high-quality software. We work closely with our clients to solve complex problems, often in ambiguous environments, and we invest heavily in our own internal platforms and tools that reflect how we believe modern software should be built.
+Our engineering culture is grounded in ownership, autonomy, and continuous delivery. Engineers at Synapse are expected to think beyond individual tasks and take responsibility for systems end-to-end, from design and implementation through deployment, monitoring, and iteration in production. We value speed and quality as complementary forces, not tradeoffs, and we rely on strong engineering fundamentals, automated testing, and CI/CD practices to support both.
+We're a team of builders. We like shipping real software, seeing it used, learning from what breaks, and making it better. We favor clear thinking over ceremony, judgment over checklists, and steady progress over perfect plans. If something is unclear, we talk about it. If something breaks, we fix it. If something can be improved, we improve it.
+A Final Note
+We know that great engineers don't always check every box, and we're not looking for perfection. We're looking for people who care about their craft, take ownership of their work, and want to keep getting better.
+If you're the kind of engineer who likes to build things that matter, ship them into the real world, learn from what happens next, and work with a team that values autonomy and trust, let's talk!
+Benefits:
+- 401(k)
+- 401(k) matching
+- Dental insurance
+- Flexible spending account
+- Health insurance
+- Health savings account
+- Paid time off
+- Parental leave
+- Referral program Application Question(s):
+- On a scale of 1-10 how would you rate yourself as a backend developer?
+- On a scale of 1-10 how would you rate yourself as a frontend developer? Experience:
+- Relational databases: 3 years (Preferred) Work Location: Hybrid remote in Tempe, AZ 85281

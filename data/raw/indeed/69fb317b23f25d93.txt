@@ -1,0 +1,39 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=69fb317b23f25d93
+title: Python developer for QA automation
+company: SysTellex Inc.
+location: Karachi
+scraped_at: 2026-09-04T05:34:01+00:00
+query: python developer
+---
+About the Role
+We are looking for a talented Python Developer with a strong networking background to join our innovative team. This role is perfect for someone who is passionate about leveraging Python to solve complex networking challenges, build scalable REST APIs, and automate complex testing processes. If you thrive in a collaborative environment and enjoy working on cutting-edge projects, this is the role for you!
+Key Responsibilities
+- Develop robust Python scripts and frameworks to automate and optimize network operations.
+- Design, develop, and maintain RESTful APIs for network automation, monitoring, and integration with internal/external systems.
+- Integrate third-party services and networking tools via REST APIs.
+- Implement and maintain network testing and automation solutions using PyATS.
+- Build and maintain end-to-end test automation workflows using tools like Playwright and Selenium.
+- Develop and execute QA automation strategies, including API testing, integration testing, regression testing, and performance testing.
+- Create automated test suites for REST APIs using frameworks such as Pytest or similar tools.
+- Collaborate with the networking and QA teams to design scalable, reliable, and testable solutions.
+- Troubleshoot and debug network-related issues in Python-based systems.
+- Contribute to improving system performance, reliability, and security through automation and testing best practices.
+- Participate in code reviews, CI/CD integration, and continuous improvement initiatives. Required Qualifications
+- Proficiency in Python programming, including experience with libraries and frameworks.
+- Strong experience in developing and consuming RESTful APIs.
+- Solid understanding of networking concepts, protocols, and troubleshooting.
+- Hands-on experience with PyATS for network testing and automation.
+- Experience in QA automation, including API and UI test automation.
+- Familiarity with web automation tools like Playwright and Selenium.
+- Experience with automated testing frameworks such as Pytest or similar.
+- Strong debugging and problem-solving skills.
+- Experience with version control systems (e.g., Git). Preferred Skills
+- Experience with CI/CD pipelines for deploying and managing automation scripts and test suites.
+- Familiarity with cloud networking and related tools.
+- Knowledge of containerization technologies (e.g., Docker).
+- Experience with performance testing and monitoring tools.
+- Knowledge of additional scripting languages or frameworks.
+- Excellent communication and team collaboration skills. Pay: Rs50,000.00 - Rs100,000.00 per month
+Education:
+- Bachelor's (Required) Work Location: In person

@@ -1,0 +1,42 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=1491efff745dfbaf
+title: Quality Assurance Automation Engineer - IT
+company: Uline
+location: Pleasant Prairie, WI 53158
+scraped_at: 2026-09-04T05:31:06+00:00
+query: python developer
+---
+Quality Assurance Automation Engineer – IT
+Corporate Headquarters
+12575 Uline Drive, Pleasant Prairie, WI 53158
+Shape quality user experiences through innovative test automation! As a Quality Assurance Automation Engineer for Uline’s IT department, you’ll use tools and technologies such as TestComplete and Playwright to develop automated tests, frameworks and scripts. Use your expertise to help deliver reliable, high-quality web applications that support our growing North American company.
+Careers Packed with Potential. Backed by 45+ years of success, Uline offers opportunities to grow your career with stability you can count on.
+Position Responsibilities
+- Build and enhance automated test frameworks for web, API and mobile applications using Playwright, TestComplete, TypeScript and JavaScript.
+- Partner with developers and IT teams to define best practices and create test cases that improve reliability and performance.
+- Integrate automated testing into CI/CD pipelines using technologies like Jenkins, GitLab and Azure DevOps to support continuous testing and feedback.
+- Execute and track automated and manual tests, working with developers to troubleshoot issues.
+- Document and share automation frameworks and test results, providing actionable recommendations based on findings.
+Minimum Requirements
+- Bachelor's degree in Information Technology, Computer Science or a related field.
+- 5+ years of scripting in QA Automation Engineering.
+- Experience programming with a modern language such as JavaScript and Typescript.
+- Proficient with SQL, API testing, GIT and Agile.
+- Experience with Azure DevOps or similar test management tool.
+Benefits
+- Complete health insurance coverage and 401(k) with 6% employer match that starts day one!
+- Multiple bonus programs.
+- Paid holidays and generous paid time off.
+- Tuition Assistance Program that covers professional continuing education.
+Employee Perks
+- On-site café and first-class fitness center with complimentary personal trainers.
+- Over four miles of beautifully maintained walking trails.
+About Uline
+Uline, a family-owned company, is North America’s leading distributor of shipping, industrial, and packaging materials with over 10,000 employees across 15 locations.
+Uline is a drug-free workplace. All new hires must complete a pre-employment hair follicle drug screening. All positions are on-site.
+EEO/AA Employer/Vet/Disabled
+#LIKK2
+#CORP
+(#IN-PPITL2)
+#ZR-ALLCORP
+Our employees make the difference and we are committed to offering exceptional benefits and perks! Explore https://www.uline.jobs/#working-here_blankUline.jobs to learn more!

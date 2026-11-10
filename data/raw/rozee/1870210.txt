@@ -1,0 +1,14 @@
+source: rozee
+url: https://www.rozee.pk/paragon-marketing-software-engineer-jobs-1870210
+title: Software Engineer
+company: Paragon Marketing
+location: Pakistan
+scraped_at: 2026-09-04T05:00:24+00:00
+query: software engineer
+---
+
+Paragon Marketing is seeking a skilled Software Engineer with at least two years of professional experience to join our dynamic technology team. The ideal candidate is proficient in Agile Methodologies and plays a key role in designing, developing, and maintaining efficient software solutions that align with our company’s goals. This role does not involve team management but requires a proactive approach to collaborating within multidisciplinary groups and delivering high-quality code on schedule.
+
+As a Software Engineer at Paragon Marketing, you will be responsible for transforming requirements into functional software features, constantly improving existing applications, and participating in code reviews to drive technical excellence. You engage closely with product managers and other stakeholders to understand business needs and implement scalable, reliable, and secure software components. Emphasis is placed on adaptability, continuous learning, and applying best practices in software development life cycles.
+
+

@@ -1,0 +1,38 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4453057807
+title: Senior AI Engineer – Agentic AI & Python
+company: Convo
+location: Islamabad, Islāmābād, Pakistan
+scraped_at: 2026-09-04T03:58:45+00:00
+query: python developer
+---
+Job Summary
+We are looking for a Senior AI Engineer to design and build production-grade Agentic AI and LLM-powered systems . The ideal candidate is a strong Python engineer with hands-on experience in RAG, multi-agent architectures, knowledge graphs, and modern agent protocols.
+Key Responsibilities
+- Design and develop Agentic AI and multi-agent systems using Python.
+- Build RAG, GraphRAG, knowledge graph, and ontology-driven AI solutions.
+- Develop agent workflows, multi-agent routing, orchestration, delegation, and shared memory.
+- Build high-performance AI backends and APIs using FastAPI.
+- Design and integrate Neo4j, relational databases, vector databases, and semantic/ontology-based data models and knowledge graphs with Workflows and business rules.
+- Develop and integrate MCP servers/clients and A2A protocols.
+- Work with Microsoft Agent Framework (MAF) and other modern agentic frameworks.
+- Build tool-using agents that interact with APIs, databases, enterprise systems, and external services.
+- Design reliable, scalable, observable, and production-ready AI architectures.
+Required Skills
+- Strong Python and backend engineering experience.
+- Hands-on experience with LLMs, RAG, Agentic AI, and multi-agent systems.
+- Experience with FastAPI and API development.
+- Strong knowledge of knowledge graphs, Neo4j, Multi-tenant ontology systems, and semantic data modeling.
+- Experience with agent memory, context management, and multi-agent routing.
+- Practical understanding of MCP and A2A protocols.
+- Experience with Microsoft Agent Framework (MAF) or comparable agent orchestration frameworks.
+- Experience with vector databases, relational databases, and modern search/retrieval technologies.
+- Strong understanding of production software engineering, scalability, testing, and system design.
+Experience
+- 6+ years of software engineering experience with significant experience building AI/LLM applications.
+- Demonstrated experience delivering production-grade AI or agentic systems.
+What We Offer
+- The opportunity to work on practical forecasting and predictive analytics solutions with measurable business impact.
+- Collaboration with experienced data, technology, and business teams.
+- Exposure to modern data platforms and scalable analytics workflows.
+- A professional environment that values continuous learning, innovation, and high-quality delivery.

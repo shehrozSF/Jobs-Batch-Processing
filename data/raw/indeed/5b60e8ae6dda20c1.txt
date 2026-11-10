@@ -1,0 +1,82 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=5b60e8ae6dda20c1
+title: Software Developer/Engineer (Python)
+company: Eniac Systems
+location: Edison, NJ 08817
+scraped_at: 2026-09-04T05:31:06+00:00
+query: python developer
+---
+Eniac Systems Inc is looking for a Software Developer/Engineer in Edison, NJ. The Software Developer/Engineer will be involved in all aspects of the technology development. This position will have significant impact on the future of the business and its technology solutions as we grow and expand our operations nationwide. The ideal candidate will be responsible for design, analysis, development, implementation, and deployment of new data driven web-based applications, as well as providing support for existing systems. The Software Developer/Engineer should be able to work independently and within a team of developers to deliver end-to-end web, BI solutions for moderate to complex projects in a fast-paced environment.
+Education: Bachelors or master’s degree
+TECHNICAL QUALIFICATIONS:
+The successful candidate will have experience within an agile environment and will have experience with a combination of back end and front-end experience using some of the following technologies:
+-
+- Python, Django, Flask, HTML, CSS, JavaScript, Jquery, Ember JS, PostgreSQL, and No-SQL
+RESPONSIBILITIES:
+-
+- Write well-written, self-documenting code that follows best practices and design patterns
+-
+- Design and implementation for low-latency, highly available, and performant web applications
+-
+- Integration with No-SQL databases and distributed systems
+-
+- Develop and maintain the software framework and services.
+-
+- Contribute to architecture and design activities.
+-
+- Interact with business analyst/Client(s) to understand business problem(s) being addressed by the project.
+-
+- Review the requirements and assess the work effort and estimate the necessary time-to-completion.
+-
+- Create unit test plans and scenarios for development unit testing.
+-
+- Work with peers to carry out code reviews and unit testing of new development.
+-
+- Document new development, procedures or test plans as needed.
+-
+- Interact with other development teams to ensure a consistent, uniform approach to software development.
+-
+- Closely follow software development best practices to maximize the predictability and success of project(s).
+-
+- Communicate professionally and effectively to clients, management, and other departments.
+-
+- Prepare technical design documents using enterprise standard documentation tools.
+-
+- Support system testing by following up on and closing defect tickets in a timely manner.
+-
+- Deploy all integration artifacts to a testing and production environments.
+-
+- Practice relentless automation, continuous integration, and continuous delivery
+Qualifications:
+-
+- Bachelor's degree in computer science/related field or equivalent experience
+-
+- Expert in Python with knowledge on at least one industry standard framework like Django, Flask, Jinja, Pyramid etc.
+-
+- Understanding of the threading limitations in python and multi-process architecture
+-
+- Familiarity with ORM libraries
+-
+- Knowledge about BI tools like Tableau, Qlikview etc.
+-
+- Knowledge about automation tools
+-
+- Able to integrate multiple data stores in one system
+-
+- Experience working with MongoDB
+-
+- Experience with Continuous Integration tools such as Jenkins
+-
+- Proficiency with Cloud technologies like AWS
+-
+- Thorough understanding of Object Oriented analysis and design principles
+-
+- Familiarity with event-driven programming
+-
+- Experience working with NoSQL databases and distributed systems
+-
+- Strong in designing and practicing REST standards while developing APIs
+-
+- Proficient in Git
+Location:1 Ethel Road, Suite#102 D-2, Edison, NJ 08817
+CV to Eniacsystems. 1 Ethel Road. Suite 102 -D2, Edison, NJ 08817 or E-Mail: info@eniacsys.com

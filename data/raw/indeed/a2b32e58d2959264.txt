@@ -1,0 +1,40 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=a2b32e58d2959264
+title: Backend and automation developer
+company: Ranktix
+location: Lahore
+scraped_at: 2026-09-04T05:34:04+00:00
+query: python developer
+---
+WE’RE HIRING – Backend & Automation Developer
+RankTix is looking for a talented Backend & Automation Developer with 1–2 years of experience to join our team.
+Location: Fazaia Housing near Raiwind Road Lahore
+Job Type: Full-Time | Onsite
+Working Hours: Monday–Friday, 9:00 AM–6:00 PM
+Salary: PKR 70,000–100,000/month (Negotiable based on skills & experience)
+Responsibilities
+Must Have experience in Kotlin and AI
+- Develop and maintain backend applications and APIs.
+- Build automation scripts and workflows.
+- Integrate third-party APIs and services.
+- Work with databases and optimize backend performance.
+- Troubleshoot and resolve technical issues.
+- Automate repetitive tasks and improve internal processes.
+- Write clean, scalable, and maintainable code.
+- Collaborate with development and SEO teams on automation projects. Requirements
+- 1–2 years of backend development experience.
+- Strong knowledge of Python, Node.js, PHP, or similar technologies .
+- Experience with REST APIs and API integrations .
+- Good understanding of SQL/databases .
+- Knowledge of Git/GitHub .
+- Experience with automation, scripting, or web scraping.
+- Strong problem-solving and debugging skills. Preferred Skills
+- Selenium or Playwright
+- Web scraping & data extraction
+- Cron jobs and scheduled automation
+- Cloud/deployment basics
+- SEO or digital marketing automation experience How to Apply
+Send your updated CV via WhatsApp at 0328-7650019 .
+Join RankTix and build smarter, automated solutions with us!
+Pay: Rs70,000.00 - Rs100,000.00 per month
+Work Location: In person

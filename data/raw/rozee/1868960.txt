@@ -1,0 +1,9 @@
+source: rozee
+url: https://www.rozee.pk/recruit-ai-junior-android-developer-kotlin-jobs-1868960
+title: Junior Android Mobile Developer (Kotlin)
+company: Recruit AI
+location: Lahore, Pakistan
+scraped_at: 2026-09-04T04:55:44+00:00
+query: python developer
+---
+We’re looking for a hands-on Android developer who can ship clean, reliable apps. You’ll work with Kotlin, Jetpack libraries, and modern architecture to build features end-to-end, from UI to network/storage, while collaborating with product, design, and backend.

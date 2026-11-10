@@ -1,0 +1,26 @@
+source: rozee
+url: https://www.rozee.pk/full-stack-developer-karachi-jobs-1872736
+title: Full Stack Developer
+company: MAC GROUP DUBAI
+location: Karachi, Pakistan
+scraped_at: 2026-09-04T04:54:44+00:00
+query: python developer
+---
+We are looking for a talented Full Stack Developer to join our team in Lahore. This role is essential for building and maintaining high-quality web applications that enhance our product’s performance and user experience. The successful candidate will have a solid grasp of both front-end and back-end development, enabling them to create seamless, efficient, and scalable solutions. This position offers the opportunity to work closely with various teams and contribute throughout the entire software development lifecycle.
+Key Responsibilities
+- Develop and maintain full-stack web applications using React and Node.js.
+- Design and implement APIs and manage database interactions to ensure data integrity and performance.
+- Ensure responsive design and cross-browser compatibility for a consistent user experience across devices.
+- Collaborate with designers and product managers to translate business requirements into technical solutions.
+- Troubleshoot, debug, and optimize applications to maintain high performance and reliability.
+Required Qualifications
+- Proven experience in full-stack development, particularly with React and Node.js.
+- Strong understanding of front-end technologies including HTML, CSS, and JavaScript.
+- Experience designing and consuming RESTful APIs.
+- Familiarity with database management and query optimization.
+- Ability to write clean, maintainable, and efficient code.
+- Strong problem-solving skills and attention to detail.
+- Excellent communication and teamwork abilities to work effectively with cross-functional teams.
+Preferred Qualifications and Benefits
+While not explicitly stated, candidates with experience in responsive design frameworks, version control systems like Git, and knowledge of cloud services or containerization will have an advantage. This role offers a collaborative work environment where innovation and continuous learning are encouraged, providing opportunities for professional growth and development.
+If you are passionate about creating impactful software and eager to contribute to a forward-thinking team, we encourage you to apply..

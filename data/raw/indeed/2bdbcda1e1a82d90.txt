@@ -1,0 +1,52 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=2bdbcda1e1a82d90
+title: Junior Developer
+company: ContentStudio
+location: Islamabad
+scraped_at: 2026-09-04T05:34:01+00:00
+query: python developer
+---
+Position: Junior Full Stack Developer
+Location: On-site, Bahria Town Phase 4, Rawalpindi
+Schedule: Monday - Friday, 9:00 AM - 6:00 PM
+About the Role
+We are looking for a Junior Full Stack Engineer to join our growing team at ContentStudio which is a leading content marketing and social media management platform. You'll be working closely with a senior software engineer to build, maintain, and enhance features across our product stack. This is an exciting opportunity for a motivated developer who wants to learn, grow, and contribute to a high-impact SaaS platform used by thousands of marketers worldwide.
+Responsibilities
+-
+Collaborate with the senior developer to design and implement new product features.
+-
+Develop front-end interfaces using React.
+-
+Build and maintain back-end services using Python, FastAPI, and Go.
+-
+Work with MongoDB, ClickHouse and other databases to manage and optimize data flows.
+-
+Debug, test, and document code to ensure high-quality, maintainable solutions.
+-
+Participate in code reviews and contribute to improving development best practices.
+-
+Support ongoing product maintenance, integrations, and performance optimization.
+Requirements
+-
+Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent experience).
+-
+Strong understanding of web development fundamentals (HTML, CSS, JavaScript).
+-
+Hands-on experience or academic exposure to React and Python.
+-
+Familiarity with Laravel, and Vue/React is a strong plus.
+-
+Good problem-solving skills and eagerness to learn new technologies.
+-
+Ability to work on-site in Bahria Town Phase 4, Rawalpindi.
+-
+Team-oriented attitude with excellent communication and collaboration skills.
+Why Join Us
+-
+Work directly on a globally recognized product.
+-
+Gain mentorship and hands-on experience from senior developers.
+-
+Collaborative and learning-focused environment.
+-
+Competitive compensation package

@@ -1,0 +1,9 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=c73e860dd552223f
+title: Custom App Developer
+company: Codex Sol
+location: Islamabad
+scraped_at: 2026-09-04T05:32:51+00:00
+query: python developer
+---
+We are looking for an experienced Make.com (formerly Integromat) Custom App Developer to design, build, and maintain custom integrations and automation modules for various APIs. The ideal candidate should have a strong understanding of RESTful APIs, JSON structures, authentication methods (OAuth2, API keys, etc.), and Make.com’s custom app framework.

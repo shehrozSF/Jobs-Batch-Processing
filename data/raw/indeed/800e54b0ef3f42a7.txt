@@ -1,0 +1,57 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=800e54b0ef3f42a7
+title: Python Developer
+company: Aktra
+location: McLean, VA
+scraped_at: 2026-09-04T05:30:55+00:00
+query: python developer
+---
+McLean, VA
+May 18, 2026
+Responsibilities
+-
+Modernize and optimize financial accounting and forecasting applications for scalability, performance, and maintainability.
+-
+Enhance forecasting engine capabilities to improve accuracy, efficiency, and enterprise readiness.
+-
+Support quarterly financial reporting production runs by monitoring execution, resolving issues, and ensuring accurate, timely outputs.
+-
+Troubleshoot defects, reduce technical debt, and implement engineering best practices.
+-
+Develop high-quality, testable code with strong unit and integration test coverage.
+-
+Collaborate across data, API, service, and infrastructure teams to deliver end-to-end solutions.
+-
+Partner with FP&A and stakeholders to deliver forecasting enhancements, scenario analysis, and regulatory requirements.
+-
+Support infrastructure upgrades, platform migrations, and adoption of new technologies.
+-
+Participate in design reviews, documentation, and collaborative problem-solving.
+Qualifications
+-
+5+ years of software development experience with Python, Java, or similar languages.
+-
+2–3 years of experience with Git, SQL, and relational databases.
+-
+Experience with containerization/orchestration tools such as Docker or Kubernetes.
+-
+Proficiency in shell scripting and automation.
+-
+Experience with automated testing frameworks (Pytest, JUnit).
+-
+Understanding of fixed income concepts such as duration, convexity, and OAS.
+-
+Strong communication, analytical, and problem-solving skills.
+-
+Familiarity with Agile development practices.
+Preferred Skills
+-
+Graduate degree in Computer Science, Mathematics, Statistics, or related field.
+-
+Knowledge of GAAP accounting principles.
+-
+CFA, FRM, CPA, or progress toward certification.
+-
+Experience working with stakeholders and gathering business requirements.
+-
+Familiarity with project management tools such as JIRA.

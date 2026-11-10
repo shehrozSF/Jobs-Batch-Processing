@@ -1,0 +1,39 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4461226940
+title: AI Engineer
+company: vFairs
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:46+00:00
+query: python developer
+---
+About Us
+vFairs is an all-in-one event management platform and Gartner Magic Quadrant Leader helping event planners power conferences, trade shows, and corporate events with in-person, hybrid, and virtual solutions. Our platform includes event registration, on-site badge printing, mobile apps, and more, managing the entire event lifecycle from planning through analytics. Rated 4.9/5 for customer support and recognized as a top platform on G2, we're known for robust technology and customer service that goes the extra mile. vFairs has a transparent, fast-paced, and collaborative culture, with geographically distributed teams united by strong processes and the autonomy to drive solutions forward.
+About The Role
+vFairs is looking for an experienced AI Engineer to help us build and scale AI-powered features within our virtual events platform. You'll work at the intersection of our core product and our AI agent infrastructure — designing, building, and shipping intelligent features that make events more engaging and easier to run for organizers and attendees alike.
+You'll join a small, high-leverage AI team at the center of that shift — the team responsible for the agents and AI-driven tooling behind our MCP server and support experiences today, and for the autonomous, customer-facing agents we're building next. This isn't a team bolted onto the side of the product: the agents you build will become one of the primary ways customers interact with vFairs, doing in minutes what currently takes an event organizer hours of manual setup.
+What You'll Do
+- Design and build fully autonomous AI agents that can independently plan, sequence, and execute the multi-step workflows required to build out a customer's event — from initial setup through configuration of sessions, booths, speakers, and content — with minimal human intervention
+- Architect multi-agent systems using LangGraph , including planner/executor patterns, task decomposition, sub-agent delegation, and recovery logic for handling partial failures or ambiguous instructions mid-task
+- Extend and maintain our MCP (Model Context Protocol) server as the primary interface through which these agents read and write vFairs event data — defining new tools, resources, and permissions as agent capabilities grow
+- Design the guardrails, validation, and human-in-the-loop checkpoints needed to let agents act autonomously on customer data while keeping actions safe, reversible, and auditable
+- Build robust evaluation and observability pipelines for agent behavior — tracking task success rate, drift, hallucinated actions, and cost/latency — and use them to drive iteration
+- Own the full lifecycle of Agentic features: from prototyping new capabilities, to hardening them for production, to monitoring how they perform against real customer events
+- Collaborate with product to translate "build my event" as a customer intent into a reliable, decomposed agent workflow — balancing autonomy against predictability and user trust
+- Work with our core engineering team (primarily PHP/Laravel/Vue) to integrate agentic services into the main application, including how agent actions surface and are reviewed in the UI
+- Stay current with the fast-moving agent ecosystem (frameworks, evaluation techniques, autonomy patterns) and bring in what's genuinely useful — skepticism of hype is as valuable as enthusiasm for new tools
+Requirements What We're Looking For
+- 6+ years of professional software engineering experience
+- Hands-on production experience building with LangGraph (or comparable agent orchestration frameworks) and FastAPI
+- Experience designing multi-step or multi-agent systems — not just single-turn chat/RAG — including task planning, tool orchestration, and error recovery
+- Strong Python skills, with experience designing and shipping LLM-powered applications (agents, RAG, tool-calling, structured outputs)
+- Experience with MCP (Model Context Protocol) or similar tool/agent-to-application integration patterns
+- Experience with vector databases (e.g., pgvector, Chroma) and SQL-based retrieval strategies
+- Solid understanding of LLM application architecture: prompt design, retrieval strategies, evaluation, and handling model limitations/failure modes in production
+- Judgment about autonomy: knowing when an agent should act independently versus pause for human confirmation, and how to design systems accordingly
+- Comfort working across the stack — from API design to deployment — and shipping features end-to-end
+- Strong communication skills and ability to work cross-functionally with product and non-AI engineering teams
+Nice to Have
+- Experience with PHP, Laravel, and Vue.js — our core application stack
+- Experience with multi-cloud infrastructure
+- Background in building customer-facing chatbots or support automation
+- Experience with WebSocket streaming for real-time AI interactions

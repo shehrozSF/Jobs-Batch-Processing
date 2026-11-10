@@ -1,0 +1,9 @@
+source: rozee
+url: https://www.rozee.pk/sidd-tech-financial-data-analyst-jobs-1861814
+title: Financial Data Analyst
+company: Smart Insider Pvt Ltd
+location: Pakistan
+scraped_at: 2026-09-04T05:14:37+00:00
+query: data analyst
+---
+Smart Insider Pvt. Ltd. is looking for a detail-oriented Financial Data Analyst to join our team. The ideal candidate will analyze global stock market disclosures and regulatory filings to produce accurate, high-quality financial data for institutional investors. This role requires strong analytical skills, attention to detail, and an interest in capital markets and corporate governance.

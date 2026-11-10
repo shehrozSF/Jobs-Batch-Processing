@@ -1,0 +1,43 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=a7c4503d1fb0abc5
+title: Software Developer - Java
+company: Uline
+location: Pleasant Prairie, WI 53158
+scraped_at: 2026-09-04T05:31:02+00:00
+query: python developer
+---
+Software Developer - Java
+Pay from $90,000 to $128,000 per year
+Corporate Headquarters
+12575 Uline Drive, Pleasant Prairie, WI 53158
+Are you ready to design, innovate and lead in a collaborative, cutting-edge tech environment? Uline is seeking a Java Software Developer to spearhead the development, deployment and maintenance of sophisticated Java applications. Your expertise will shape the tech landscape for our growing North American company!
+Careers Packed with Potential. Backed by 45+ years of success, Uline offers opportunities to grow your career with stability you can count on.
+Position Responsibilities
+- Craft, test and deploy robust Java applications aligned with business needs using industry-leading technologies and coding standards.
+- Conduct code reviews, optimize performance and ensure application responsiveness maintaining top-notch quality.
+- Assist in architectural design reviews and project planning, lending your insights for strategic advancements.
+- Guide and mentor fellow developers, exhibiting leadership in cross-functional development practices.
+- Collaborate closely with the development team to ensure consistent processes and timely deliverables.
+Minimum Requirements
+- Bachelor's degree in Computer Science, Software Engineering or relevant programming education and experience.
+- 4+ years of hands-on Java development, with a strong track record in enterprise solutions using Spring framework.
+- Extensive experience in REST web services, microservice environments, Git, JPA, SQL, JSON, SOAP, XML and code versioning tools.
+- Working knowledge of caching, service discovery, CI / CD tools and familiarity with Agile methodologies.
+- Uline does not participate in the H1-B lottery.
+Benefits
+- Complete health insurance coverage and 401(k) with 6% employer match that starts day one!
+- Multiple bonus programs.
+- Paid holidays and generous paid time off.
+- Tuition Assistance Program that covers professional continuing education.
+Employee Perks
+- On-site café and first-class fitness center with complimentary personal trainers.
+- Over four miles of beautifully maintained walking trails.
+About Uline
+Uline, a family-owned company, is North America’s leading distributor of shipping, industrial, and packaging materials with over 10,000 employees across 15 locations.
+Uline is a drug-free workplace. All new hires must complete a pre-employment hair follicle drug screening. All positions are on-site.
+EEO/AA Employer/Vet/Disabled
+#LI-KK2
+#CORP
+(#IN-PPITL2)
+#ZR-ALLCORP
+Our employees make the difference and we are committed to offering exceptional benefits and perks! Explore https://www.uline.jobs/#working-here_blankUline.jobs to learn more!

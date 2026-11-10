@@ -1,0 +1,74 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4458647190
+title: Forward Deployed Engineer
+company: Mammoth-AI
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:59:57+00:00
+query: python developer
+---
+About the Role
+We are looking for a Forward Deployed Engineer (FDE) who sits at the intersection of engineering, AI, product, and enterprise customers.
+You will work directly with customers to understand complex business and technical problems, rapidly build and deploy solutions, integrate AI into real-world workflows, and turn customer feedback into scalable product capabilities.
+This is not a traditional software engineering role. You should be comfortable moving from a customer meeting → technical architecture → prototype → production deployment without needing separate teams for every step.
+What You’ll Do
+Work directly with enterprise customers to understand their technical and business challenges.
+Translate ambiguous customer requirements into practical technical solutions.
+Design, build, test, and deploy production-grade applications and AI-powered solutions.
+Develop prototypes and proof-of-concepts rapidly to validate ideas.
+Integrate LLMs, AI agents, APIs, databases, and enterprise systems.
+Build integrations with platforms such as CRM, ERP, DevOps, cloud, data, and collaboration tools.
+Deploy solutions into customer environments and troubleshoot issues in production.
+Work closely with product and engineering teams to convert recurring customer requirements into core product features.
+Own technical delivery from discovery through deployment and adoption.
+Create reusable frameworks, integrations, and accelerators that reduce future deployment time.
+Participate in customer workshops, technical demos, architecture discussions, and solution design sessions.
+Communicate technical concepts clearly to both engineers and senior business stakeholders.
+Identify opportunities to expand customer use cases and demonstrate additional product value.
+AI & Engineering Responsibilities
+Build applications using modern AI/LLM technologies.
+Work with LLM APIs, RAG, vector databases, AI agents, tool calling, evaluation frameworks, and AI orchestration.
+Develop reliable AI workflows with appropriate monitoring, testing, security, and guardrails.
+Build APIs and backend services required to operationalize AI solutions.
+Work with cloud platforms and modern deployment practices.
+Understand software architecture, databases, authentication, APIs, microservices, and distributed systems.
+Rapidly evaluate new AI technologies and determine where they can create meaningful customer value.
+What We’re Looking For
+Required
+3–7+ years of professional software engineering, solutions engineering, implementation engineering, or a similar technical role.
+Strong programming experience in Python, JavaScript/TypeScript, Java, Go, or similar.
+Experience building and deploying production applications.
+Strong understanding of APIs, databases, cloud platforms, and software architecture.
+Experience working directly with customers or enterprise stakeholders.
+Strong problem-solving skills and ability to operate with ambiguous requirements.
+Excellent communication and presentation skills.
+Ability to work independently and move quickly from concept to implementation.
+Strong understanding of modern AI/LLM capabilities and limitations.
+Preferred
+Experience building AI agents, RAG systems, copilots, or LLM-powered applications.
+Experience with OpenAI, Anthropic, Gemini, or other leading AI APIs.
+Experience with AWS, Azure, or GCP.
+Experience with Docker, Kubernetes, CI/CD, and modern DevOps practices.
+Experience integrating enterprise platforms such as Salesforce, ServiceNow, SAP, Microsoft, Jira, GitHub, or similar.
+Startup experience where you have had to wear multiple hats.
+Experience working with Fortune 500 / enterprise customers.
+Experience in consulting, professional services, solutions architecture, or technical implementation.
+Experience taking prototypes into production.
+The Ideal Candidate
+You are a builder first.
+You don’t wait for a perfect specification. You can sit with a customer, understand the problem, sketch a solution, build a working prototype, get feedback, and turn it into production software.
+You are equally comfortable:
+Talking to a CTO → writing Python → designing an API → configuring an LLM → debugging production → presenting the solution to an executive.
+You thrive in fast-moving environments and enjoy solving problems that don’t have obvious answers.
+Success in This Role
+Your success will be measured by:
+Speed from customer problem to working solution.
+Successful deployment and adoption of customer solutions.
+Customer satisfaction and technical outcomes.
+Quality and scalability of implementations.
+Number of reusable capabilities created from customer engagements.
+Reduction in deployment and implementation time.
+Ability to identify and unlock new customer use cases.
+Contribution to the evolution of the core product.
+Why Join Us
+This is an opportunity to work at the frontier of enterprise AI, solving real problems with customers rather than building AI in isolation.
+You will have significant ownership and exposure across AI, engineering, product, enterprise architecture, and customer strategy, with the opportunity to directly influence what we build next.

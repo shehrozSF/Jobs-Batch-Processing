@@ -1,0 +1,38 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4452784187
+title: Backend Python Developer
+company: Navigator HR Consulting Solutions
+location: Lahore, Punjab, Pakistan
+scraped_at: 2026-09-04T03:58:20+00:00
+query: python developer
+---
+We are looking for a good Backend Python Developer with 2+ years of professional experience to join our development team.
+Tech Stack:
+Python 3.11, Flask, PostgreSQL, RabbitMQ, Docker, pytest, AWS
+Key Responsibilities:
+- Build and maintain REST API endpoints with Flask and Flask-RESTX.
+- Write clean and scalable backend code
+- Work with PostgreSQL, complex SQL queries, indexes, migrations, and reporting
+- Write automated tests using pytest
+- Debug applications using Docker Compose
+- Follow existing architecture, coding standards, and ticket requirements
+Must have
+- 2+ years writing Python for production backends.
+- Solid experience building REST APIs (Flask, or FastAPI and willing to learn Flask).
+- Strong PostgreSQL and SQL. You can write multi-table joins and aggregations, read a query plan, and add the right index.
+- Experience with database migrations and schema changes on a live system.
+- Docker and Docker Compose for local development.
+- Automated testing (pytest or similar).
+- Good written English and communication skills
+Nice to have
+Message queues (RabbitMQ) and background worker services.
+AWS S3, EC2, ECR.
+Pandas and building data import or ETL pipelines.
+Reporting work: materialized views, rollup tables, caching.
+LLM work LangChain, LangGraph, or the Anthropic and OpenAI APIs.
+PostGIS or other map and location data.
+Location : Valencia
+Salary Slot: 150k to 180k
+Timing: 10:00 AM to 7:00 PM monday to friday
+Gender Preference: Male
+Communication Skill: Excellent

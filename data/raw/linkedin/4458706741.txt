@@ -1,0 +1,60 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4458706741
+title: Software Engineer - Python - Islamabad
+company: Devsinc
+location: Islamabad, Islāmābād, Pakistan
+scraped_at: 2026-09-04T03:58:00+00:00
+query: python developer
+---
+Devsinc is seeking a highly skilled and experienced Software Engineer - Python Developer to join our growing team. In this role, you will lead the design and development of robust Python applications, working in a collaborative environment to create scalable software solutions. You will be responsible for guiding junior developers, optimizing existing code, and contributing to the overall architecture of our projects.
+Key Responsibilities:
+- Design, develop, and maintain complex Python applications and services
+- Lead architectural discussions and make strategic decisions on technology stacks and approaches
+- Optimize applications for maximum speed and scalability
+- Mentor and support junior developers, fostering professional growth and best practices
+- Conduct code reviews to ensure high-quality code and adherence to best practices
+- Collaborate with cross-functional teams to define, design, and implement new features
+- Troubleshoot and debug applications, resolving any issues that arise
+- Stay updated with emerging technologies and industry trends to champion innovative solutions within the team
+Requirements
+- Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent experience)
+- 2-3 years of hands-on experience in Python development
+- Strong proficiency in at least one framework: Django, Flask, or FastAPI
+- Experience with frontend technologies (e.g., JavaScript, React, or similar frameworks)
+- Solid understanding of RESTful API design and development
+Experience working with database s:
+- SQL (PostgreSQL or MySQL)
+- Basic exposure to NoSQL (MongoDB or Redis)
+- Familiarity with Git and collaborative development workflows
+- Understanding of software design principles (e.g., SOLID, clean code)
+Basic knowledge of system architecture concepts:
+- Monolithic applications
+- Introduction to microservices architecture
+- Experience writing unit tests (pytest or unittest)
+- Basic exposure to Docker and containerization
+- Strong problem-solving and communication skills (both verbal/non-verbal)
+Nice-to-Have Skills
+- Experience with multiple Python frameworks (e.g., Django + FastAPI)
+- Hands-on experience with microservices architecture and service communication
+- Exposure to cloud platforms (AWS, GCP, or Azure)
+- Familiarity with CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins)
+- Experience with caching and background processing (Redis, Celery, RQ)
+- Understanding of authentication mechanisms (JWT, OAuth2)
+- Basic knowledge of Kubernetes or container orchestration
+- Experience with monitoring/logging tools (Prometheus, Grafana, ELK stack)
+- Familiarity with Agile/Scrum methodologies
+What We're Looking For
+- Strong ownership and a proactive mindset
+- Ability to quickly understand and contribute to existing codebases
+- Willingness to learn and adapt in a fast-paced environment
+- Good collaboration skills and clear communication
+Bonus (Optional)
+- Exposure to production-scale systems or high-traffic applications
+Benefits
+- Provident Fund
+- Medical Inpatient & Outpatient Facilities
+- Paid Overtime
+- In-house Subsidized Lunch & Dinner
+- Gym Facility
+- Engaging Company Activities
+- Sports Allowance

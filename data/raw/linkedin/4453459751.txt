@@ -1,0 +1,45 @@
+source: linkedin
+url: https://www.linkedin.com/jobs/view/4453459751
+title: AI Forward Deployed Engineer
+company: Loubby AI
+location: Pakistan
+scraped_at: 2026-09-04T03:59:55+00:00
+query: python developer
+---
+Build the AI systems businesses will run on. Location: Global / Remote
+Engagement: Full-Time and Long-Term Opportunities
+Experience: Mid-Level to Senior Software Engineers
+Training: Fully Sponsored for Qualified Candidates
+About the Opportunity Loubby AI is building a global network of AI Forward Deployed Engineers who work directly with businesses to turn AI opportunities into production-ready systems.
+This role sits at the intersection of software engineering, AI, automation, product thinking and business strategy. You will learn how a business operates, identify high-value opportunities for AI, design the right solution, deploy it and continuously improve it.
+Projects may include automating operational workflows, building RAG-powered knowledge systems, developing AI sales research workflows, deploying intelligent customer support systems or creating custom internal applications.
+What You’ll Do
+- Conduct AI discovery sessions with founders, executives and operational teams
+- Analyze business processes and identify high-value AI and automation opportunities
+- Prioritize opportunities based on business impact, feasibility and risk
+- Design and build agentic AI systems, workflow automations and internal tools
+- Integrate AI with APIs, databases, CRMs and enterprise applications
+- Build with platforms and tools such as OpenAI, Claude, n8n and Make
+- Implement human-in-the-loop workflows where judgment or approval is required
+- Test, deploy, monitor and continuously improve production systems
+- Communicate technical decisions clearly to non-technical stakeholders What We’re Looking For
+- 3+ years of professional software engineering experience
+- Strong experience with JavaScript/TypeScript, Python, Java or another modern programming language
+- Experience working with APIs, databases and integrations
+- Strong software engineering and problem-solving fundamentals
+- Excellent written and spoken communication
+- Comfort working directly with customers and business leaders
+- The ability to work independently without perfectly defined requirements
+- Strong ownership, curiosity and a genuine interest in AI AI Experience Is an Advantage, Not a Requirement Experience with LLM APIs, RAG systems, vector databases, AI agents, workflow automation platforms, cloud infrastructure or enterprise integrations is valuable but not essential.
+Qualified mid-level and senior software engineers will receive fully sponsored, tutor-guided AI Forward Deployed Engineering training. The program is designed to help strong engineers transition from traditional software development into practical, production-focused AI engineering.
+What You Get
+- Fully sponsored AI Forward Deployed Engineering training
+- Practical experience solving real business problems
+- Access to modern AI and automation tools
+- Opportunities to work with businesses in the United States, Canada and other markets
+- Potential long-term customer engagements
+- Continuous technical and professional development
+- Access to a global community of developers and AI practitioners
+- A career path at the intersection of AI, engineering and business strategy
+Loubby has helped more than 2,000 businesses connect with talent and built an ecosystem reaching more than 150,000 professionals.
+If you are a strong software engineer who wants to help businesses turn AI into real operational capability, apply to join Loubby AI’s network of AI Forward Deployed Engineers.

@@ -1,0 +1,16 @@
+source: rozee
+url: https://www.rozee.pk/eq-enabling-qapital-credit-risk-analyst-all-cities-jobs-1872696
+title: Credit Risk Analyst
+company: EQ Enabling Qapital
+location: Pakistan
+scraped_at: 2026-09-04T05:15:14+00:00
+query: data analyst
+---
+Enabling Qapital Ltd. (EQ) is a FINMA-regulated, leading Swiss impact asset manager dedicated to a world where investments generate financial, social, environmental and economic returns.
+With over USD 900 million in assets under management, Enabling Qapital invests through private debt and listed bonds, pursuing strategies focused on financial inclusion, access to energy/clean cooking as well as emerging market bonds. EQ has a global team of more than 65 professionals representing 14 nationalities and speaking 21 languages.
+Enabling Qapital is moving money to meaning.
+Role Summary:
+You will be part of the Investment Product Management (IPM) team, the second line of defense in the management of product/fund risks at EQ. IPM supports the Investment and Risk teams at all stages of the investment process to ensure country, fund and investee risks are accurately identified, assessed, mitigated, monitored and reported.
+We are looking for a highly motivated and intellectually curious analyst to help strengthen EQ's portfolio monitoring, risk reporting, and analytical capabilities. This role combines data analysis, reporting, and tool development, with a strong focus on Excel and Power BI-based monitoring and risk management processes.
+You will work closely with experienced investment and risk professionals to produce risk reports, maintain monitoring tools, investigate portfolio developments, and improve the quality and efficiency of internal processes. Success in this role requires more than technical skills; it requires critical thinking, ownership, attention to detail, and a genuine willingness to learn and contribute.
+Over time, the role offers significant exposure to credit risk management, impact investing, portfolio monitoring, and investment processes across emerging markets.

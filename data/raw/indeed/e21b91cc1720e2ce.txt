@@ -1,0 +1,26 @@
+source: indeed
+url: https://www.indeed.com/viewjob?jk=e21b91cc1720e2ce
+title: OSI Tester
+company: Apptree
+location: Livonia, MI 48154
+scraped_at: 2026-09-04T05:31:06+00:00
+query: python developer
+---
+Overview
+We are seeking a highly skilled OSI Tester to join our dynamic Reflash Project Team. This is a 2 -3-week client project that requires a qualified candidate to be certified in OSI testing. In this role, you will be responsible for utilizing testing equipment to make sure the product's display powers up and is functioning as intended after software update. The ideal candidate will possess extensive experience in software testing methodologies, automation frameworks, and a strong understanding of operating systems and network protocols. Your contributions will be pivotal in delivering high-quality solutions that meet rigorous standards and client expectations.
+Duties
+- Execute manual and automated tests across on product display
+- Perform functional, system, performance, load, and user acceptance testing to validate application stability and usability
+- Analyze test results with data analysis and prepare comprehensive reports for the client
+- Maintain thorough documentation of test cases, defect logs, and testing procedures to ensure traceability and compliance.
+- Rewrap and repack the display into the box that it was packaged in. The operators will move it to the outgoing pallet Skills
+- Proven expertise in software testing tools such as Selenium, HP ALM, JUnit, TestNG, LoadRunner, Cucumber, and Jenkins
+- CompTIA Network+ certified is preferred (physical cabling up to application protocols)
+- CCNA- Cisco Certified Network Associate certification preferred
+- Experience with mobile testing on Android and iOS platforms; familiarity with mobile applications testing frameworks.
+- Understanding of network concepts such as computer networking protocols and service-oriented architecture (SOA).
+- Ability to perform root cause analysis; excellent debugging skills across multiple operating systems including Windows and Linux.
+- Strong analytical skills combined with attention to detail; capable of performing load testing and performance analysis using LoadRunner or similar tools.
+- Knowledge of cloud platforms like AWS or Azure is a plus; understanding of DevOps practices for seamless integration between development and operations teams.If you are passionate about ensuring software quality through meticulous testing processes and innovative automation solutions, we encourage you to apply today! Pay: $25.00 per hour
+Expected hours: 40.0 per week
+Work Location: In person

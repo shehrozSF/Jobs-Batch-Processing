@@ -1,0 +1,40 @@
+source: indeed
+url: https://pk.indeed.com/viewjob?jk=0f28e8911be4d308
+title: Python Django Developer
+company: Eurus Technologies
+location: Islamabad Gpo
+scraped_at: 2026-09-04T05:32:40+00:00
+query: python developer
+---
+Location: Islamabad
+Positions: 3
+Mode of work: On-site
+We are seeking a skilled and motivated mid-level Python Django Developer to join our team. You will play a key role in developing and maintaining scalable, efficient web applications. If you are passionate about backend development and delivering high-quality solutions, we’d love to hear from you!
+Qualifications:
+- 3+ years of solid application development experience with Python Django framework.
+- Must be a pro level backend developer, especially with Python Django.
+- Hands-on experience with MySQL and MongoDB.
+- Knowledge of modern authorization mechanisms, such as JSON Web Token.
+- Familiarity with RESTful APIs.
+- Experience with Serverless framework and AWS/Azure services is preferred.
+- Expertise with Dockerizing applications is preferred.
+- Solid understanding of Version Control principles, using Git / GitHub / Bitbucket.
+- Familiarity with Agile/Scrum
+- Good communication skills (VERBAL & WRITTEN) Education:
+- Bachelor's degree in IT / Software Engineering / Computer Science. Responsibilities:
+- Develop web applications from concept to completion with light supervision.
+- Develop web applications using Python, Django, MySQL / MongoDB.
+- Writing reusable, testable, and efficient code
+- Integrating web applications with backend RESTful APIs.
+- Maintain existing applications, improving performance, fixing bugs and adding new modules.
+- Identify, troubleshoot, and solve complex problems
+- Work with clients, understanding their requirements and building solutions to exceed expectations. Compensation and Benefits:
+- Market Competitive Salary
+- Personal and Family Medical Insurance
+- Personal Life Insurance
+- Parental Medical Insurance
+- Personal and Family OPD
+- Paid Time-off
+- EOBI
+- Paid Technical Certifications Job Type: Full-time
+Work Location: In person

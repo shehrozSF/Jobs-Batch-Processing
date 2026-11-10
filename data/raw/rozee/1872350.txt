@@ -1,0 +1,23 @@
+source: rozee
+url: https://www.rozee.pk/flutter-developer-islamabad-jobs-1872350
+title: Flutter Developer
+company: Tknack Digital Marketing Agency
+location: Islamabad, Pakistan
+scraped_at: 2026-09-04T04:55:50+00:00
+query: python developer
+---
+Tknack Digital Marketing Agency, a leader in digital marketing and software development, is looking for a talented Flutter Developer with 1-2 years of software development experience. The successful candidate will play a key role in designing and building engaging, user-friendly mobile applications for both Android and iOS platforms. This position requires collaboration on feature development, debugging, and software design to ensure the delivery of high-quality mobile app experiences that meet client expectations.
+Key Responsibilities
+- Develop intuitive and engaging user interactions for mobile applications across Android and iOS platforms.
+- Consistently deliver well-defined features of small to medium complexity within project timelines.
+- Identify, debug, and resolve issues encountered during development, testing, and production phases.
+- Actively participate in software design discussions, contributing ideas for new features and bug fixes.
+Required Qualifications
+- Bachelor’s degree in Computer Science or a related technical field.
+- 4+ years of professional experience in web development, with a focus on building data-centric applications using modern JavaScript frameworks.
+- Expert-level proficiency in Flutter development tailored for both Android and iOS environments.
+- Strong understanding of visual information display principles and user interface design.
+- Deep knowledge of Android or iOS application architecture and implementation best practices.
+- Experience with popular libraries related to networking, asynchronous operations, and image loading.
+- Action-oriented approach combined with excellent analytical and creative problem-solving skills.
+This role offers the opportunity to work within a dynamic agency environment that values innovation and quality in mobile app development. Candidates who are passionate about mobile technologies and have a solid foundation in Flutter are encouraged to apply and contribute to exciting projects that push the boundaries of digital engagement..
